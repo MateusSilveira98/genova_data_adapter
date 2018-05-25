@@ -1,5 +1,5 @@
 const service = require('../services/index')
 
 test('Should show JSON', () => {
-    console.log(service.createEmpresa())
+    expect(service.getEmpresas().length > 0).toBe(true);
 });
