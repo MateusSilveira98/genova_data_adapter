@@ -2,8 +2,7 @@ const EmpresasJSON = require('../empresas-filhas.json');
 const _ = require('lodash');
 const fs = require('fs');
 const csv = require('fast-csv');
-const excelParser = require('excel-parser');
-
+// const csv = require('csv');
 
 let empresa = {
   razao_social: '',
@@ -32,15 +31,15 @@ let empresa = {
   propriede_intelectual: false,
   colaboracao: false,
   spinoff: false,
-  area_de_atuacao: []
+  area_de_atuacao: [],
+  telefone: '',
+  facebook: '',
+  twitter: '',
+  linkedin: '',
+  instagram: '',
+  complemento: '',
+  github: ''
 }
-// telefone: '',
-// facebook: '',
-// twitter: '',
-// linkedin: '',
-// instagram: '',
-// complemento: '',
-// github: '',
 module.exports = {
   createEmpresa() {
     const verifyGraduada = item => item.graduada === 'f' ? 'não' : 'graduada';
@@ -58,5 +57,23 @@ module.exports = {
       empresa.descricao = item.descricao;
       newEmpresasJSON.push(empresa);
     });
+    let array = [];
+    fs.createReadStream("TabelaGeral-empresas-filhas2017.csv")
+      .pipe(csv())
+      .on('data', data => {
+        array.push(data)
+      })
+      .on('end', () => {
+        console.log(array[0].map(item => item))
+        console.log('Acabou!!')
+      })
+    // console.log(csv.parse(table))
+    // // csv.each(table)
+    // //   .on('data', function (data) {
+    // //     console.log(data)
+    // //   }).on('end', function () {
+    // //     console.log('Finished');
+    // //   })
+    return array
   }
 }
