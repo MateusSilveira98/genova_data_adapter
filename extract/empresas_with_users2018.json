@@ -1,0 +1,1654 @@
+[
+  {
+    "razao_social": "CI&T Software S/A",
+    "nome_fantasia": "CI&T",
+    "cnpj": "609634000146",
+    "nome_fundador": "Fernando Matt Borges Martins",
+    "email_fundador": "fernando@ciandt.com"
+  },
+  {
+    "razao_social": "PST Eletr├┤nica S.A.",
+    "nome_fantasia": "PST Eletronica",
+    "cnpj": "84496066000295",
+    "nome_fundador": "Marcos Ferretti",
+    "email_fundador": "marcos.ferretti@kartfly.com.br"
+  },
+  {
+    "razao_social": "Hytron Ind. Com. E Assessoria Tecnol├│gica em Energia e Gases Industriais Ltda",
+    "nome_fantasia": "Hytron - Solu├º├Áes em Energia e Hidrog├¬nio",
+    "cnpj": "6103086000164",
+    "nome_fundador": "Daniel Lopes",
+    "email_fundador": "daniel@hytron.com.br"
+  },
+  {
+    "razao_social": "Expertise Engenharia Ltda.",
+    "nome_fantasia": "Expertise",
+    "cnpj": "4126313000141",
+    "nome_fundador": "Fernando Pinhabel Maraf├úo",
+    "email_fundador": "fmarafao@gmail.com"
+  },
+  {
+    "razao_social": "Padtec S/A",
+    "nome_fantasia": "Padtec",
+    "cnpj": "3549807000176",
+    "nome_fundador": "Roberto Yoshihiro Nakamura",
+    "email_fundador": "nakamura@padtec.com.br"
+  },
+  {
+    "razao_social": "Kryptus Seguran├ºa da Informa├º├úo Ltda.",
+    "nome_fantasia": "Kryptus Solu├º├Áes em Seguran├ºa da Informa├º├úo Ltda.",
+    "cnpj": "5761098000113",
+    "nome_fundador": "Leonardo Aparecido Figueiredo Cabral",
+    "email_fundador": "cabral@kryptus.com"
+  },
+  {
+    "razao_social": "Nitrix Consultoria e Inform├ítica Ltda.",
+    "nome_fantasia": "Nitryx",
+    "cnpj": "13351661000103",
+    "nome_fundador": "Rodrigo Almeida Gon├ºalves",
+    "email_fundador": "rodrigo@nitryx.com"
+  },
+  {
+    "razao_social": "Takase e Dias Engenharia Ltda",
+    "nome_fantasia": "Takase",
+    "cnpj": "5287753000143",
+    "nome_fundador": "Rodrigo Dias Takase",
+    "email_fundador": "rodrigotakase@gmail.com"
+  },
+  {
+    "razao_social": "Alibra Ingredientes Ltda",
+    "nome_fantasia": "Alibra",
+    "cnpj": "3645657000102",
+    "nome_fundador": "Humberto Salvador Afonso",
+    "email_fundador": "humberto@alibra.com.br"
+  },
+  {
+    "razao_social": "AsGA S.A.",
+    "nome_fantasia": "AsGA",
+    "cnpj": "59694729000158",
+    "nome_fundador": "Michel Cusnir",
+    "email_fundador": "michel.cusnir@asgasistemas.com.br"
+  },
+  {
+    "razao_social": "Bioluz Equipamentos e Servi├ºos Ltda",
+    "nome_fantasia": "Bioluz Equipamentos e Servi├ºos",
+    "cnpj": "962067000107",
+    "nome_fundador": "Paulo Ricardo Steller Wagner",
+    "email_fundador": "bioluz@bioluz.com.br"
+  },
+  {
+    "razao_social": "BrainWeb Solu├º├Áes em Tecnologia da Informa├º├úo Ltda",
+    "nome_fantasia": "BrainWeb",
+    "cnpj": "2677328000172",
+    "nome_fundador": "Gabriel Esteves Marques Pinto",
+    "email_fundador": "contato@brainweb.com.br"
+  },
+  {
+    "razao_social": "Daitan Labs Solu├º├Áes em Tecnologia S/A",
+    "nome_fantasia": "Daitan Group",
+    "cnpj": "6980081000110",
+    "nome_fundador": "Helio Kinoshita",
+    "email_fundador": "hkino@daitangroup.com"
+  },
+  {
+    "razao_social": "Flavor Food Consulting Consultoria em Alimentos Ltda",
+    "nome_fantasia": "Flavor Food",
+    "cnpj": "5426103000131",
+    "nome_fundador": "Juliane Dias Gon├ºalves",
+    "email_fundador": "juliane@flavorfood.com.br"
+  },
+  {
+    "razao_social": "Fot├┤nica Tecnologia ├ôptica Ltda",
+    "nome_fantasia": "Fot├┤nica",
+    "cnpj": "65073082000140",
+    "nome_fundador": "Walter Luiz de Andrade Carvalho",
+    "email_fundador": "fotonica@fotonica.com.br"
+  },
+  {
+    "razao_social": "GM dos Reis Ind├║stria e Com├®rcio Ltda",
+    "nome_fantasia": "GMReis",
+    "cnpj": "60040599000119",
+    "nome_fundador": "Geraldo Marins dos Reis Jr",
+    "email_fundador": "rh3@gmreis.com.br"
+  },
+  {
+    "razao_social": "HST Equipamentos Eletr├┤nicos Ltda",
+    "nome_fantasia": "HST Sistemas e Tecnologia",
+    "cnpj": "57643041000113",
+    "nome_fundador": "Eduardo Cunha",
+    "email_fundador": "eduardo@hst.com.br"
+  },
+  {
+    "razao_social": "├ìcaro Technologies Servi├ºos e Com├®rcio Ltda",
+    "nome_fantasia": "Icaro Technologies",
+    "cnpj": "1534930000198",
+    "nome_fundador": "Kleber Stroeh",
+    "email_fundador": "kleber.stroeh@icaro.com.br"
+  },
+  {
+    "razao_social": "Inmetrics S/A.",
+    "nome_fantasia": "Inmetrics",
+    "cnpj": "4959858000146",
+    "nome_fundador": "Alexandre Luiz J. Martins",
+    "email_fundador": "contato@inmetrics.com.br"
+  },
+  {
+    "razao_social": "KOM Lux Fibras ├ôpticas Ltda.",
+    "nome_fantasia": "Kom Montagens e Com├®rcio Ltda",
+    "cnpj": "55464143000146",
+    "nome_fundador": "C├¡cero Omegna",
+    "email_fundador": "cicero@luxtec.com.br"
+  },
+  {
+    "razao_social": "MatchReport Com├®rcio e Desenvolvimento de Software Ltda",
+    "nome_fantasia": "MRE Solu├º├Áes",
+    "cnpj": "7659729000113",
+    "nome_fundador": "Nicolas Michel Bacic",
+    "email_fundador": "nicolas@mre.com.br"
+  },
+  {
+    "razao_social": "Microforma Inform├ítica Ltda",
+    "nome_fantasia": "Microforma Inform├ítica",
+    "cnpj": "64544604000181",
+    "nome_fundador": "Mauricio Macedo de Faria",
+    "email_fundador": "info@microforma.com.br"
+  },
+  {
+    "razao_social": "Optolink Ind├║stria e Com├®rcio Ltda",
+    "nome_fantasia": "Optolink",
+    "cnpj": "2771951000190",
+    "nome_fundador": "Selma",
+    "email_fundador": "optolink@optolink.com.br"
+  },
+  {
+    "razao_social": "Optron Micromec├ónica ├ôptica Ltda - ME",
+    "nome_fantasia": "Optron Micromec├ónica ├ôptica",
+    "cnpj": "52497989000194",
+    "nome_fundador": "Yoshikazo Nagai",
+    "email_fundador": "vendas@optron.com.br"
+  },
+  {
+    "razao_social": "Opus Software Com├®rcio e Representa├º├Áes Ltda",
+    "nome_fantasia": "Opus Software",
+    "cnpj": "60663556000190",
+    "nome_fundador": "Walter Ruiz J├║nior",
+    "email_fundador": "walter@opus-software.com.br"
+  },
+  {
+    "razao_social": "Programmer's Inform├ítica Ltda",
+    "nome_fantasia": "Programmer's",
+    "cnpj": "169600000188",
+    "nome_fundador": "Alexandre Mac Fadden Q. Guimar├úes",
+    "email_fundador": "rh@programmers.com.br"
+  },
+  {
+    "razao_social": "IDEA! Sistemas Eletr├┤nicos Ltda- EPP",
+    "nome_fantasia": "Idea! Sistemas Eletr├┤nicos",
+    "cnpj": "1899564000170",
+    "nome_fundador": "Mauricio Hiroaki Suguiy",
+    "email_fundador": "MAURICIO.SUGUIY@IDEA-IP.COM"
+  },
+  {
+    "razao_social": "WWM Engenharia de Sistemas Ltda",
+    "nome_fantasia": "Reckon Engenharia de Sistemas",
+    "cnpj": "723918000169",
+    "nome_fundador": "Pedro Bulach Gapski",
+    "email_fundador": "gapski@reckon.com.br"
+  },
+  {
+    "razao_social": "Scylla Inform├ítica Ltda",
+    "nome_fantasia": "Scylla",
+    "cnpj": "4869955000130",
+    "nome_fundador": "Jo├úo Meidanis",
+    "email_fundador": "meidanis@ic.unicamp.br"
+  },
+  {
+    "razao_social": "Smatec Ind Com Ltda",
+    "nome_fantasia": "SMA Tecnologia",
+    "cnpj": "1675918000101",
+    "nome_fundador": "Alessandro Cordeiro Pereira Pinto",
+    "email_fundador": "sotero@smatec.com.br"
+  },
+  {
+    "razao_social": "MATERA Systems Inform├ítica S.A.",
+    "nome_fantasia": "MATERA Systems",
+    "cnpj": "57040040000184",
+    "nome_fundador": "Carlos Augusto Leite Netto",
+    "email_fundador": "contact@matera.com"
+  },
+  {
+    "razao_social": "Probiom Tecnologia Pesquisa e Desenvolvimento Experimental em Ci├¬ncias F├¡sicas e Naturais Ltda",
+    "nome_fantasia": "Probiom Tecnologia",
+    "cnpj": "7015833000175",
+    "nome_fundador": "Rodrigo de Oliveira Moraes",
+    "email_fundador": "rodrigo@probiom.com.br"
+  },
+  {
+    "razao_social": "Thorus Scisoft Tecnologia Ltda",
+    "nome_fantasia": "Thorus Scisoft",
+    "cnpj": "6886960000187",
+    "nome_fundador": "Alberto Costa Nogueira Jr.",
+    "email_fundador": "alberto.costa@thorus-scisoft.com.br"
+  },
+  {
+    "razao_social": "UniSoma Computa├º├úo Ltda",
+    "nome_fantasia": "UniSoma",
+    "cnpj": "61398244000169",
+    "nome_fundador": "Miguel Taube Netto",
+    "email_fundador": "taube@unisoma.com"
+  },
+  {
+    "razao_social": "Veco - Especializada em Contamina├º├úo Ambiental",
+    "nome_fantasia": "Grupo Veco",
+    "cnpj": "3118332000163",
+    "nome_fundador": "Raul Isaac Sadir",
+    "email_fundador": "rsadir@veco.com.br"
+  },
+  {
+    "razao_social": "Viva Equipamentos Industria e Comercio Ltda.",
+    "nome_fantasia": "Ecobrisa",
+    "cnpj": "324107000195",
+    "nome_fundador": "Paulo S├®rgio Gabarra",
+    "email_fundador": "gabarra@viva.com.br"
+  },
+  {
+    "razao_social": "Automidia Inform├ítica Ltda",
+    "nome_fantasia": "Requestia",
+    "cnpj": "67784538000105",
+    "nome_fundador": "Marcio Vinholes Ferreira",
+    "email_fundador": "marcio@automidia.com.br"
+  },
+  {
+    "razao_social": "Dextra Consultoria e Servi├ºos em Inform├ítica Ltda",
+    "nome_fantasia": "Dextra Sistemas",
+    "cnpj": "8958412000140",
+    "nome_fundador": "Lu├¡s Eduardo Dosso",
+    "email_fundador": "dosso@dextra.com.br"
+  },
+  {
+    "razao_social": "StarCorp Inform├ítica Ltda",
+    "nome_fantasia": "StarCorp",
+    "cnpj": "3812132000106",
+    "nome_fundador": "Am├®rico Sim├úo J├║nior",
+    "email_fundador": "americo@starcorp.com.br"
+  },
+  {
+    "razao_social": "Gentros Pesquisa e Desenvolvimento Ltda",
+    "nome_fantasia": "Gentros",
+    "cnpj": "9648316000169",
+    "nome_fundador": "Paula Gon├ºalves de Araujo",
+    "email_fundador": "paula.araujo@gentros.com.br"
+  },
+  {
+    "razao_social": "QualiSoft Inform├ítica Ltda",
+    "nome_fantasia": "QualiSoft Inform├ítica",
+    "cnpj": "96668918000182",
+    "nome_fundador": "Waldemar Alberto de F. Felippe",
+    "email_fundador": "rh@qualisoft.com.br"
+  },
+  {
+    "razao_social": "Atria Engenharia e Com├®rcio Ltda",
+    "nome_fantasia": "Atria Engenharia e Com├®rcio Ltda",
+    "cnpj": "50976687000173",
+    "nome_fundador": "Roberto Carlos Miguel",
+    "email_fundador": "atendimento@atriaeng.com.br"
+  },
+  {
+    "razao_social": "Labcom Sistemas Ltda.",
+    "nome_fantasia": "Labcom Sistemas",
+    "cnpj": "5567935000178",
+    "nome_fundador": "Marcelo Caneppele",
+    "email_fundador": "caneppele@labcomsistemas.com.br"
+  },
+  {
+    "razao_social": "KIOSKIP Com├®rcio de  Materiais e Equipamentos de Inform├ítica, Telecomunica├º├úo e Veicula├º├úo de Propag",
+    "nome_fantasia": "KIOSKIP - Terminais Interativos",
+    "cnpj": "5795742000174",
+    "nome_fundador": "Wilson Roberto Delasta",
+    "email_fundador": "kioskip@kioskip.com.br"
+  },
+  {
+    "razao_social": "Web Estrat├®gica Marketing de Conte├║do e Presta├º├úo de Servi├ºos Ltda. ME",
+    "nome_fantasia": "Web Estrat├®gica Marketing de Conte├║do",
+    "cnpj": "7792409000137",
+    "nome_fundador": "Rafael Rezende de Oliveira",
+    "email_fundador": "contato@webestrategica.com.br"
+  },
+  {
+    "razao_social": "Neger Tecnologia e Sistemas Ltda",
+    "nome_fantasia": "Neger Telecom",
+    "cnpj": "58456997000179",
+    "nome_fundador": "Antonio Eduardo Ripari Neger",
+    "email_fundador": "engenharia@neger.com.br"
+  },
+  {
+    "razao_social": "Funcional Mikron",
+    "nome_fantasia": "Funcional Mikron",
+    "cnpj": "62548409000102",
+    "nome_fundador": "Humberto Salvador Afonso",
+    "email_fundador": "humberto@alibra.com.br"
+  },
+  {
+    "razao_social": "Hexagon Comercial e Telecomunica├º├Áes Ltda.",
+    "nome_fantasia": "Hexagon Telecom",
+    "cnpj": "495563000106",
+    "nome_fundador": "M├írcio Teruo Harada",
+    "email_fundador": "marcio@hexagon-telecom.com.br"
+  },
+  {
+    "razao_social": "Neolog Consultoria e Sistemas Ltda",
+    "nome_fantasia": "Neolog",
+    "cnpj": "5254381000159",
+    "nome_fundador": "Danilo Campos",
+    "email_fundador": "danilo.campos@neolog.com.br"
+  },
+  {
+    "razao_social": "Sistemax Inform├ítica",
+    "nome_fantasia": "Sistemax Consultores",
+    "cnpj": "13439391000197",
+    "nome_fundador": "Carlos Max Andres",
+    "email_fundador": "joaoluiz@sistemax.com.br"
+  },
+  {
+    "razao_social": "Konfide Consultoria",
+    "nome_fantasia": "Konfide Education",
+    "cnpj": "4978895000194",
+    "nome_fundador": "Marcio Hiroshi Okabe",
+    "email_fundador": "marcio@okabe.com.br"
+  },
+  {
+    "razao_social": "PlaneCom Planejamento e Treinamento Empresarial Ltda",
+    "nome_fantasia": "AMA Brasil",
+    "cnpj": "59001339000155",
+    "nome_fundador": "Jo├úo Baptista Freire de Andrade Filho",
+    "email_fundador": "jbandrade@amabrasil.com"
+  },
+  {
+    "razao_social": "Pronus Tecnologia da Informa├º├úo Ltda Me.",
+    "nome_fantasia": "Pronus Engenharia de Software",
+    "cnpj": "7651689000163",
+    "nome_fundador": "Andr├® Felipe Dias",
+    "email_fundador": "andref.dias@pronus.eng.br"
+  },
+  {
+    "razao_social": "RJP Automa├º├úo Com├®rcio Representa├º├úo e Servi├ºos Ltda",
+    "nome_fantasia": "RJP Automa├º├úo",
+    "cnpj": "68194539000162",
+    "nome_fundador": "Jos├® J├║lio Ribeiro Jr.",
+    "email_fundador": "julio.ribeiro@rjp.com.br"
+  },
+  {
+    "razao_social": "Tasqa Servi├ºos Anal├¡ticos Ltda",
+    "nome_fantasia": "Laborat├│rios Tasqa",
+    "cnpj": "67994897000197",
+    "nome_fundador": "Jos├® Marcos Santana",
+    "email_fundador": "santana@tasqa.com.br"
+  },
+  {
+    "razao_social": "E2pro Engenharia Eletr├┤nica Ltda",
+    "nome_fantasia": "E2pro Engenharia Eletr├┤nica",
+    "cnpj": "2133060000108",
+    "nome_fundador": "Paulo Eduardo Schaefer",
+    "email_fundador": "e2pro@uol.com.br"
+  },
+  {
+    "razao_social": "Sensedia",
+    "nome_fantasia": "Sensedia",
+    "cnpj": "8583723000172",
+    "nome_fundador": "Kleber Rogerio Bacili",
+    "email_fundador": "kleber.bacili@sensedia.com"
+  },
+  {
+    "razao_social": "Via Consultoria em Inform├ítica Sc Ltda",
+    "nome_fantasia": "Via Consulting",
+    "cnpj": "4113402000153",
+    "nome_fundador": "Wellinton Oliveira",
+    "email_fundador": "wellinton.oliveira@viaconsulting.com.br"
+  },
+  {
+    "razao_social": "Netbras Consultoria Tecnol├│gica Ltda",
+    "nome_fantasia": "Netbras Consultoria",
+    "cnpj": "6096217000123",
+    "nome_fundador": "Miguel Angelo Tancredi Molina",
+    "email_fundador": "molina@netbrasconsult.com.br"
+  },
+  {
+    "razao_social": "Comuni Marketing Ltda",
+    "nome_fantasia": "Brsa",
+    "cnpj": "3865639000128",
+    "nome_fundador": "Jos├® Augusto C. de Moura Jr.",
+    "email_fundador": "jmoura@brsa.com.br"
+  },
+  {
+    "razao_social": "Unigen Tecnologia do DNA Ltda",
+    "nome_fantasia": "Unigen Tecnologia do DNA",
+    "cnpj": "416152000170",
+    "nome_fundador": "Antonio Francisco Ferreira Neto",
+    "email_fundador": "aferreira@unigen.com.br"
+  },
+  {
+    "razao_social": "Auctus Qualidade e Gest├úo",
+    "nome_fantasia": "Auctus",
+    "cnpj": "7462023000167",
+    "nome_fundador": "Erika Yamagishi",
+    "email_fundador": "erikayamagishi@auctus.com.br"
+  },
+  {
+    "razao_social": "Sophia Solu├º├Áes em Software Ltda",
+    "nome_fantasia": "Sophia  Software Solutions",
+    "cnpj": "7650838000170",
+    "nome_fundador": "Humberto Diniz",
+    "email_fundador": "flavia@sophiasolutions.com.br"
+  },
+  {
+    "razao_social": "Quasar",
+    "nome_fantasia": "Loja F├ícil",
+    "cnpj": "65019499000124",
+    "nome_fundador": "Tadaaki Wakabayashi",
+    "email_fundador": "tadaaki@lojafacil.com.br"
+  },
+  {
+    "razao_social": "Alphenz Ind├║stria de Tanques Ltda",
+    "nome_fantasia": "Alphenz",
+    "cnpj": "10808894000102",
+    "nome_fundador": "Em├¡lio Bellini Neto",
+    "email_fundador": "emilio@alphenz.com.br"
+  },
+  {
+    "razao_social": "Centro Brasileiro de Aperfei├ºoamento e Participa├º├Áes - Cebralog Ltda",
+    "nome_fantasia": "Cebralog",
+    "cnpj": "4422088000190",
+    "nome_fundador": "Anne Lucas Gimeno",
+    "email_fundador": "gimeno.a@cebralog.com"
+  },
+  {
+    "razao_social": "VulcaNet Sistemas e Engenharia",
+    "nome_fantasia": "VulcaNet Sistemas e Engenharia",
+    "cnpj": "10772048000171",
+    "nome_fundador": "Alex Cremonezi",
+    "email_fundador": "alexcremonezi@gmail.com"
+  },
+  {
+    "razao_social": "Mitah Technologies",
+    "nome_fantasia": "Mitah Technologies",
+    "cnpj": "9072897000133",
+    "nome_fundador": "Andr├® Vital Saude",
+    "email_fundador": "andresaude@gmail.com"
+  },
+  {
+    "razao_social": "Prestus Provedor de Conte├║do Ltda",
+    "nome_fantasia": "Prestus",
+    "cnpj": "10770396000100",
+    "nome_fundador": "Alexandre Borin Cardoso",
+    "email_fundador": "alexandre@prestus.com.br"
+  },
+  {
+    "razao_social": "FiberWork Comunica├º├Áes ├ôpticas Ltda",
+    "nome_fantasia": "FiberWork Comunica├º├Áes ├ôpticas",
+    "cnpj": "3254681000102",
+    "nome_fundador": "Sergio Barcelos",
+    "email_fundador": "sbarcelos@fiberwork.net"
+  },
+  {
+    "razao_social": "Movile Internet S/A",
+    "nome_fantasia": "Movile",
+    "cnpj": "8654191000117",
+    "nome_fundador": "Eduardo Lins Henrique",
+    "email_fundador": "eduardo.henrique@movile.com.br"
+  },
+  {
+    "razao_social": "Cedet - Centro de Desenvolvimento Profissional e Tecnol├│gico Ltda",
+    "nome_fantasia": "Cedet",
+    "cnpj": "51914620000177",
+    "nome_fundador": "Adelice Godoy d'Avila",
+    "email_fundador": "adelice@cedet.com.br"
+  },
+  {
+    "razao_social": "FM2S TREINAMENTO EM DESENVOLVIMENTO PROFISSIONAL E GERENCIAL LTDA - ME",
+    "nome_fantasia": "FM2S CONSULTORIA",
+    "cnpj": "9386495000103",
+    "nome_fundador": "Virgilio F. M. dos Santos",
+    "email_fundador": "virgilio@fm2s.com.br"
+  },
+  {
+    "razao_social": "EITV - Comercio de Equipamentos de Informatica e Telecomunica├º├Áes LTDA",
+    "nome_fantasia": "EITV",
+    "cnpj": "10658076000162",
+    "nome_fundador": "Alberto Issi",
+    "email_fundador": "alberto.issi@eitv.com.br"
+  },
+  {
+    "razao_social": "Adtech Telecomunica├º├Áes Ltda",
+    "nome_fantasia": "Adtech Telecom",
+    "cnpj": "8659987000162",
+    "nome_fundador": "Mauricio Marchi",
+    "email_fundador": "mauricio@adtechtelecom.com.br"
+  },
+  {
+    "razao_social": "Requisito Tecnologia Ltda",
+    "nome_fantasia": "Requisito Tecnologia",
+    "cnpj": "8627919000169",
+    "nome_fundador": "Andr├® de Paula Ramos",
+    "email_fundador": "andre@requisito.com.br"
+  },
+  {
+    "razao_social": "Eccaplan Consultoria em Desenvolvimento Sustent├ível",
+    "nome_fantasia": "Causa Coletiva",
+    "cnpj": "9465233000134",
+    "nome_fundador": "Fernando Beltrame",
+    "email_fundador": "contato@eccaplan.com.br"
+  },
+  {
+    "razao_social": "Linear softwares matem├íticos Ltda",
+    "nome_fantasia": "Linear softwares matem├íticos",
+    "cnpj": "2254160000192",
+    "nome_fundador": "Marcelo Ant├┤nio Elias",
+    "email_fundador": "marcelo.elias@linearsm.com.br"
+  },
+  {
+    "razao_social": "360 Graus Pesquisa e  Desenvolvimento em Tecnologia Ltda",
+    "nome_fantasia": "360 Graus Aeron├íutica",
+    "cnpj": "10656343000162",
+    "nome_fundador": "Roberto Alves de Pilotto Fernandes",
+    "email_fundador": "pilotto@hangar360.com.br"
+  },
+  {
+    "razao_social": "Viegas e Abreu Software Ltda",
+    "nome_fantasia": "Sofist",
+    "cnpj": "10774117000186",
+    "nome_fundador": "J├║lio Esslinger Vi├®gas",
+    "email_fundador": "julio.viegas@sofist.com.br"
+  },
+  {
+    "razao_social": "Mega Sistemas Corporativos Ltda",
+    "nome_fantasia": "Mega Sistemas Corporativos",
+    "cnpj": "54652177000100",
+    "nome_fundador": "Walmir Scaravelli",
+    "email_fundador": "comunicacao@mega.com.br"
+  },
+  {
+    "razao_social": "MobWise - Consultoria em Engenharia de Softwares Ltda",
+    "nome_fantasia": "MobWise",
+    "cnpj": "10777871000170",
+    "nome_fundador": "Andr├® Luis Ogando Paraense",
+    "email_fundador": "andre.paraense@mobwise.com.br"
+  },
+  {
+    "razao_social": "I.Systems Automa├º├úo Industrial S.A.",
+    "nome_fantasia": "I.Systems",
+    "cnpj": "8998654000168",
+    "nome_fundador": "Igor Bittencourt Santiago",
+    "email_fundador": "igor.santiago@i.systems.com.br"
+  },
+  {
+    "razao_social": "R.Skaf Empreendimentos e Participa├º├Áes Ltda",
+    "nome_fantasia": "Lighthouse Business Development",
+    "cnpj": "3413924000108",
+    "nome_fundador": "Renato Skaf dos Santos",
+    "email_fundador": "renato@lighthouse.srv.br"
+  },
+  {
+    "razao_social": "ADTsys Software Ltda",
+    "nome_fantasia": "ADTsys",
+    "cnpj": "10631007000165",
+    "nome_fundador": "Pascoal Baldasso",
+    "email_fundador": "baldasso@adtsys.com.br"
+  },
+  {
+    "razao_social": "InGreen Biometrics Servi├ºos em Tecnologia da Infoma├º├úo Ltda.",
+    "nome_fantasia": "InGreen Biometrics",
+    "cnpj": "11707588000134",
+    "nome_fundador": "Francisco Ventura",
+    "email_fundador": "francisco@ingreen.com.br"
+  },
+  {
+    "razao_social": "Ana Paola Gouvea de Miranda ME",
+    "nome_fantasia": "Pazzar Consultoria",
+    "cnpj": "5781803000144",
+    "nome_fundador": "Paola Gouvea de Miranda",
+    "email_fundador": "paola@pazzar.com.br"
+  },
+  {
+    "razao_social": "EDTI Treinamento e Melhoria de Processos LTDA",
+    "nome_fantasia": "Escola EDTI",
+    "cnpj": "14718560000190",
+    "nome_fundador": "Marcelo Meireles Petenate",
+    "email_fundador": "marcelo@edti.com.br"
+  },
+  {
+    "razao_social": "Chuva Inc.",
+    "nome_fantasia": "Chuva Inc.",
+    "cnpj": "9474605000199",
+    "nome_fundador": "Fabiano Sant'Ana",
+    "email_fundador": "fabiano@chuva-inc.com"
+  },
+  {
+    "razao_social": "Coffee Bean Technology Consultoria em Marketing LTDA",
+    "nome_fantasia": "Coffee Bean Technology",
+    "cnpj": "8881608000184",
+    "nome_fundador": "John Lima",
+    "email_fundador": "john.lima@coffeebeantech.com"
+  },
+  {
+    "razao_social": "iTech Automa├º├úo Ltda PP.",
+    "nome_fantasia": "iTech",
+    "cnpj": "8106315000120",
+    "nome_fundador": "Samarone Ruas",
+    "email_fundador": "samarone@techplus.com.br"
+  },
+  {
+    "razao_social": "Superlogica Tecnologias Ltda",
+    "nome_fantasia": "Superlogica Tecnologias",
+    "cnpj": "4833541000151",
+    "nome_fundador": "Luis Fernando C├¬ra",
+    "email_fundador": "financeiro@superlogica.com"
+  },
+  {
+    "razao_social": "Reinaldo A. Bergamaschi EPP",
+    "nome_fantasia": "Odysci",
+    "cnpj": "19537896000104",
+    "nome_fundador": "Reinaldo A. Bergamaschi",
+    "email_fundador": "info@odysci.com"
+  },
+  {
+    "razao_social": "Recicon Sistemas Ambientais Ltda",
+    "nome_fantasia": "Recicon Reciclando Conceitos",
+    "cnpj": "6528550000164",
+    "nome_fundador": "Leandro Shiroma",
+    "email_fundador": "leandro@recicon.com.br"
+  },
+  {
+    "razao_social": "TermoCOP Engenharia e Instala├º├Áes Industriais Ltda Epp",
+    "nome_fantasia": "TermoCOP Engenharia",
+    "cnpj": "4924675000188",
+    "nome_fundador": "Rafael Lincoln Pratts Milanes",
+    "email_fundador": "rafael@termocop.com.br"
+  },
+  {
+    "razao_social": "Kaffa Mobile Desenvolvimento de Programa de Computador Ltda.",
+    "nome_fantasia": "Kaffa Mobile",
+    "cnpj": "8730563000147",
+    "nome_fundador": "Jocimar Teixeira da Silva",
+    "email_fundador": "jocimar@kaffa.com.br"
+  },
+  {
+    "razao_social": "ISAT Comunica├º├úo, Educa├º├úo e Tecnologia Ltda",
+    "nome_fantasia": "ISAT",
+    "cnpj": "3319174000100",
+    "nome_fundador": "Dorian Lacerda Guimar├úes",
+    "email_fundador": "diretoria@isat.com.br"
+  },
+  {
+    "razao_social": "ClanSoft Desenvolvimento de Software Ltda",
+    "nome_fantasia": "ClanSoft",
+    "cnpj": "10615919000143",
+    "nome_fundador": "Danilo Lacerda",
+    "email_fundador": "danilo.lacerda@clansoft.com.br"
+  },
+  {
+    "razao_social": "AE Produ├º├Áes Culturais Epp",
+    "nome_fantasia": "Animar Est├║dio - Studio de Anima├º├úo",
+    "cnpj": "12355705000100",
+    "nome_fundador": "Tiago Barbiero Saad",
+    "email_fundador": "contato@animarestudio.com.br"
+  },
+  {
+    "razao_social": "Addvance Solu├º├Áes em Inform├ítica LTDA ME",
+    "nome_fantasia": "ADD",
+    "cnpj": "15259172000151",
+    "nome_fundador": "Raul Mariano Cardoso",
+    "email_fundador": "raul.cardoso@addvance.com.br"
+  },
+  {
+    "razao_social": "Limpgas - Tecnologia em Descarte de Gases Industriais Ltda",
+    "nome_fantasia": "Limpgas Tecnologia",
+    "cnpj": "10460649000149",
+    "nome_fundador": "Guilherme Gon├ºalves",
+    "email_fundador": "guilherme@limpgas.com.br"
+  },
+  {
+    "razao_social": "Legoolus Ind├║stria e Com├®rcio de Produtos Eletro-Eletr├┤nicos Ltda",
+    "nome_fantasia": "Legoolus Automa├º├úo Residencial & Home Theater",
+    "cnpj": "11191540000116",
+    "nome_fundador": "Jurandy Antonio do Nascimento",
+    "email_fundador": "jurandy.nascimento@legoolus.com.br"
+  },
+  {
+    "razao_social": "IBDEC Educa├º├úo Executiva e Profissionalizante Ltda.",
+    "nome_fantasia": "Grupo IBDEC",
+    "cnpj": "8482427000185",
+    "nome_fundador": "Giancarlo Ciola",
+    "email_fundador": "giancarlo.ciola@ibdec.net"
+  },
+  {
+    "razao_social": "WebTraining LTDA",
+    "nome_fantasia": "WebTraining",
+    "cnpj": "2725587000121",
+    "nome_fundador": "Alexandre de Munno Francisco",
+    "email_fundador": "alexandre@webtraining.com.br"
+  },
+  {
+    "razao_social": "Master Minds Investimentos Ltda.",
+    "nome_fantasia": "Master Minds Capital",
+    "cnpj": "9432562000189",
+    "nome_fundador": "Heitor Mizumoto Ono",
+    "email_fundador": "heitor.ono@mastermindscapital.com"
+  },
+  {
+    "razao_social": "NB M├üQUINAS LTDA",
+    "nome_fantasia": "NB M├íquinas Ltda",
+    "cnpj": "46127635000155",
+    "nome_fundador": "Walter Xicrala Brait Silva",
+    "email_fundador": "walter@industriasnb.com.br"
+  },
+  {
+    "razao_social": "Redpoint eVentures Consultoria Empresarial Ltda",
+    "nome_fantasia": "Redpoint eVentures",
+    "cnpj": "14710098000185",
+    "nome_fundador": "Anderson Thees",
+    "email_fundador": "anderson@rpev.com.br"
+  },
+  {
+    "razao_social": "Provitro Biotecnologia Ltda.",
+    "nome_fantasia": "Proclone",
+    "cnpj": "4008169000149",
+    "nome_fundador": "Monique Ines Segeren",
+    "email_fundador": "moniqueproclone@gmail.com"
+  },
+  {
+    "razao_social": "ATRIA ENGENHARIA CIVIL E IMPLANTACOES ENERGETICAS LTDA",
+    "nome_fantasia": "Atria EEnergy",
+    "cnpj": "11718893000121",
+    "nome_fundador": "Jair Soave Jr",
+    "email_fundador": "jair.soave@atriaeng.com.br"
+  },
+  {
+    "razao_social": "Evora Tecnologia Ltda EPP",
+    "nome_fantasia": "Evtech",
+    "cnpj": "5280478000136",
+    "nome_fundador": "Cesar A. P. D. Evora",
+    "email_fundador": "cesar.evora@terra.com.br"
+  },
+  {
+    "razao_social": "Eudora Energia Ltda",
+    "nome_fantasia": "Eudora Solar",
+    "cnpj": "13010604000160",
+    "nome_fundador": "Jonas Rafael Gazoli",
+    "email_fundador": "gazoli@gmail.com"
+  },
+  {
+    "razao_social": "KNBS Telecomunica├º├Áes e Inform├ítica Ltda",
+    "nome_fantasia": "KNBS - Knowledge Networks & Business Solutions",
+    "cnpj": "5532488000111",
+    "nome_fundador": "Carlos Alberto Fr├│es Lima",
+    "email_fundador": "froes@knbs.com.br"
+  },
+  {
+    "razao_social": "Instituto de Tecnologia Educacional do Brasil Ltda",
+    "nome_fantasia": "INTEB",
+    "cnpj": "15273798000112",
+    "nome_fundador": "Alexandre Tunis Pioli",
+    "email_fundador": "contato@inteb.com.br"
+  },
+  {
+    "razao_social": "ProNutrition do Brasil Industria e Com├®rcio de Suplementos Alimentares Ltda Me",
+    "nome_fantasia": "ProNutrition",
+    "cnpj": "8883540000172",
+    "nome_fundador": "Marcelo Cesar Alves Mota",
+    "email_fundador": "marcelo@pron2.com.br"
+  },
+  {
+    "razao_social": "Instituto de Pesquisas PHD LTDA",
+    "nome_fantasia": "Instituto PHD",
+    "cnpj": "12312607000196",
+    "nome_fundador": "Andre Tunis Pioli",
+    "email_fundador": "andrepioli@institutophd.com.br"
+  },
+  {
+    "razao_social": "Funcional Drinks Intelig├¬ncia em Desenvolvimento de Produtos Ltda",
+    "nome_fantasia": "Funcional Drinks",
+    "cnpj": "8332746000104",
+    "nome_fundador": "Humberto Salvador Afonso",
+    "email_fundador": "humberto@alibra.com.br"
+  },
+  {
+    "razao_social": "Bromelia Produ├º├Áes Ltda",
+    "nome_fantasia": "Galinha Pintadinha",
+    "cnpj": "9583710000166",
+    "nome_fundador": "Marcos Patrizzi Luporini",
+    "email_fundador": "marcos@galinhapintadinha.com.br"
+  },
+  {
+    "razao_social": "Gera Inova├º├úo e Desenvolvimento Ltda",
+    "nome_fantasia": "Gera inova├º├úo",
+    "cnpj": "9293931000108",
+    "nome_fundador": "Izilda Gomes Garcez Capovilla",
+    "email_fundador": "izilda@gera.net.br"
+  },
+  {
+    "razao_social": "Top Hint Solutions - Consultoria em Tecnologia e Finan├ºas Ltda",
+    "nome_fantasia": "Top Hint Solutions",
+    "cnpj": "10217676000195",
+    "nome_fundador": "Ricardo da Silva Braga",
+    "email_fundador": "braga@tophint.com.br"
+  },
+  {
+    "razao_social": "UCP Engenharia Ltda",
+    "nome_fantasia": "UCP Engenharia",
+    "cnpj": "15711698000120",
+    "nome_fundador": "Vagner Pereira Pardinho",
+    "email_fundador": "vagner.pardinho@ucpengenharia.com"
+  },
+  {
+    "razao_social": "MC1 Tecnologia da Informa├º├úo Ltda.",
+    "nome_fantasia": "MC1",
+    "cnpj": "5896710000165",
+    "nome_fundador": "Kayo Scrocaro Hisatomi",
+    "email_fundador": "kayo.hisatomi@mc1.com.br"
+  },
+  {
+    "razao_social": "Botunix Ltda. Me.",
+    "nome_fantasia": "Botunix",
+    "cnpj": "12440976000109",
+    "nome_fundador": "Daniel de Haro Moraes",
+    "email_fundador": "dmoraes@botunix.com.br"
+  },
+  {
+    "razao_social": "MindPresent Solu├º├Áes em Inform├ítica Ltda Me",
+    "nome_fantasia": "MindPresent",
+    "cnpj": "11992791000108",
+    "nome_fundador": "Solange Helena Aguilera",
+    "email_fundador": "contato@mindpresent.com"
+  },
+  {
+    "razao_social": "Mastersense Ingredientes Aliment├¡cios Ltda",
+    "nome_fantasia": "MasterSense",
+    "cnpj": "3161388000109",
+    "nome_fundador": "Paulo Morise",
+    "email_fundador": "paulo.morise@mastersense.com"
+  },
+  {
+    "razao_social": "AgroinfoTecnologia da Informa├º├úo Ltda-Me",
+    "nome_fantasia": "Agroinfo  TI",
+    "cnpj": "9521391000164",
+    "nome_fundador": "Marcelo Gomes Ferreira Lima",
+    "email_fundador": "marcelo.lima@agroinfoti.com.br"
+  },
+  {
+    "razao_social": "OPUSPHERE DESENVOLVIMENTO, CONSULTORIA EM TECNOLOGIA DA INFORMA├ç├âO E GEST├âO DE PROCESSOS LTDA ÔÇô ME",
+    "nome_fantasia": "Opusphere",
+    "cnpj": "17763551000100",
+    "nome_fundador": "Marcel Leal",
+    "email_fundador": "marcel@opusphere.com"
+  },
+  {
+    "razao_social": "Burst Publicidade Ltda - Me",
+    "nome_fantasia": "Burst",
+    "cnpj": "18023924000179",
+    "nome_fundador": "Mauricio Campitelli Conti,",
+    "email_fundador": "mauricio@burst.com.br"
+  },
+  {
+    "razao_social": "Odb Tecnologia Me Ltda",
+    "nome_fantasia": "Fottorama",
+    "cnpj": "15060375000114",
+    "nome_fundador": "William Marques Dias",
+    "email_fundador": "william.dias@odbtecnologia.com.br"
+  },
+  {
+    "razao_social": "Okyra Consultoria e  Educa├º├úo Ltda Me.",
+    "nome_fantasia": "Okyra Consultoria",
+    "cnpj": "11822564000126",
+    "nome_fundador": "Di├│genes Feldhaus",
+    "email_fundador": "diogenes.feldhaus@okyra.com"
+  },
+  {
+    "razao_social": "Thomazelli & Hoyos Desenvolvimento Humano",
+    "nome_fantasia": "Instituto Thomazelli Hoyos",
+    "cnpj": "17839514000138",
+    "nome_fundador": "Camila Thomazelli",
+    "email_fundador": "camila@thomazellihoyos.com"
+  },
+  {
+    "razao_social": "Showcase DTV Servi├ºos e Consultoria Ltda",
+    "nome_fantasia": "Showcase Pro",
+    "cnpj": "15334682000146",
+    "nome_fundador": "Rafael Augusto Peressinoto",
+    "email_fundador": "rap@showcasepro.com.br"
+  },
+  {
+    "razao_social": "InReservoir Solutions - Projetos e Pesquisa em Ci├¬ncias e Engenharia de Petr├│leo LTDA",
+    "nome_fantasia": "Solpe",
+    "cnpj": "18981773000161",
+    "nome_fundador": "Carlos Eduardo Andrade Gomes Barreto",
+    "email_fundador": "carlos.barreto@inreservoirsolutions.com"
+  },
+  {
+    "razao_social": "ESG Comercio Eletronico Ltda",
+    "nome_fantasia": "Coroas Para Vel├│rio",
+    "cnpj": "12404942000114",
+    "nome_fundador": "Eduardo Shimizu de Gouveia",
+    "email_fundador": "eduardo@coroasparavelorio.com.br"
+  },
+  {
+    "razao_social": "Innova GP - Inova├º├úo e Gerenciamento de Projetos EIRELI-ME",
+    "nome_fantasia": "Innova GP",
+    "cnpj": "18204820000160",
+    "nome_fundador": "Daniel de Souza Medina",
+    "email_fundador": "daniel@innovagp.com"
+  },
+  {
+    "razao_social": "PMInova Gest├úo de Projetos e Inova├º├úo LTDA",
+    "nome_fantasia": "PMInova",
+    "cnpj": "17886601000146",
+    "nome_fundador": "Rafael Martins Buck de Godoy",
+    "email_fundador": "buck@pminova.com"
+  },
+  {
+    "razao_social": "BAITA ACELERADORA CONSULTORIA EM GESTAO EMPRESARIAL LTDA",
+    "nome_fantasia": "Baita Aceleradora",
+    "cnpj": "19626397000150",
+    "nome_fundador": "Rosana Jamal Francisco dos Santos Fernandes",
+    "email_fundador": "rosana@baita.ac"
+  },
+  {
+    "razao_social": "Sanertel Servi├ºos e Assessorias SS LTDA - ME",
+    "nome_fantasia": "Sanertech",
+    "cnpj": "3643633000106",
+    "nome_fundador": "Wagner Sanerip",
+    "email_fundador": "wsanerip@terra.com.br"
+  },
+  {
+    "razao_social": "Adverta Editora Ltda.",
+    "nome_fantasia": "Marketing de Conte├║do",
+    "cnpj": "19556773000187",
+    "nome_fundador": "Rafael Rezende de Oliveira",
+    "email_fundador": "contato@webestrategica.com.br"
+  },
+  {
+    "razao_social": "BUNNY CO COMUNICA├ç├âO LTDA.",
+    "nome_fantasia": "Bunny Consulting - BunnyCo",
+    "cnpj": "20277475000137",
+    "nome_fundador": "Rodrigo C. Rubio",
+    "email_fundador": "rubio@bunnyconsuting.com"
+  },
+  {
+    "razao_social": "QualiSign Inform├ítica S.A.",
+    "nome_fantasia": "QualiSign",
+    "cnpj": "17489855000120",
+    "nome_fundador": "Waldemar Alberto de F. Felippe",
+    "email_fundador": "rh@qualisoft.com.br"
+  },
+  {
+    "razao_social": "GP Franchising Ltda",
+    "nome_fantasia": "MoveEdu",
+    "cnpj": "1633121000133",
+    "nome_fundador": "Rog├®rio Gabriel",
+    "email_fundador": "rogerio@prepara.com.br"
+  },
+  {
+    "razao_social": "MBA60",
+    "nome_fantasia": "MBA60",
+    "cnpj": "14793357000189",
+    "nome_fundador": "Alexandre Picchi Neves",
+    "email_fundador": "alexandre@mba60.com"
+  },
+  {
+    "razao_social": "Strategy Manager Software Ltda",
+    "nome_fantasia": "Strategy",
+    "cnpj": "10662358000133",
+    "nome_fundador": "Kleber Teraoka",
+    "email_fundador": "kleberken@gmail.com"
+  },
+  {
+    "razao_social": "Kanui Comercio Varejista LTDA.",
+    "nome_fantasia": "Kanui.com.br",
+    "cnpj": "14058035000196",
+    "nome_fundador": "Bruno Nardon Felici",
+    "email_fundador": "bruno.nardon@kanui.com.br"
+  },
+  {
+    "razao_social": "SimWorx Pesquisa e Desenvolvimento de Programa de Computador LTDA",
+    "nome_fantasia": "SimWorx Pesquisa & Desenvolvimento",
+    "cnpj": "8605962000186",
+    "nome_fundador": "Gustavo Longhin",
+    "email_fundador": "longhin@simworx.com.br"
+  },
+  {
+    "razao_social": "Codeminer 42 Servi├ºos de Inform├ítica Ltda",
+    "nome_fantasia": "Codeminer 42",
+    "cnpj": "14659639000198",
+    "nome_fundador": "Daniel da Cruz Pisano",
+    "email_fundador": "daniel@aleap.com.br"
+  },
+  {
+    "razao_social": "Achieve Leap Servi├ºos de Inform├ítica",
+    "nome_fantasia": "Achieve Leap",
+    "cnpj": "20138608000139",
+    "nome_fundador": "Daniel da Cruz Pisano",
+    "email_fundador": "daniel@aleap.com.br"
+  },
+  {
+    "razao_social": "Cacau├¡ - Eventos com Responsabilidade Socioambiental Ltda.",
+    "nome_fantasia": "Cacau├¡ - Eventos Sustent├íveis",
+    "cnpj": "7740776000197",
+    "nome_fundador": "Geovah Lustoza Cabral Jr",
+    "email_fundador": "cabral@cacaui.com.br"
+  },
+  {
+    "razao_social": "PRG Consultoria Ltda.",
+    "nome_fantasia": "eTest",
+    "cnpj": "10440058000100",
+    "nome_fundador": "Paula Gomez",
+    "email_fundador": "paula.r.c.gomez@gmail.com"
+  },
+  {
+    "razao_social": "INQUESTI SERVI├çOS DE TECNOLOGIA LTDA",
+    "nome_fantasia": "inQuesti",
+    "cnpj": "20164707000140",
+    "nome_fundador": "Luciano de Oliveira Kassen",
+    "email_fundador": "luciano.kassen@inquesti.com.br"
+  },
+  {
+    "razao_social": "Javali Digital Comunica├º├úo e Publicidade LTDA",
+    "nome_fantasia": "Javali Digital",
+    "cnpj": "16602199000168",
+    "nome_fundador": "Raphael Tavares da Silva",
+    "email_fundador": "raphael.tavares@javalidigital.com.br"
+  },
+  {
+    "razao_social": "XPORY PERMUTAS CORPORATIVAS MULTILATERAIS LTDA",
+    "nome_fantasia": "XporY",
+    "cnpj": "11191289000190",
+    "nome_fundador": "Rafael Barbosa",
+    "email_fundador": "rafael@xpory.com"
+  },
+  {
+    "razao_social": "George Heiki Yoshizawa - ME",
+    "nome_fantasia": "Cogneti-Tec",
+    "cnpj": "20502436000196",
+    "nome_fundador": "George Heiki Yoshizawa",
+    "email_fundador": "george.yoshizawa@gmail.com"
+  },
+  {
+    "razao_social": "PRO3D - SERVI├çOS DE ENGENHARIA LTDA - ME",
+    "nome_fantasia": "Pro3D - Projetos Industriais",
+    "cnpj": "16825455000186",
+    "nome_fundador": "Leandro Antonio de Oliveira Correia",
+    "email_fundador": "leandro.correia@pro3dprojetos.com.br"
+  },
+  {
+    "razao_social": "RUBIAN XTRACT SERVI├çOS LTDA",
+    "nome_fantasia": "Rubian Xtract",
+    "cnpj": "22527916000137",
+    "nome_fundador": "Eduardo Cesar Andreo Aledo",
+    "email_fundador": "ealedo@icloud.com"
+  },
+  {
+    "razao_social": "Sleek Data Analysis",
+    "nome_fantasia": "Sleek Data",
+    "cnpj": "17172304000139",
+    "nome_fundador": "Andre Blazko",
+    "email_fundador": "andre.blazko@sleekdata.com.br"
+  },
+  {
+    "razao_social": "BIORECICLO SOLUCOES EM ENGENHARIA AMBIENTAL LTDA - ME",
+    "nome_fantasia": "Bioreciclo",
+    "cnpj": "22450528000103",
+    "nome_fundador": "Regina Comar",
+    "email_fundador": "recomar@gmail.com"
+  },
+  {
+    "razao_social": "Marcel Jose Lemes Pinheiro Servi├ºos - EPP",
+    "nome_fantasia": "Cybox Tecnologia",
+    "cnpj": "18383028000110",
+    "nome_fundador": "Marcel Jose Lemes Pinheiro",
+    "email_fundador": "diretor@cybox.com.br"
+  },
+  {
+    "razao_social": "Mupi Tecnologia e Servi├ºos de Informa├º├úo LTDA - ME",
+    "nome_fantasia": "Mupi",
+    "cnpj": "22262305000104",
+    "nome_fundador": "Paula Rodrigues Furtado",
+    "email_fundador": "paula@mupi.me"
+  },
+  {
+    "razao_social": "DEVNUP SOLUTIONS EM INFORM├üTICA LTDA",
+    "nome_fantasia": "Devnup",
+    "cnpj": "20898486000134",
+    "nome_fundador": "Luis Eduardo Gomes do Amaral Brito",
+    "email_fundador": "luis@devnup.com"
+  },
+  {
+    "razao_social": "Paulo Cezar de Lucca  ME",
+    "nome_fantasia": "Pangeia Biotech",
+    "cnpj": "23541759000187",
+    "nome_fundador": "Paulo Cezar de Lucca",
+    "email_fundador": "delucca@lgf.ib.unicamp.br"
+  },
+  {
+    "razao_social": "Holi - Com├®rcio de Alimentos e Gerenciamento da Sa├║de Ltda",
+    "nome_fantasia": "HOLI",
+    "cnpj": "24400179000132",
+    "nome_fundador": "Elisabete Regina Gurgel Rodrigues Castilho",
+    "email_fundador": "bete@holi.style"
+  },
+  {
+    "razao_social": "HOOBOX ROBOTICS TECNOLOGIA DO BRASIL LTDA - ME",
+    "nome_fantasia": "HOOBOX ROBOTICS",
+    "cnpj": "24746975000121",
+    "nome_fundador": "Paulo Gurgel Pinheiro",
+    "email_fundador": "paulopine@gmail.com"
+  },
+  {
+    "razao_social": "TECHNOVATION CONSULTORIA E ENGENHARIA LTDA",
+    "nome_fantasia": "IDR",
+    "cnpj": "13465346000107",
+    "nome_fundador": "Felipe Augusto Meiroz dos Santos",
+    "email_fundador": "felipe.meiroz@idrconsultoria.com.br"
+  },
+  {
+    "razao_social": "AS  Perroud Consultoria e Assessoria M├®dica Ltda.",
+    "nome_fantasia": "AS & Perroud Consultoria e Assessoria M├®dica Ltda.",
+    "cnpj": "7752689000150",
+    "nome_fundador": "Ana Paula de Almeida Salles Perroud",
+    "email_fundador": "asperroud@asperroud.com.br"
+  },
+  {
+    "razao_social": "Neobuild Com├®rcio e Solu├º├Áes em Automa├º├úo LTDA EPP",
+    "nome_fantasia": "Neobuild - ├üudio, V├¡deo e Automa├º├úo",
+    "cnpj": "13227847000155",
+    "nome_fundador": "Julius Weber",
+    "email_fundador": "contato@neobuild.com.br"
+  },
+  {
+    "razao_social": "THETIS GAMES - SERVICOS DE INFORMATICA LTDA",
+    "nome_fantasia": "Thetis Games E Simuladores",
+    "cnpj": "18636157000173",
+    "nome_fundador": "Luiz Ferreira Menezes Junior",
+    "email_fundador": "luiz@thetisgames.com"
+  },
+  {
+    "razao_social": "APIS3 CONSULTORIA E PROPAGANDA LTDA",
+    "nome_fantasia": "APIS3",
+    "cnpj": "13211902000119",
+    "nome_fundador": "Douglas Felipe Hertz",
+    "email_fundador": "douglas@apis3.com"
+  },
+  {
+    "razao_social": "Aur├®lio T.F.B. Otoni - Cimento - EPP",
+    "nome_fantasia": "BAUTH Artefatos de Cimento e Olaria",
+    "cnpj": "5663503000160",
+    "nome_fundador": "Aur├®lio Theophilo Fiorellini Borges Otoni",
+    "email_fundador": "aureliootoni@bauth.com.br"
+  },
+  {
+    "razao_social": "HEGIO PROJETOS E CONSTRU├ç├òES LTDA.",
+    "nome_fantasia": "Hegio Engenharia",
+    "cnpj": "14670674000108",
+    "nome_fundador": "GUSTAVO YOSHIZANE",
+    "email_fundador": "gustavo@hegio.com.br"
+  },
+  {
+    "razao_social": "Eletro Sol Industria e Com├®rcio Limitada",
+    "nome_fantasia": "Eletro Sol",
+    "cnpj": "56723042000105",
+    "nome_fundador": "Pedro Augusto Bueno Silva",
+    "email_fundador": "pedrinhobueno@gmail.com"
+  },
+  {
+    "razao_social": "Vijaya Artes, Cultura e Bem Estar Ltda",
+    "nome_fantasia": "Tatamito",
+    "cnpj": "15757996000151",
+    "nome_fundador": "MIRLA FERNANDES RIBEIRO",
+    "email_fundador": "mirlaf@gmail.com"
+  },
+  {
+    "razao_social": "LM Biotecnologia ltda",
+    "nome_fantasia": "LM Biotecnologia",
+    "cnpj": "66315334000162",
+    "nome_fundador": "Jean Michalaros",
+    "email_fundador": "jean@lmbiotecnologia.com.br"
+  },
+  {
+    "razao_social": "PROPTER DESENVOLVIMENTO GERENCIAL",
+    "nome_fantasia": "Propter Desenvolvimento Gerencial",
+    "cnpj": "5460722000142",
+    "nome_fundador": "Adriano Pedro Bom",
+    "email_fundador": "adriano@propterdg.com.br"
+  },
+  {
+    "razao_social": "Bruna Oliveira e Carvalho",
+    "nome_fantasia": "Dona Chica Slingueria",
+    "cnpj": "21865535000103",
+    "nome_fundador": "Bruna Oliveira e Carvalho",
+    "email_fundador": "donachicasling@gmail.com"
+  },
+  {
+    "razao_social": "LEONARDO VALENTIN ZEFERINO - ME",
+    "nome_fantasia": "Coffeely",
+    "cnpj": "22768753000184",
+    "nome_fundador": "Leonardo Valentin Zeferino",
+    "email_fundador": "leozeferino@gmail.com"
+  },
+  {
+    "razao_social": "KASCO P&D Tecnologia",
+    "nome_fantasia": "KASCO P&D Tecnologia",
+    "cnpj": "23419305000138",
+    "nome_fundador": "Diogo Gara",
+    "email_fundador": "diogogara@yahoo.com.br"
+  },
+  {
+    "razao_social": "Multiverso Consultoria e Servi├ºos de Softwares e Aplicativos LTDA",
+    "nome_fantasia": "Multi",
+    "cnpj": "16979640000125",
+    "nome_fundador": "Maich Bernardes",
+    "email_fundador": "maich@projetoasimov.com"
+  },
+  {
+    "razao_social": "SS solu├º├Áes Consultoria e Projetos em Engenharia LTDA",
+    "nome_fantasia": "SS solu├º├Áes",
+    "cnpj": "8579036000183",
+    "nome_fundador": "Rodrigo Faustini Vieira",
+    "email_fundador": "rodrigo.faustini@ss-solucoes.com.br"
+  },
+  {
+    "razao_social": "R & S BLUMOS INDUSTRIAL E COMERCIAL LTDA",
+    "nome_fantasia": "R & S Blumos",
+    "cnpj": "9407128000149",
+    "nome_fundador": "Eduardo Perego",
+    "email_fundador": "eduardo@rsblumos.com.br"
+  },
+  {
+    "razao_social": "Qualidade na Pr├íticas Sistemas de Gest├úo Ltda. ME",
+    "nome_fantasia": "Qualidade na Pr├ítica",
+    "cnpj": "18583524000118",
+    "nome_fundador": "Rodrigo dos Santos de Sousa",
+    "email_fundador": "rodrigo@qualidadenapratica.com.br"
+  },
+  {
+    "razao_social": "F├ívero e Esteves Equipamentos de Seguran├ºa Ltda. EPP",
+    "nome_fantasia": "Extin-Master Seguran├ºa Contra Inc├¬ndio",
+    "cnpj": "6193748000134",
+    "nome_fundador": "Nelson Esteves Cordeiro J├║nior",
+    "email_fundador": "administrativo@extinmaster.com.br"
+  },
+  {
+    "razao_social": "SCIPET SOLUCOES EM INOVACAO TECNOLOGICA LTDA",
+    "nome_fantasia": "SCIPET",
+    "cnpj": "26109349000150",
+    "nome_fundador": "Orlando Volpato Filho",
+    "email_fundador": "orlando@crowdpet.io"
+  },
+  {
+    "razao_social": "Sistemas Inteligentes em Telecomunica├º├Áes LTDA - ME",
+    "nome_fantasia": "Sintelicom",
+    "cnpj": "20631828000155",
+    "nome_fundador": "Jos├® Sidney Yamamoto",
+    "email_fundador": "sindi@innovatechtelecom.com"
+  },
+  {
+    "razao_social": "TAUFLOW ENGENHARIA LTDA - ME",
+    "nome_fantasia": "TAUFLOW",
+    "cnpj": "23883773000144",
+    "nome_fundador": "Marc├¡lio Jos├® Caetano",
+    "email_fundador": "marciliocaetano@hotmail.com"
+  },
+  {
+    "razao_social": "Soraya El-Khatib",
+    "nome_fantasia": "S DISTRIBUIDORA DE PRODUTOS COSMETICOS",
+    "cnpj": "14265814000162",
+    "nome_fundador": "Soraya El khatib",
+    "email_fundador": "sofarma1@yahoo.com.br"
+  },
+  {
+    "razao_social": "OXI AMBIENTAL ASSESSORIA E CONSULTORIA S.A.",
+    "nome_fantasia": "OXI Ambiental",
+    "cnpj": "13487115000102",
+    "nome_fundador": "Juliano de Almeida Andrade",
+    "email_fundador": "juliano@oxiambiental.com.br"
+  },
+  {
+    "razao_social": "Picolotec Servi├ºos em Tecnologia da Informa├º├úo LTDA - ME",
+    "nome_fantasia": "Picolotec Tecnologia",
+    "cnpj": "17124208000115",
+    "nome_fundador": "Cleber Pereira Picolo",
+    "email_fundador": "cleberpicolo@gmail.com"
+  },
+  {
+    "razao_social": "S-SYS Sistemas e Solu├º├Áes Tecnol├│gicas LTDA.",
+    "nome_fantasia": "S-SYS",
+    "cnpj": "19574864000145",
+    "nome_fundador": "Cleber Paiva de Souza",
+    "email_fundador": "cleber@ssys.com.br"
+  },
+  {
+    "razao_social": "Apex Science Consultoria Anal├¡tica Ltda.",
+    "nome_fantasia": "Apex Science",
+    "cnpj": "19843171000100",
+    "nome_fundador": "Amadeu Hoshi Iglesias",
+    "email_fundador": "amadeu_iglesias@apexsci.com.br"
+  },
+  {
+    "razao_social": "GUSTAVO BASTOS MORENO MAIA",
+    "nome_fantasia": "Instituto Brasileiro de Desenvolvimento do Esporte",
+    "cnpj": "26239853000174",
+    "nome_fundador": "Gustavo Bastos Moreno Maia",
+    "email_fundador": "gustavo.maia@inbrade.com.br"
+  },
+  {
+    "razao_social": "FGS Ind├║stria Criativa Ltda.",
+    "nome_fantasia": "Fineza",
+    "cnpj": "20046352000195",
+    "nome_fundador": "Carlos A. Figueroa",
+    "email_fundador": "carlos.cafiguer@gmail.com"
+  },
+  {
+    "razao_social": "Plasmar Industria Metalurgica Ltda",
+    "nome_fantasia": "Plasmar Tecnologia",
+    "cnpj": "10511141000122",
+    "nome_fundador": "Carlos A. Figueroa",
+    "email_fundador": "carlos.cafiguer@gmail.com"
+  },
+  {
+    "razao_social": "PATR├ìCIA CARBONI 35676322802",
+    "nome_fantasia": "Sempre+ Centro de Treinamento",
+    "cnpj": "21408493000173",
+    "nome_fundador": "Patricia Caeboni",
+    "email_fundador": "paticarboni@gmail.com"
+  },
+  {
+    "razao_social": "P.O. Tecnologia LTDA",
+    "nome_fantasia": "P.O. Tech",
+    "cnpj": "11840756000165",
+    "nome_fundador": "Fernando Marques de Almeida Nogueira",
+    "email_fundador": "fernando.nogueira@ufjf.edu.br"
+  },
+  {
+    "razao_social": "Shirlei de Souza Lelis 14044426856",
+    "nome_fantasia": "Rolling Drone Geotecnologias",
+    "cnpj": "20161026000241",
+    "nome_fundador": "Paulo Rodrigo Gaiotti Sim├Áes",
+    "email_fundador": "prsimoes@gmail.com"
+  },
+  {
+    "razao_social": "F64 Produ├º├Áes Audiovisuais LTDA",
+    "nome_fantasia": "F64 Filmes",
+    "cnpj": "17904679000146",
+    "nome_fundador": "Lourival Bel├®m de Oliveira Neto",
+    "email_fundador": "belemdeoliveira@gmail.com"
+  },
+  {
+    "razao_social": "QUID ENGENHARIA E CONSULTORIA LTDA",
+    "nome_fantasia": "QUID",
+    "cnpj": "20137821000181",
+    "nome_fundador": "Maria Izabel Battaiola Sallum",
+    "email_fundador": "izabel@quidengenharia.com"
+  },
+  {
+    "razao_social": "Atelier da Gest├úo e da Inova├º├úo Tecnol├│gica Ltda",
+    "nome_fantasia": "Atelier da Inova├º├úo",
+    "cnpj": "26463710000141",
+    "nome_fundador": "Eduardo Cesar Valente",
+    "email_fundador": "eduardo@clia.net.br"
+  },
+  {
+    "razao_social": "WIKIPED - EDUCA├ç├âO EM SA├ÜDE LTDA - ME",
+    "nome_fantasia": "PORTALPED",
+    "cnpj": "24064300000100",
+    "nome_fundador": "Sidney Volk da Silva",
+    "email_fundador": "sidneyvolk@yahoo.com.br"
+  },
+  {
+    "razao_social": "Noviga Partner",
+    "nome_fantasia": "Noviga Partner",
+    "cnpj": "27348381000150",
+    "nome_fundador": "Maria Cristina C. Nucci Mascarenhas",
+    "email_fundador": "crisnuccimasca@uol.com.br"
+  },
+  {
+    "razao_social": "Neuron Servi├ºos M├®dicos e Reabilita├º├úo S/S LTDA",
+    "nome_fantasia": "Instituto Neuron",
+    "cnpj": "19914652000160",
+    "nome_fundador": "Giovanna Shiomi Wopereis",
+    "email_fundador": "giovanna.shiomi@gmail.com"
+  },
+  {
+    "razao_social": "RECOURSE INFORM├üTICA LTDA",
+    "nome_fantasia": "RECOURSE IT ASSISTANCE",
+    "cnpj": "6788658000196",
+    "nome_fundador": "Marcio de Sousa Paiva",
+    "email_fundador": "marcio.paiva@recourse.com.br"
+  },
+  {
+    "razao_social": "Cambu├¡ Oftalmologia Cl├¡nica M├®dica LTDA",
+    "nome_fantasia": "Cambu├¡ Oftalmologia",
+    "cnpj": "26751830000144",
+    "nome_fundador": "Matheus Ivan Schimitz Vieira",
+    "email_fundador": "matheusivan@gmail.com"
+  },
+  {
+    "razao_social": "Saveway Comercio e Representa├º├úo de Software Ltda",
+    "nome_fantasia": "Saveway",
+    "cnpj": "3809579000126",
+    "nome_fundador": "Jos├® Caruso Gomes",
+    "email_fundador": "gomes@saveway.com.br"
+  },
+  {
+    "razao_social": "NUVETO COMUNICA├ç├òES LTDA",
+    "nome_fantasia": "Nuveto",
+    "cnpj": "26957821000104",
+    "nome_fundador": "Antonio Ribeiro Neto",
+    "email_fundador": "aribeiro@nuveto.com.br"
+  },
+  {
+    "razao_social": "CLASSAPP SISTEMAS LTDA",
+    "nome_fantasia": "ClassApp",
+    "cnpj": "21560411000101",
+    "nome_fundador": "Victor da Silva Pedrazzi",
+    "email_fundador": "vspedrazzi@gmail.com"
+  },
+  {
+    "razao_social": "Supporte Assessoria Esportiva Empresarial Ltda - EPP",
+    "nome_fantasia": "Supporte Educa├º├úo & Sa├║de no Trabalho",
+    "cnpj": "1326207000113",
+    "nome_fundador": "Valqu├¡ria Aparecida de Lima",
+    "email_fundador": "valquiria@supportesaude.com.br"
+  },
+  {
+    "razao_social": "Libre sem Gl├║ten Alimentos Ltda ME",
+    "nome_fantasia": "Libre Alimentos",
+    "cnpj": "27068761000131",
+    "nome_fundador": "Calim├®rio de Carvalho",
+    "email_fundador": "calimerio09@gmail.com"
+  },
+  {
+    "razao_social": "eLinke Tecnologia Ltda ME",
+    "nome_fantasia": "eLinke",
+    "cnpj": "24436569000162",
+    "nome_fundador": "Carlos Emir Mantovani Macedo",
+    "email_fundador": "carlos@elinke.com.br"
+  },
+  {
+    "razao_social": "Manipula├¬ Informa├º├úo e Tecnologia LTDA - EPP",
+    "nome_fantasia": "Manipula├¬",
+    "cnpj": "26255154100011",
+    "nome_fundador": "Thiago Colosio da Silva",
+    "email_fundador": "thiago@manipulae.com.br"
+  },
+  {
+    "razao_social": "Viajar Barato Intermedia├º├úo de Neg├│cios SA",
+    "nome_fantasia": "Viajar Barato",
+    "cnpj": "97535686000157",
+    "nome_fundador": "Gustavo Costa Barbosa",
+    "email_fundador": "gustavo@viajarbarato.com.br"
+  },
+  {
+    "razao_social": "Toneto Pesquisa em Consultoria LTDA-ME",
+    "nome_fantasia": "TonetoLabs",
+    "cnpj": "25275530000173",
+    "nome_fundador": "Wilton Pinheiro de Lima Neto",
+    "email_fundador": "wilton.pinheiro@b2trip.com"
+  },
+  {
+    "razao_social": "P&C ALMOFADAS EXCLUSIVAS LTDA EPP",
+    "nome_fantasia": "PATTERNS&COLORS",
+    "cnpj": "21985149000147",
+    "nome_fundador": "FABIO PREZOTO PRESTES",
+    "email_fundador": "PREZOTO.F@GMAIL.COM"
+  },
+  {
+    "razao_social": "4BIO Medicamentos SA",
+    "nome_fantasia": "4BIO Medicamentos Especiais",
+    "cnpj": "7015691000146",
+    "nome_fundador": "Andre Kina",
+    "email_fundador": "andre_kina@hotmail.com"
+  },
+  {
+    "razao_social": "JAM CONSULTORIA EM TECNOLOGIA LTDA - ME",
+    "nome_fantasia": "Fretad├úo",
+    "cnpj": "24672366000175",
+    "nome_fundador": "Bruno Filipe Milar├® de Macedo",
+    "email_fundador": "bruno@fretadao.com.br"
+  },
+  {
+    "razao_social": "TAO ESTRATEGIA LTDA - ME",
+    "nome_fantasia": "TAO",
+    "cnpj": "16994312000106",
+    "nome_fundador": "Cesar Nagano",
+    "email_fundador": "cesar@taoestrategia.com.br"
+  },
+  {
+    "razao_social": "DATART - TECNOLOGIA E SERVICOS PARA INFORMATIZACAO LTDA",
+    "nome_fantasia": "Datart",
+    "cnpj": "27191994000127",
+    "nome_fundador": "Pedro Tabacof",
+    "email_fundador": "ptabacof@datart.com.br"
+  },
+  {
+    "razao_social": "Vertigo Computa├º├úo Ltda.",
+    "nome_fantasia": "Vertigo Tecnologia",
+    "cnpj": "3308401000100",
+    "nome_fundador": "Bruno Tardin Badini",
+    "email_fundador": "bruno@vertigo.com.br"
+  },
+  {
+    "razao_social": "Qfir Sucos Probi├│ticos Ltda",
+    "nome_fantasia": "Qfir",
+    "cnpj": "21177980000172",
+    "nome_fundador": "Andrezza C Prestes",
+    "email_fundador": "andrezza@qfir.com.br"
+  },
+  {
+    "razao_social": "Chaim & Ramos Engenharia El├®trica LTDA ME.",
+    "nome_fantasia": "On Engenharia El├®trica",
+    "cnpj": "18131792000107",
+    "nome_fundador": "Pedro Paulo Chaim Abud",
+    "email_fundador": "p.abud@oon-eng.com.br"
+  },
+  {
+    "razao_social": "SAFIRA ADMINISTRACAO E COMERCIALIZACAO DE ENERGIA S.A.",
+    "nome_fantasia": "Safira Comercializadora",
+    "cnpj": "9495582000107",
+    "nome_fundador": "Mikio Kawai Junior",
+    "email_fundador": "mikio@gpsafira.com.br"
+  },
+  {
+    "razao_social": "Uni├úo M├íxima de Ensino S/C Ltda",
+    "nome_fantasia": "Escola do Max",
+    "cnpj": "5440459000120",
+    "nome_fundador": "Marcelo Alatzatianou Rodrigues",
+    "email_fundador": "marketing@escoladomax.com.br"
+  },
+  {
+    "razao_social": "Protobox Arquitetura e Design LTDA - ME",
+    "nome_fantasia": "Protobox",
+    "cnpj": "22419909000111",
+    "nome_fundador": "Renata La Rocca",
+    "email_fundador": "rlarocca@protobox.com.br"
+  },
+  {
+    "razao_social": "ALEXANDRE FONSECA BRANDAO - ME",
+    "nome_fantasia": "BIOXTHICA",
+    "cnpj": "24332798000137",
+    "nome_fundador": "Alexandre Fonseca Brand├úo",
+    "email_fundador": "abrandao@ifi.unicamp.br"
+  },
+  {
+    "razao_social": "Prima Quimica Ltda",
+    "nome_fantasia": "Prima Quimica",
+    "cnpj": "16906532000122",
+    "nome_fundador": "Josilene Pitta Mary Metello Neves",
+    "email_fundador": "josi@primaquimica.com"
+  },
+  {
+    "razao_social": "IMMUNOGENIC Assessoria e Diagn├│stico",
+    "nome_fantasia": "IMMUNOGENIC",
+    "cnpj": "23486712000168",
+    "nome_fundador": "Edgar Borges de Oliveira Junior",
+    "email_fundador": "edgar.biologo.net@gmail.com"
+  },
+  {
+    "razao_social": "CredFit Solu├º├Áes Financeiras Ltda",
+    "nome_fantasia": "Cred.Fit",
+    "cnpj": "23372546000179",
+    "nome_fundador": "Tiago Takamoto",
+    "email_fundador": "tiagotakamoto@cred.fit"
+  },
+  {
+    "razao_social": "PI-TECNOLOGIA LTDA",
+    "nome_fantasia": "PITEC",
+    "cnpj": "28176375000126",
+    "nome_fundador": "J├║lio C├®sar Rodirgues Fernandes de Oliveira",
+    "email_fundador": "julio@pitec.co"
+  },
+  {
+    "razao_social": "JW SWART Inova├º├úo em Semicondutores",
+    "nome_fantasia": "JW SWART Inova├º├úo em Semicondutores",
+    "cnpj": "17837181000108",
+    "nome_fundador": "Jacobus willibrordus swart",
+    "email_fundador": "jacobus.swart@gmail.com"
+  },
+  {
+    "razao_social": "IAGRO TECNOLOGIA E INOVA├ç├âO NA AGRICULTURA LTDA.",
+    "nome_fantasia": "IAgro Intelig├¬ncia no Agroneg├│cio",
+    "cnpj": "30435946000141",
+    "nome_fundador": "Andrei Grespan",
+    "email_fundador": "andreigrespan2@gmail.com"
+  },
+  {
+    "razao_social": "00Seg Seguran├ºa do Trabalho LTDA - ME",
+    "nome_fantasia": "00SEG",
+    "cnpj": "26273765000199",
+    "nome_fundador": "Thiago Nogueira Tavares",
+    "email_fundador": "thiago@00seg.com.br"
+  },
+  {
+    "razao_social": "DAVID CREIMER REICHHARDT 38039534801 MEI",
+    "nome_fantasia": "99Psico",
+    "cnpj": "19958088000187",
+    "nome_fundador": "David Reichhardt",
+    "email_fundador": "davidreic@gmail.com"
+  },
+  {
+    "razao_social": "Byma Solu├º├Áes em Entretenimento LTDA ME",
+    "nome_fantasia": "Byma",
+    "cnpj": "19856615000142",
+    "nome_fundador": "Fernando Engelmann Moraes Dias",
+    "email_fundador": "fmoraesdias@gmail.com"
+  },
+  {
+    "razao_social": "Avaut Sistemas de Audio Video e Automa├º├úo Ltda",
+    "nome_fantasia": "Avaut",
+    "cnpj": "21211977000128",
+    "nome_fundador": "Fernando Abe",
+    "email_fundador": "fernando.abe@avaut.com.br"
+  },
+  {
+    "razao_social": "Luciana Souza Galhardo de Andrade 25183242836",
+    "nome_fantasia": "Plan2U",
+    "cnpj": "24366508000176",
+    "nome_fundador": "Luciana Souza",
+    "email_fundador": "lsouza@plan2u.com.br"
+  }
+]

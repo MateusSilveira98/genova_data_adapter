@@ -3,7 +3,7 @@ var router = express.Router();
 const service = require('../services/index')
 
 router.get('/', function(req, res, next) {
-  service.createEmpresa(res).then(() => res.sendStatus(200))
+  res.send(service.createEmpresa().map(item => JSON.stringify(item)).join('<p></p>'))
 });
 
 module.exports = router;
