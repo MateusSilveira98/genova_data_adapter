@@ -61,7 +61,7 @@ function mergeJSONs() {
 }
 
 module.exports = {
-  'getEmpresas': mergeJSONs
+  'getEmpresasWithUsers': mergeJSONs
 }
 
 
