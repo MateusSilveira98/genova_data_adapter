@@ -6220,24 +6220,6 @@
     ]
   },
   {
-    "razao_social": "Plasmar Industria Metalurgica Ltda",
-    "nome": "Plasmar Tecnologia",
-    "fundado_em": "2008",
-    "email": "carlos.cafiguer@gmail.com",
-    "qtde_funcionarios": "5",
-    "investidor": "Não",
-    "faturamento": "2400000",
-    "incubacao": "Não",
-    "cidade": "Caxias do Sul",
-    "estado": "RS",
-    "propriedade_intelectual": false,
-    "colaboracao": false,
-    "spinoff": false,
-    "area_de_atuacao": [
-      "Engenharia"
-    ]
-  },
-  {
     "razao_social": "PMInova Gestão de Projetos e Inovação LTDA",
     "nome": "PMInova",
     "fundado_em": "2013",

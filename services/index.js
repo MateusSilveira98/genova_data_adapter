@@ -36,7 +36,7 @@ function mountEmpresa(empresaWithUser) {
   empresa.propriedade_intelectual = empresaWithUser.propriedade_intelectual;
   empresa.colaboracao = empresaWithUser.colaboracao;
   empresa.spinoff = empresaWithUser.spinoff;
-  empresa.area_de_atuacao = empresaWithUser.area_de_atuacao;
+  empresa.area_de_atuacao = JSON.stringify(empresaWithUser.area_de_atuacao);
   return empresa
 }
 function mountRelation(empresa_id, fundador_id) {

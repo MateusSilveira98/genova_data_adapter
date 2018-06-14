@@ -959,25 +959,11 @@
     "email_fundador": "wsanerip@terra.com.br"
   },
   {
-    "razao_social": "Adverta Editora Ltda.",
-    "nome_fantasia": "Marketing de Conte├║do",
-    "cnpj": "19556773000187",
-    "nome_fundador": "Rafael Rezende de Oliveira",
-    "email_fundador": "contato@webestrategica.com.br"
-  },
-  {
     "razao_social": "BUNNY CO COMUNICA├ç├âO LTDA.",
     "nome_fantasia": "Bunny Consulting - BunnyCo",
     "cnpj": "20277475000137",
     "nome_fundador": "Rodrigo C. Rubio",
     "email_fundador": "rubio@bunnyconsuting.com"
-  },
-  {
-    "razao_social": "QualiSign Inform├ítica S.A.",
-    "nome_fantasia": "QualiSign",
-    "cnpj": "17489855000120",
-    "nome_fundador": "Waldemar Alberto de F. Felippe",
-    "email_fundador": "rh@qualisoft.com.br"
   },
   {
     "razao_social": "GP Franchising Ltda",
@@ -1013,13 +999,6 @@
     "cnpj": "8605962000186",
     "nome_fundador": "Gustavo Longhin",
     "email_fundador": "longhin@simworx.com.br"
-  },
-  {
-    "razao_social": "Codeminer 42 Servi├ºos de Inform├ítica Ltda",
-    "nome_fantasia": "Codeminer 42",
-    "cnpj": "14659639000198",
-    "nome_fundador": "Daniel da Cruz Pisano",
-    "email_fundador": "daniel@aleap.com.br"
   },
   {
     "razao_social": "Achieve Leap Servi├ºos de Inform├ítica",
@@ -1340,13 +1319,6 @@
     "razao_social": "FGS Ind├║stria Criativa Ltda.",
     "nome_fantasia": "Fineza",
     "cnpj": "20046352000195",
-    "nome_fundador": "Carlos A. Figueroa",
-    "email_fundador": "carlos.cafiguer@gmail.com"
-  },
-  {
-    "razao_social": "Plasmar Industria Metalurgica Ltda",
-    "nome_fantasia": "Plasmar Tecnologia",
-    "cnpj": "10511141000122",
     "nome_fundador": "Carlos A. Figueroa",
     "email_fundador": "carlos.cafiguer@gmail.com"
   },
