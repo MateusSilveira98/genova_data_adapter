@@ -63,13 +63,6 @@
     "email_fundador": "humberto@alibra.com.br"
   },
   {
-    "razao_social": "AsGA S.A.",
-    "nome_fantasia": "AsGA",
-    "cnpj": "59694729000158",
-    "nome_fundador": "Michel Cusnir",
-    "email_fundador": "michel.cusnir@asgasistemas.com.br"
-  },
-  {
     "razao_social": "Bioluz Equipamentos e Servi├ºos Ltda",
     "nome_fantasia": "Bioluz Equipamentos e Servi├ºos",
     "cnpj": "962067000107",
@@ -222,13 +215,6 @@
     "cnpj": "7015833000175",
     "nome_fundador": "Rodrigo de Oliveira Moraes",
     "email_fundador": "rodrigo@probiom.com.br"
-  },
-  {
-    "razao_social": "Thorus Scisoft Tecnologia Ltda",
-    "nome_fantasia": "Thorus Scisoft",
-    "cnpj": "6886960000187",
-    "nome_fundador": "Alberto Costa Nogueira Jr.",
-    "email_fundador": "alberto.costa@thorus-scisoft.com.br"
   },
   {
     "razao_social": "UniSoma Computa├º├úo Ltda",
@@ -390,13 +376,6 @@
     "cnpj": "8583723000172",
     "nome_fundador": "Kleber Rogerio Bacili",
     "email_fundador": "kleber.bacili@sensedia.com"
-  },
-  {
-    "razao_social": "Via Consultoria em Inform├ítica Sc Ltda",
-    "nome_fantasia": "Via Consulting",
-    "cnpj": "4113402000153",
-    "nome_fundador": "Wellinton Oliveira",
-    "email_fundador": "wellinton.oliveira@viaconsulting.com.br"
   },
   {
     "razao_social": "Netbras Consultoria Tecnol├│gica Ltda",
@@ -700,13 +679,6 @@
     "email_fundador": "guilherme@limpgas.com.br"
   },
   {
-    "razao_social": "Legoolus Ind├║stria e Com├®rcio de Produtos Eletro-Eletr├┤nicos Ltda",
-    "nome_fantasia": "Legoolus Automa├º├úo Residencial & Home Theater",
-    "cnpj": "11191540000116",
-    "nome_fundador": "Jurandy Antonio do Nascimento",
-    "email_fundador": "jurandy.nascimento@legoolus.com.br"
-  },
-  {
     "razao_social": "IBDEC Educa├º├úo Executiva e Profissionalizante Ltda.",
     "nome_fantasia": "Grupo IBDEC",
     "cnpj": "8482427000185",
@@ -719,13 +691,6 @@
     "cnpj": "2725587000121",
     "nome_fundador": "Alexandre de Munno Francisco",
     "email_fundador": "alexandre@webtraining.com.br"
-  },
-  {
-    "razao_social": "Master Minds Investimentos Ltda.",
-    "nome_fantasia": "Master Minds Capital",
-    "cnpj": "9432562000189",
-    "nome_fundador": "Heitor Mizumoto Ono",
-    "email_fundador": "heitor.ono@mastermindscapital.com"
   },
   {
     "razao_social": "NB M├üQUINAS LTDA",
@@ -819,13 +784,6 @@
     "email_fundador": "braga@tophint.com.br"
   },
   {
-    "razao_social": "UCP Engenharia Ltda",
-    "nome_fantasia": "UCP Engenharia",
-    "cnpj": "15711698000120",
-    "nome_fundador": "Vagner Pereira Pardinho",
-    "email_fundador": "vagner.pardinho@ucpengenharia.com"
-  },
-  {
     "razao_social": "MC1 Tecnologia da Informa├º├úo Ltda.",
     "nome_fantasia": "MC1",
     "cnpj": "5896710000165",
@@ -875,13 +833,6 @@
     "email_fundador": "mauricio@burst.com.br"
   },
   {
-    "razao_social": "Odb Tecnologia Me Ltda",
-    "nome_fantasia": "Fottorama",
-    "cnpj": "15060375000114",
-    "nome_fundador": "William Marques Dias",
-    "email_fundador": "william.dias@odbtecnologia.com.br"
-  },
-  {
     "razao_social": "Okyra Consultoria e  Educa├º├úo Ltda Me.",
     "nome_fantasia": "Okyra Consultoria",
     "cnpj": "11822564000126",
@@ -901,13 +852,6 @@
     "cnpj": "15334682000146",
     "nome_fundador": "Rafael Augusto Peressinoto",
     "email_fundador": "rap@showcasepro.com.br"
-  },
-  {
-    "razao_social": "InReservoir Solutions - Projetos e Pesquisa em Ci├¬ncias e Engenharia de Petr├│leo LTDA",
-    "nome_fantasia": "Solpe",
-    "cnpj": "18981773000161",
-    "nome_fundador": "Carlos Eduardo Andrade Gomes Barreto",
-    "email_fundador": "carlos.barreto@inreservoirsolutions.com"
   },
   {
     "razao_social": "ESG Comercio Eletronico Ltda",
@@ -1015,13 +959,6 @@
     "email_fundador": "luciano.kassen@inquesti.com.br"
   },
   {
-    "razao_social": "Javali Digital Comunica├º├úo e Publicidade LTDA",
-    "nome_fantasia": "Javali Digital",
-    "cnpj": "16602199000168",
-    "nome_fundador": "Raphael Tavares da Silva",
-    "email_fundador": "raphael.tavares@javalidigital.com.br"
-  },
-  {
     "razao_social": "XPORY PERMUTAS CORPORATIVAS MULTILATERAIS LTDA",
     "nome_fantasia": "XporY",
     "cnpj": "11191289000190",
@@ -1034,13 +971,6 @@
     "cnpj": "20502436000196",
     "nome_fundador": "George Heiki Yoshizawa",
     "email_fundador": "george.yoshizawa@gmail.com"
-  },
-  {
-    "razao_social": "PRO3D - SERVI├çOS DE ENGENHARIA LTDA - ME",
-    "nome_fantasia": "Pro3D - Projetos Industriais",
-    "cnpj": "16825455000186",
-    "nome_fundador": "Leandro Antonio de Oliveira Correia",
-    "email_fundador": "leandro.correia@pro3dprojetos.com.br"
   },
   {
     "razao_social": "RUBIAN XTRACT SERVI├çOS LTDA",
@@ -1104,13 +1034,6 @@
     "cnpj": "24746975000121",
     "nome_fundador": "Paulo Gurgel Pinheiro",
     "email_fundador": "paulopine@gmail.com"
-  },
-  {
-    "razao_social": "TECHNOVATION CONSULTORIA E ENGENHARIA LTDA",
-    "nome_fantasia": "IDR",
-    "cnpj": "13465346000107",
-    "nome_fundador": "Felipe Augusto Meiroz dos Santos",
-    "email_fundador": "felipe.meiroz@idrconsultoria.com.br"
   },
   {
     "razao_social": "AS  Perroud Consultoria e Assessoria M├®dica Ltda.",
@@ -1211,32 +1134,11 @@
     "email_fundador": "maich@projetoasimov.com"
   },
   {
-    "razao_social": "SS solu├º├Áes Consultoria e Projetos em Engenharia LTDA",
-    "nome_fantasia": "SS solu├º├Áes",
-    "cnpj": "8579036000183",
-    "nome_fundador": "Rodrigo Faustini Vieira",
-    "email_fundador": "rodrigo.faustini@ss-solucoes.com.br"
-  },
-  {
     "razao_social": "R & S BLUMOS INDUSTRIAL E COMERCIAL LTDA",
     "nome_fantasia": "R & S Blumos",
     "cnpj": "9407128000149",
     "nome_fundador": "Eduardo Perego",
     "email_fundador": "eduardo@rsblumos.com.br"
-  },
-  {
-    "razao_social": "Qualidade na Pr├íticas Sistemas de Gest├úo Ltda. ME",
-    "nome_fantasia": "Qualidade na Pr├ítica",
-    "cnpj": "18583524000118",
-    "nome_fundador": "Rodrigo dos Santos de Sousa",
-    "email_fundador": "rodrigo@qualidadenapratica.com.br"
-  },
-  {
-    "razao_social": "F├ívero e Esteves Equipamentos de Seguran├ºa Ltda. EPP",
-    "nome_fantasia": "Extin-Master Seguran├ºa Contra Inc├¬ndio",
-    "cnpj": "6193748000134",
-    "nome_fundador": "Nelson Esteves Cordeiro J├║nior",
-    "email_fundador": "administrativo@extinmaster.com.br"
   },
   {
     "razao_social": "SCIPET SOLUCOES EM INOVACAO TECNOLOGICA LTDA",

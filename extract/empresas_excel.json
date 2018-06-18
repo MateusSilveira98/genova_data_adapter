@@ -1523,24 +1523,6 @@
     ]
   },
   {
-    "razao_social": "CI&T Software S/A",
-    "nome": "CI&T",
-    "fundado_em": "1995",
-    "email": "cmorais@ciandt.com",
-    "qtde_funcionarios": "2500",
-    "investidor": "Ao longo de sua história, a CI&T obteve apoio das seguintes instituições:Finep: foram duas subvenções aprovadas",
-    "faturamento": "0",
-    "incubacao": "FAPESP: parceria para investimento conjunto através do Programa PITE",
-    "cidade": "CNPq: projeto que apoiou o desenvolvimento do spin-off Sensedia",
-    "estado": "Softex/APEX: apoio destas instituições para ações relacionadas à internacionalização da CI&T.",
-    "propriedade_intelectual": "300000000",
-    "colaboracao": "Não",
-    "spinoff": "Campinas",
-    "area_de_atuacao": [
-      "SP"
-    ]
-  },
-  {
     "razao_social": "ClanSoft Desenvolvimento de Software Ltda",
     "nome": "ClanSoft",
     "fundado_em": "2009",
@@ -2674,24 +2656,6 @@
       "Energia",
       "Consultoria",
       "Engenharia"
-    ]
-  },
-  {
-    "razao_social": "Fávero e Esteves Equipamentos de Segurança Ltda. EPP",
-    "nome": "Extin-Master Segurança Contra Incêndio",
-    "fundado_em": "2004",
-    "email": "administrativo@extinmaster.com.br",
-    "qtde_funcionarios": "20",
-    "investidor": "Não",
-    "faturamento": "0",
-    "incubacao": "Não",
-    "cidade": "Campinas",
-    "estado": "SP",
-    "propriedade_intelectual": false,
-    "colaboracao": false,
-    "spinoff": false,
-    "area_de_atuacao": [
-      "Outro"
     ]
   },
   {
@@ -4622,25 +4586,6 @@
     "spinoff": false,
     "area_de_atuacao": [
       "Saude"
-    ]
-  },
-  {
-    "razao_social": "Legoolus Indústria e Comércio de Produtos Eletro-Eletrônicos Ltda",
-    "nome": "Legoolus Automação Residencial & Home Theater",
-    "fundado_em": "2009",
-    "email": "jurandy.nascimento@legoolus.com.br",
-    "qtde_funcionarios": "2",
-    "investidor": "Não",
-    "faturamento": "2400000",
-    "incubacao": "Não",
-    "cidade": "São Paulo",
-    "estado": "SP",
-    "propriedade_intelectual": false,
-    "colaboracao": false,
-    "spinoff": false,
-    "area_de_atuacao": [
-      "Outro",
-      "Engenharia"
     ]
   },
   {
@@ -6631,26 +6576,6 @@
     ]
   },
   {
-    "razao_social": "Qualidade na Práticas Sistemas de Gestão Ltda. ME",
-    "nome": "Qualidade na Prática",
-    "fundado_em": "2013",
-    "email": "rodrigo@qualidadenapratica.com.br",
-    "qtde_funcionarios": "5",
-    "investidor": "Não",
-    "faturamento": "360000",
-    "incubacao": "Não",
-    "cidade": "Campinas",
-    "estado": "SP",
-    "propriedade_intelectual": true,
-    "colaboracao": false,
-    "spinoff": false,
-    "area_de_atuacao": [
-      "Engenharia",
-      "Consultoria",
-      "Saude"
-    ]
-  },
-  {
     "razao_social": "QualiSign Informática S.A.",
     "nome": "QualiSign",
     "fundado_em": "2013",
@@ -8227,24 +8152,6 @@
     ]
   },
   {
-    "razao_social": "Thorus Scisoft Tecnologia Ltda",
-    "nome": "Thorus Scisoft",
-    "fundado_em": "2004",
-    "email": "alberto.costa@thorus-scisoft.com.br",
-    "qtde_funcionarios": "5",
-    "investidor": "Fapesp: PIPE (fases 1 e 2) na área de CFD",
-    "faturamento": "PIPE (fase 1) na área de durabilidade.CNPq: RHAE na área de Sísmica.",
-    "incubacao": "2400000",
-    "cidade": "Não",
-    "estado": "Campinas",
-    "propriedade_intelectual": "SP",
-    "colaboracao": false,
-    "spinoff": false,
-    "area_de_atuacao": [
-      true
-    ]
-  },
-  {
     "razao_social": "THRUONE GROUP INDÚSTRIA E COMERCIO DE PRODUTOS DE ALTA TECNOLOGIA E SERVIÇOS TÉCNICOS LTDA - EPP",
     "nome": "THRUONE GROUP",
     "fundado_em": "2013",
@@ -8660,25 +8567,6 @@
     "colaboracao": false,
     "spinoff": false,
     "area_de_atuacao": [
-      "Consultoria"
-    ]
-  },
-  {
-    "razao_social": "Via Consultoria em Informática Sc Ltda",
-    "nome": "Via Consulting",
-    "fundado_em": "2004",
-    "email": "wellinton.oliveira@viaconsulting.com.br",
-    "qtde_funcionarios": "35",
-    "investidor": "Não",
-    "faturamento": "300000000",
-    "incubacao": "Não",
-    "cidade": "São Paulo",
-    "estado": "SP",
-    "propriedade_intelectual": false,
-    "colaboracao": false,
-    "spinoff": false,
-    "area_de_atuacao": [
-      "Tecnologia de Informação",
       "Consultoria"
     ]
   },

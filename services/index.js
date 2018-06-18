@@ -2,6 +2,8 @@ const JSONs = require('../extract/extractJSON');
 const Model = require('../model/index');
 const _ = require('lodash');
 
+let date = '2018-06-18 16:00:00';
+
 function mountUser(empresaWithUser) {
   let user = {}
   user.username = user.displayname = user.email = empresaWithUser.email_fundador;
@@ -18,10 +20,13 @@ function mountFundador(empresaWithUser, user) {
   fundador.user_id = user.id;
   fundador.status = 'published';
   fundador.senha = user.password;
-  fundador.slug = `${empresaWithUser.nome_fundador}-${user.id}`;
+  fundador.slug = `slug-${user.id}`;
+  fundador.datecreated = date;
+  fundador.datepublish = date;
+  fundador.datechanged = date;
   return fundador
 }
-function mountEmpresa(empresaWithUser) {
+function mountEmpresa(empresaWithUser, user) {
   let empresa = {}
   empresa.razao_social = empresaWithUser.razao_social;
   empresa.nome = empresaWithUser.nome;
@@ -37,6 +42,11 @@ function mountEmpresa(empresaWithUser) {
   empresa.colaboracao = empresaWithUser.colaboracao;
   empresa.spinoff = empresaWithUser.spinoff;
   empresa.area_de_atuacao = JSON.stringify(empresaWithUser.area_de_atuacao);
+  empresa.status = 'published';
+  empresa.slug = `slug-${user.id}`
+  empresa.datecreated = date;
+  empresa.datepublish = date;
+  empresa.datechanged = date;
   return empresa
 }
 function mountRelation(empresa_id, fundador_id) {
@@ -53,13 +63,12 @@ function create() {
     let user = mountUser(empresaWithUser);
     user.id = await Model.Users.create(user);
     let fundador = mountFundador(empresaWithUser, user);
-    fundador.id = await Model.Fundadores.create(fundador);
-    let empresa = mountEmpresa(empresaWithUser);
+    fundador.id = await Model.Fundadores.create(fundador)
+    let empresa = mountEmpresa(empresaWithUser, user);
     empresa.id = await Model.Empresas.create(empresa);
     let relation = mountRelation(empresa.id, fundador.id);
     relation = await Model.Relations.create(relation);
-    
-    return await _.merge(_.merge(fundador, user), _.merge(empresa, relation));
+    return _.merge(fundador, empresa);
   });
   return array
 }
