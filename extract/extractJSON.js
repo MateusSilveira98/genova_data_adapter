@@ -3,6 +3,10 @@ const EmpresasExcel = require('./empresas_excel.json');
 const EmpresasWithUsers = require('./empresas_with_users2018.json');
 const _ = require('lodash');
 
+const jsonWithUsers = extractJSONWithUsers();
+const jsonExcel = extractExcelJSON();
+const jsonEndpoint = extractEndpointJSON();
+
 function extractEndpointJSON() {
   const verifyGraduada = item => item.graduada === 'f' ? 'Não' : 'Graduada';
   let newEmpresaJSON = EmpresasEndpoint.map(item => {
@@ -55,9 +59,20 @@ function extractJSONWithUsers() {
 }
 
 function mergeJSONs() {
-  let empresas = _.merge(extractExcelJSON(), extractEndpointJSON());
-  empresas = _.merge(extractJSONWithUsers(), empresas);
-  return empresas.filter(empresa => empresa.nome_fundador && empresa.email_fundador)
+  let partialMerge = jsonEndpoint.map(endpointItem => {
+    let empresasExcel = _.filter(jsonExcel, excelItem => endpointItem.nome === excelItem.nome);
+    let empresasWithUsers = _.filter(jsonWithUsers, withUsersItem => endpointItem.nome === withUsersItem.nome);
+    return _.merge(empresasExcel, empresasWithUsers)
+  })
+  let empresas = partialMerge.map(item => {
+    let empresasEndpoint = _.filter(jsonEndpoint, endpointItem => item.nome === endpointItem.nome);
+    let empresasExcel = _.filter(jsonExcel, excelItem => item.nome === excelItem.nome);
+    let empresasWithUsers = _.filter(jsonWithUsers, withUsersItem => item.nome === withUsersItem.nome);
+    let firstMerge = _.merge(empresasEndpoint, empresasExcel);
+    let lastMerge = _.merge(firstMerge, empresasWithUsers);
+    return lastMerge
+  })
+  return empresas
 }
 
 module.exports = {
