@@ -1,15 +1,13 @@
 const EmpresasEndpoint = require('./empresas_endpoint.json');
 const EmpresasExcel = require('./empresas_excel.json');
-const EmpresasWithUsers = require('./empresas_with_users2018.json');
 const _ = require('lodash');
 
-const jsonWithUsers = extractJSONWithUsers();
-const jsonExcel = extractExcelJSON();
-const jsonEndpoint = extractEndpointJSON();
+let jsonEnpoint = extractEndpointJSON();
+let jsonExcel = extractExcelJSON();
 
 function extractEndpointJSON() {
   const verifyGraduada = item => item.graduada === 'f' ? 'Não' : 'Graduada';
-  let newEmpresaJSON = EmpresasEndpoint.map(item => {
+  return EmpresasEndpoint.map(item => {
     let empresa = { status: 'published' }
     empresa.razao_social = item.razao_social;
     empresa.nome = item.nome_fantasia;
@@ -19,12 +17,14 @@ function extractEndpointJSON() {
     empresa.qtde_funcionarios = item.numero_funcionarios;
     empresa.descricao = item.descricao;
     empresa.area_de_atuacao = item.areas.map(area => area.area_atuacao);
+    empresa.nome_fundador = item.nome_fundador;
+    empresa.email_fundador = item.email_fundador;
+    empresa.cnpj = item.cnpj;
     return empresa
   });
-  return newEmpresaJSON
 }
 function extractExcelJSON() {
-  let newEmpresaExcel = EmpresasExcel.map(item => {
+  return EmpresasExcel.map(item => {
     let empresa = {}
     empresa.razao_social = item.razao_social;
     empresa.nome = item.nome;
@@ -41,38 +41,19 @@ function extractExcelJSON() {
     empresa.spinoff = item.spinoff;
     empresa.area_de_atuacao = item.area_de_atuacao.map(area => area);
     return empresa
-  })
-  return newEmpresaExcel
-}
-
-function extractJSONWithUsers() {
-  let newEmpresaWithUser = EmpresasWithUsers.map(item => {
-    let empresa = {}
-    empresa.razao_social = item.razao_social;
-    empresa.nome = item.nome_fantasia;
-    empresa.cnpj = item.cnpj;
-    empresa.nome_fundador = item.nome_fundador
-    empresa.email_fundador = item.email_fundador
-    return empresa
-  })
-  return newEmpresaWithUser
+  });
 }
 
 function mergeJSONs() {
-  let partialMerge = jsonEndpoint.map(endpointItem => {
-    let empresasExcel = _.filter(jsonExcel, excelItem => endpointItem.nome === excelItem.nome);
-    let empresasWithUsers = _.filter(jsonWithUsers, withUsersItem => endpointItem.nome === withUsersItem.nome);
-    return _.merge(empresasExcel, empresasWithUsers)
+  let merge = [];
+  jsonEnpoint = _.filter(jsonEnpoint, item => item.email_fundador && item.nome_fundador)
+  jsonExcel.forEach(excelItem => {
+    let jsonEnpointFiltered = _.filter(jsonEnpoint, endpointItem => excelItem.nome === endpointItem.nome);
+    jsonEnpointFiltered.forEach(arrItem => {
+      merge.push(_.merge(arrItem, excelItem))
+    });
   })
-  let empresas = partialMerge.map(item => {
-    let empresasEndpoint = _.filter(jsonEndpoint, endpointItem => item.nome === endpointItem.nome);
-    let empresasExcel = _.filter(jsonExcel, excelItem => item.nome === excelItem.nome);
-    let empresasWithUsers = _.filter(jsonWithUsers, withUsersItem => item.nome === withUsersItem.nome);
-    let firstMerge = _.merge(empresasEndpoint, empresasExcel);
-    let lastMerge = _.merge(firstMerge, empresasWithUsers);
-    return lastMerge
-  })
-  return empresas
+  return merge
 }
 
 module.exports = {

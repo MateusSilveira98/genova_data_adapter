@@ -59,7 +59,7 @@ function mountRelation(empresa_id, fundador_id) {
 }
 function create() {
   let array = []
-  array = JSONs.getEmpresasWithUsers().map(async empresaWithUser => {
+  JSONs.getEmpresasWithUsers().forEach(async empresaWithUser => {
     let user = mountUser(empresaWithUser);
     user.id = await Model.Users.create(user);
     let fundador = mountFundador(empresaWithUser, user);
@@ -68,7 +68,7 @@ function create() {
     empresa.id = await Model.Empresas.create(empresa);
     let relation = mountRelation(empresa.id, fundador.id);
     relation = await Model.Relations.create(relation);
-    return _.merge(fundador, empresa);
+    array.push(_.merge(fundador, empresa));
   });
   return array
 }

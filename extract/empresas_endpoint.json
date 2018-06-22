@@ -78,6 +78,9 @@
     "ano_venda": null,
     "descricao": "CI&T é a parceira de soluções digitais das marcas mais valiosas do mundo e é pioneira na aplicação de Design Thinking, metodologias Lean e tecnologias avançadas como Machine Learning/ Inteligência Artificial (AI), Analytics, Cloud e Mobility. Também reúne competências na criação de ofertas que combinam estratégias de marketing digital às de tecnologia. Ao longo dos últimos 20 anos, a CI&T tem sido eleita a parceira de confiança para resolver os desafios mais complexos dentro de companhias globais. Com mais de 2.500 colaboradores, incluindo estrategistas de negócios digitais, designers e engenheiros nos Estados Unidos, Brasil, Reino Unido, Austrália Japão e China, a CI&T é grande o suficiente para escalar as necessidades de empresas que figuram no ranking da Fortune 100 e ágil o bastante para chegar à velocidade que os clientes do mercado atual tanto demandam. Para mais informações sobre a CI&T, acesse: www.ciandt.com.",
     "vendida": "f",
+    "cnpj": "609634000146",
+    "nome_fundador": "Fernando Matt Borges Martins",
+    "email_fundador": "fernando@ciandt.com",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -316,6 +319,9 @@
     "ano_venda": null,
     "descricao": "Fabricante de sistemas eletrônicos para veículos.",
     "vendida": "f",
+    "cnpj": "84496066000295",
+    "nome_fundador": "Marcos Ferretti",
+    "email_fundador": "marcos.ferretti@kartfly.com.br",
     "areas": [
       {
         "id_area_atuacao": 14,
@@ -376,6 +382,9 @@
     "ano_venda": null,
     "descricao": "Empresa brasileira com atuação no desenvolvimento de tecnologias para geração de hidrogênio, energia e soluções em controle, automação e supervisão. Pioneira na geração solar fotovoltaica (primeira usina do estado de São Paulo), atua com EPCM em usinas fotovoltaicas, no gerenciamento, monitoramento e manutenção de usinas fotovoltaicas, bem como em cogeração de energia em processos térmicos.",
     "vendida": "f",
+    "cnpj": "6103086000164",
+    "nome_fundador": "Daniel Lopes",
+    "email_fundador": "daniel@hytron.com.br",
     "areas": [
       {
         "id_area_atuacao": 7,
@@ -554,6 +563,9 @@
     "ano_venda": null,
     "descricao": "Participa de Projetos de P&D de Concessionárias de Energia\r\n\r\nPresta Serviços de:\r\nRISE - Relatório de Impacto no Sistema Elétrico\r\nMonitoramento e Diagnóstico da Qualidade da Energia Elétrica.\r\nInvestiga e propões ações para desligamento de máquinas relacionada a problemas de QEE ou Sistemas de Proteção.\r\nOtimização das Instalações Elétricas visando reduzir perdas e melhorar desempenho.\r\nProcesso de ligações novas ou aumento de cargas.\r\nEstudo de Coordenação e Seletividade da proteção.\r\nEstudos de Eficiência Energética.",
     "vendida": "f",
+    "cnpj": "4126313000141",
+    "nome_fundador": "Fernando Pinhabel Maraf├úo",
+    "email_fundador": "fmarafao@gmail.com",
     "areas": [
       {
         "id_area_atuacao": 7,
@@ -762,6 +774,9 @@
     "ano_venda": null,
     "descricao": "A Padtec é voltada ao desenvolvimento, fabricação e comercialização de sistemas de comunicações ópticas de alta capacidade. Fornecedora de soluções para redes de longa distância, metropolitanas, redes de acesso e storage, a Padtec se destaca pela sua presença nas redes dos maiores provedores de serviços de telecomunicações da América Latina.\r\nCom negócios e representantes na América Latina, América do Norte, África, Europa e Ásia, a Padtec tem se consolidado como uma fornecedora de soluções de alta tecnologia em nível mundial.",
     "vendida": "f",
+    "cnpj": "3549807000176",
+    "nome_fundador": "Roberto Yoshihiro Nakamura",
+    "email_fundador": "nakamura@padtec.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -814,6 +829,9 @@
     "ano_venda": null,
     "descricao": "A Kryptus é uma empresa 100% brasileira focada em prover soluções de Segurança da Informação. É voltada, principalmente, para clientes que demandam alto nível de segurança e domínio tecnológico.\r\nFundada em 2003 na cidade de Campinas, a Kryptus desenvolve, integra e implanta uma gama de soluções de hardware, firmware e software, incluindo desde semicondutores até sistemas complexos de gestão de processos com certificação digital, contando com um time de desenvolvimento altamente qualificado nas áreas de Engenharia Criptográfica e Segurança da Informação.",
     "vendida": "f",
+    "cnpj": "5761098000113",
+    "nome_fundador": "Leonardo Aparecido Figueiredo Cabral",
+    "email_fundador": "cabral@kryptus.com",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -1008,6 +1026,9 @@
     "ano_venda": null,
     "descricao": "Empresa com mais de 15 anos de experiência em inovação, utilização de Inteligência Artificial e otimização em diversos segmentos da indústria e comércio onde a tecnologia e o sucesso de nossos clientes são o caminho para algo mais importante: o relacionamento e a confiança entre a Nitryx e seus clientes e o relacionamento entre os colaboradores da Nitryx.\r\nNosso ambiente de trabalho é solo fértil para a inovação tecnológica.",
     "vendida": "f",
+    "cnpj": "13351661000103",
+    "nome_fundador": "Rodrigo Almeida Gon├ºalves",
+    "email_fundador": "rodrigo@nitryx.com",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -1049,6 +1070,9 @@
     "ano_venda": null,
     "descricao": "A Takase & Dias Engenharia LTDA é uma pequena empresa que atua na área de consultoria de engenharia, desenvolvimento e vendas de software. Atualmente a empresa conta com dois sócios, sendo um engenheiro mecânico formado no ITA (Instituto Tecnológico de Aeronáutica) e um engenheiro da computação formado na UNICAMP.",
     "vendida": "f",
+    "cnpj": "5287753000143",
+    "nome_fundador": "Rodrigo Dias Takase",
+    "email_fundador": "rodrigotakase@gmail.com",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -1224,6 +1248,9 @@
     "ano_venda": null,
     "descricao": "A Alibra Ingredientes é uma empresa nacional especializada no fornecimento de ingredientes, misturas alimentícias em pó e substitutos de queijos para o mercado de alimentos e de bebidas. A empresa é resultado de uma sólida formação técnica dos sócios, com know-how adquirido em grandes multinacionais no setor de alimentos.  Atualmente é referência no fornecimento de ingredientes para indústrias alimentícias de todos os portes no Brasil e no exterior.",
     "vendida": "f",
+    "cnpj": "3645657000102",
+    "nome_fundador": "Humberto Salvador Afonso",
+    "email_fundador": "humberto@alibra.com.br",
     "areas": [
       {
         "id_area_atuacao": 6,
@@ -1284,6 +1311,9 @@
     "ano_venda": null,
     "descricao": "Empresa voltada para a manutenção de laseres médico odontológicos, fabricação de equipamentos e acessórios utilizados em radioterapia, desenvolvimento de projetos na área científica utilizando radiação ultravioleta e projetos optomecânicos.",
     "vendida": "f",
+    "cnpj": "962067000107",
+    "nome_fundador": "Paulo Ricardo Steller Wagner",
+    "email_fundador": "bioluz@bioluz.com.br",
     "areas": [
       {
         "id_area_atuacao": 5,
@@ -1325,6 +1355,9 @@
     "ano_venda": null,
     "descricao": "A BrainWeb é uma empresa de base tecnológica, especializada em identificar formas inovadoras de se usar a Tecnologia da Informação. Estabelecida no mercado há mais de quinze anos, trabalha principalmente com soluções para web e mobile (Android e iPhone). Conheça nossos cases!",
     "vendida": "f",
+    "cnpj": "2677328000172",
+    "nome_fundador": "Gabriel Esteves Marques Pinto",
+    "email_fundador": "contato@brainweb.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -1355,6 +1388,9 @@
     "ano_venda": null,
     "descricao": "A Daitan é uma empresa brasileira, localizada em Campinas. Seu foco é a exportação de Serviços de Outsourcing em P&D e Serviços Profissionais em Telecomunicações, TI, Sistemas Móveis e Games. Nosso principal objetivo é prestar serviços para clientes internacionais, como, por exemplo, empresas Americanas e Europeias, realizando a Inovação em produtos e prestando, também, serviços em áreas técnicas de pré-vendas, pós-vendas e serviços de consultorias.",
     "vendida": "f",
+    "cnpj": "6980081000110",
+    "nome_fundador": "Helio Kinoshita",
+    "email_fundador": "hkino@daitangroup.com",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -1396,6 +1432,9 @@
     "ano_venda": null,
     "descricao": "Consultoria, auditoria e treinamento em qualidade e segurança dos alimentos. Atendemos o mercado de alimentos, ingredientes e embalagens alimentícias. Preparação para certificações internacionais e fornecimento à grandes indústrias.",
     "vendida": "f",
+    "cnpj": "5426103000131",
+    "nome_fundador": "Juliane Dias Gon├ºalves",
+    "email_fundador": "juliane@flavorfood.com.br",
     "areas": [
       {
         "id_area_atuacao": 6,
@@ -1437,6 +1476,9 @@
     "ano_venda": null,
     "descricao": "A Fotônica produz e desenvolve componentes e sistemas passivos de conexão óptica. Atua tanto na produção e comercialização de produtos próprios como na prestação de serviços de montagem de componentes e sistemas ópticos para diversas companhias.",
     "vendida": "f",
+    "cnpj": "65073082000140",
+    "nome_fundador": "Walter Luiz de Andrade Carvalho",
+    "email_fundador": "fotonica@fotonica.com.br",
     "areas": [
       {
         "id_area_atuacao": 9,
@@ -1467,6 +1509,9 @@
     "ano_venda": null,
     "descricao": "Pesquisa, desenvolvimento e fabricação de dispositivos médicos para ortopedia e neurocirurgia",
     "vendida": "f",
+    "cnpj": "60040599000119",
+    "nome_fundador": "Geraldo Marins dos Reis Jr",
+    "email_fundador": "rh3@gmreis.com.br",
     "areas": [
       {
         "id_area_atuacao": 5,
@@ -1497,6 +1542,9 @@
     "ano_venda": null,
     "descricao": "HST desenvolve software para o mercado financeiro. A linha de produtos de software da HST é focada em meios eletrônicos de pagamentos, com sistemas de segurança de informação, captura e adquirencia.",
     "vendida": "f",
+    "cnpj": "57643041000113",
+    "nome_fundador": "Eduardo Cunha",
+    "email_fundador": "eduardo@hst.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -1527,6 +1575,9 @@
     "ano_venda": null,
     "descricao": "A Icaro Tech provê Operações Inteligentes por meio de software, consultoria, integração de soluções de gerência e serviços gerenciados. Desde 1997, perseguimos a missão de simplificar a vida das pessoas. Ajudamos as empresas a melhorar suas operações e atender melhor seus usuários finais, fornecendo soluções de gerência de redes e sistemas, automação, gerência de serviços e de ativos, e analytics.",
     "vendida": "f",
+    "cnpj": "1534930000198",
+    "nome_fundador": "Kleber Stroeh",
+    "email_fundador": "kleber.stroeh@icaro.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -1557,6 +1608,9 @@
     "ano_venda": null,
     "descricao": "Nós da Inmetrics somos apaixonados por eficiência . Temos um portfólio abrangente de serviços que passam pelas áreas de Qualidade, Estratégia e Otimização de TI. Atuamos nas camadas de infraestrutura, aplicações e sistemas até gestão, governança e processos. Nossa equipe é obstinada pela busca de resultados concretos em eficiência e inovação para nossos clientes.\r\nAlguns exemplos de projetos em que atuamos são: Testes de Software, gestão do desempenho de Sistemas e Infraestrutura, Monitoração e Otimização de TI, implantação de práticas ágeis no desenvolvimento de software e otimização de processos e gestão de TI.\r\nSomos uma das empresas que mais cresce na área de TI na América Latina. Com escritórios em São Paulo, Barueri, Rio de Janeiro, Bogotá na Colômbia e Santiago do Chile, contamos com mais de 600 colaboradores atuando em projetos de mais de 100 clientes.",
     "vendida": "f",
+    "cnpj": "4959858000146",
+    "nome_fundador": "Alexandre Luiz J. Martins",
+    "email_fundador": "contato@inmetrics.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -1587,6 +1641,9 @@
     "ano_venda": null,
     "descricao": "Fabricante de fibras ópticas especiais para uso em sensores e guias de luz para aplicações nos setores da saúde, energia, química e petroquímica, indústria automobilística, arquitetura e construção.",
     "vendida": "f",
+    "cnpj": "55464143000146",
+    "nome_fundador": "C├¡cero Omegna",
+    "email_fundador": "cicero@luxtec.com.br",
     "areas": [
       {
         "id_area_atuacao": 7,
@@ -1628,6 +1685,9 @@
     "ano_venda": null,
     "descricao": "A Matchreport é uma empresa especializada em treinamento e desenvolvimento de soluções para a área esportiva.",
     "vendida": "f",
+    "cnpj": "7659729000113",
+    "nome_fundador": "Nicolas Michel Bacic",
+    "email_fundador": "nicolas@mre.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -1658,6 +1718,9 @@
     "ano_venda": null,
     "descricao": "Prestação de Serviços em Informática e Software",
     "vendida": "f",
+    "cnpj": "64544604000181",
+    "nome_fundador": "Mauricio Macedo de Faria",
+    "email_fundador": "info@microforma.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -1688,6 +1751,9 @@
     "ano_venda": null,
     "descricao": "Industria e comercio de componentes e sistemas para redes de fibras ópticas. Fabricamos itens como cabos pre-conectorizados, splitter óptico, tapetes sensores de presença usando fibras ópticas. Fazemos desenvimento de soluções sob demanda para industrias, centros de pesquisa e universidades. Revendemos produtos importados tais como transceptores ópticos.",
     "vendida": "f",
+    "cnpj": "2771951000190",
+    "nome_fundador": "Selma",
+    "email_fundador": "optolink@optolink.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -1729,6 +1795,9 @@
     "ano_venda": null,
     "descricao": "Produzimos posicionadores para ótica de laser.",
     "vendida": "f",
+    "cnpj": "52497989000194",
+    "nome_fundador": "Yoshikazo Nagai",
+    "email_fundador": "vendas@optron.com.br",
     "areas": [
       {
         "id_area_atuacao": 8,
@@ -1759,6 +1828,9 @@
     "ano_venda": null,
     "descricao": "A Opus Software é uma empresa de desenvolvimento de software que atua no desenvolvimento de projetos e na área de Automação Bancária. Sendo reconhecida pela sua capacidade de gerar novas oportunidades para seus clientes através do uso criativo de Tecnologia da Informação, a Opus Software também abrange em sua oferta o desenvolvimento de aplicações inovadoras, oferecendo seu grande know-how tecnológico e sua capacidade de gerenciamento de projetos no sentido de garantir previsibilidade de prazos e custos nos projetos realizados. Atuando há mais de 20 anos no mercado, a Opus Software possui em sua carteira de clientes várias das maiores empresas do mercado nacional, além de atender subsidiárias desses clientes também fora do país. Mantém parcerias de sucesso com empresas de tecnologia mundialmente reconhecidas, tendo sido agraciada com diversos prêmios ao longo de sua existência em função do profissionalismo e da qualidade dos serviços prestados.",
     "vendida": "f",
+    "cnpj": "60663556000190",
+    "nome_fundador": "Walter Ruiz J├║nior",
+    "email_fundador": "walter@opus-software.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -1789,6 +1861,9 @@
     "ano_venda": null,
     "descricao": "A Programmer’s está há mais de 26 anos no mercado de tecnologia da informação, desenvolvendo soluções maduras e de excelência para o mercado brasileiro e internacional\r\n\r\nDesenvolvemos soluções e serviços em TI, que envolvem Business Intelligence, Data Analytics, Portais e Colaboração, Computação na Nuvem, ALM, User Experience e Desenvolvimento de Software Embarcado.",
     "vendida": "f",
+    "cnpj": "169600000188",
+    "nome_fundador": "Alexandre Mac Fadden Q. Guimar├úes",
+    "email_fundador": "rh@programmers.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -1830,6 +1905,9 @@
     "ano_venda": null,
     "descricao": "A Idea! Sistemas Eletrônicos oferece serviços de desenvolvimento de circuitos eletrônicos de alta complexidade em FPGA e ASIC. Vários membros de sua equipe são originários da UNICAMP, possuindo mais de 18 anos de experiência acumulada em projetos eletrônicos. Contamos com uma rede de contatos de fabricantes (foundries) e fornecedores internacionais, que nos possibilitam fornecer soluções inovadoras, em um ambiente cada vez mais competitivo e globalizado.",
     "vendida": "f",
+    "cnpj": "1899564000170",
+    "nome_fundador": "Mauricio Hiroaki Suguiy",
+    "email_fundador": "mauricio.suguiy@idea-ip.com",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -1882,6 +1960,9 @@
     "ano_venda": null,
     "descricao": "Nossa missão é confeccionar soluções de software e integração para produtividade na comunicação com clientes e fornecedores.\r\n\r\nNossa carteira de produtos e serviços possui várias soluções que podem ser aplicadas em contact centers ou empresas. Fornecemos discadores automáticos para contatos com ou sem interação com um atendente, temos soluções para sua operação receptiva e muito mais.",
     "vendida": "f",
+    "cnpj": "723918000169",
+    "nome_fundador": "Pedro Bulach Gapski",
+    "email_fundador": "gapski@reckon.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -1953,6 +2034,9 @@
     "ano_venda": null,
     "descricao": "Nossa missão é ajudar a diminuir a distância entre pesquisa acadêmica e aplicações, levando a empresas, centros de pesquisa e pesquisadores as mais modernas tecnologias dentro de nossas áreas de atuação. Através de uma equipe de alta qualificação e com a ajuda de um experiente time de consultores, traduzimos descobertas científicas em serviços e soluções computacionais para alavancar as atividades de nossos clientes. ",
     "vendida": "f",
+    "cnpj": "4869955000130",
+    "nome_fundador": "Jo├úo Meidanis",
+    "email_fundador": "meidanis@ic.unicamp.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -1994,6 +2078,9 @@
     "ano_venda": null,
     "descricao": "Desenvolvimento de softwares e hardwares: controles de acesso, softwares de gerenciamento, leitoras de cartões, soluções para mercado de segurança",
     "vendida": "f",
+    "cnpj": "1675918000101",
+    "nome_fundador": "Alessandro Cordeiro Pereira Pinto",
+    "email_fundador": "sotero@smatec.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -2024,6 +2111,9 @@
     "ano_venda": null,
     "descricao": "Desde 1987, atua como fornecedora de soluções e serviços de TI. Sua marca registrada é aliar excelência técnica ao conhecimento de negócios.",
     "vendida": "f",
+    "cnpj": "57040040000184",
+    "nome_fundador": "Carlos Augusto Leite Netto",
+    "email_fundador": "contact@matera.com",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -2054,6 +2144,9 @@
     "ano_venda": null,
     "descricao": "Pesquisa e desenvolvimento em biotecnologia. desenvolvimento de bioprodutos, seleção de microrganismos, desenvolvimento de meios de cultivo para bioprodutos.",
     "vendida": "f",
+    "cnpj": "7015833000175",
+    "nome_fundador": "Rodrigo de Oliveira Moraes",
+    "email_fundador": "rodrigo@probiom.com.br",
     "areas": [
       {
         "id_area_atuacao": 5,
@@ -2147,6 +2240,9 @@
     "ano_venda": null,
     "descricao": "Pioneira e líder no fornecimento de soluções de Supply Chain Planning e Advanced Planning and Scheduling para o mercado brasileiro. Atua nos mais diversos segmentos, dentre os quais: agroindústria, cimento, energia, farmacêutica, manufatura, papel e celulose, redes de varejo, têxtil e siderurgia.",
     "vendida": "f",
+    "cnpj": "61398244000169",
+    "nome_fundador": "Miguel Taube Netto",
+    "email_fundador": "taube@unisoma.com",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -2207,6 +2303,9 @@
     "ano_venda": null,
     "descricao": "Fabricaçao de filtros para controle da contaminação ambiental.",
     "vendida": "f",
+    "cnpj": "3118332000163",
+    "nome_fundador": "Raul Isaac Sadir",
+    "email_fundador": "rsadir@veco.com.br",
     "areas": [
       {
         "id_area_atuacao": 10,
@@ -2237,6 +2336,9 @@
     "ano_venda": null,
     "descricao": "Desenvolvimento de refrigeradores de ar ECOBRISA - climatizadores evaporativos",
     "vendida": "f",
+    "cnpj": "324107000195",
+    "nome_fundador": "Paulo S├®rgio Gabarra",
+    "email_fundador": "gabarra@viva.com.br",
     "areas": [
       {
         "id_area_atuacao": 14,
@@ -2267,6 +2369,9 @@
     "ano_venda": null,
     "descricao": "Requestia desenvolve softwares para automação e gestão de processos de TI (ITSM/ITIL) e negócios (BPM/Workflow). Suas aplicações oferecidas no modelo SaaS, com suporte a mobilidade, são usadas por grandes empresas e corporações no Brasil.",
     "vendida": "f",
+    "cnpj": "67784538000105",
+    "nome_fundador": "Marcio Vinholes Ferreira",
+    "email_fundador": "marcio@automidia.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -2297,6 +2402,9 @@
     "ano_venda": null,
     "descricao": "Desenvolvimento de apps, sistemas de negócio, big data, machine learning, entre outras para empresas que queiram explorar as oportunidades dos negócios digitais.",
     "vendida": "f",
+    "cnpj": "8958412000140",
+    "nome_fundador": "Lu├¡s Eduardo Dosso",
+    "email_fundador": "dosso@dextra.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -2327,6 +2435,9 @@
     "ano_venda": null,
     "descricao": "A StarCorp é uma agência digital especializada no desenvolvimento de websites, portais (CMS e SharePoint 2007 e 2010), intranets, extranets e aplicativos para ambiente web.",
     "vendida": "f",
+    "cnpj": "3812132000106",
+    "nome_fundador": "Am├®rico Sim├úo J├║nior",
+    "email_fundador": "americo@starcorp.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -2357,6 +2468,9 @@
     "ano_venda": null,
     "descricao": "A Gentros é uma empresa de biotecnologia que fornece serviços inovadores utilizando as plataformas tecnológicas de metagenômica de microbioma e proteína recombinante, atendendo aos mercados Farmacêuticos, alimentício, e Veterinário.",
     "vendida": "f",
+    "cnpj": "9648316000169",
+    "nome_fundador": "Paula Gon├ºalves de Araujo",
+    "email_fundador": "paula.araujo@gentros.com.br",
     "areas": [
       {
         "id_area_atuacao": 5,
@@ -2417,6 +2531,9 @@
     "ano_venda": null,
     "descricao": "A Átria Engenharia e Comércio Ltda., fundada em 18 de agosto de 1982, é uma empresa dedicada à prestação de serviços técnico-profissionais no ramo da construção civil e Incorporação de imóveis.",
     "vendida": "f",
+    "cnpj": "50976687000173",
+    "nome_fundador": "Roberto Carlos Miguel",
+    "email_fundador": "atendimento@atriaeng.com.br",
     "areas": [
       {
         "id_area_atuacao": 14,
@@ -2447,6 +2564,9 @@
     "ano_venda": null,
     "descricao": "A Labcom Sistemas desenvolve soluções na área de sinalização de redes de telecomunicações, com amplas possibilidades de configuração, permitindo soluções rápidas para as diversas necessidades do mercado. Paralelamente, a empresa oferece serviços de Consultoria nas áreas de especificação, desenvolvimento e integração de sistemas.",
     "vendida": "f",
+    "cnpj": "5567935000178",
+    "nome_fundador": "Marcelo Caneppele",
+    "email_fundador": "caneppele@labcomsistemas.com.br",
     "areas": [
       {
         "id_area_atuacao": 9,
@@ -2477,6 +2597,9 @@
     "ano_venda": null,
     "descricao": "Empresa focada no segmento de tecnologia da informação, desenvolve projetos, customiza e comercializa itens de hardware e software para informática e telecomunicações. Atua, também, com a veiculação de informações e propaganda WEB em exclusivos terminais interativos para uso público, customizados conforme a necessidade do cliente (consultas, navegação na Internet, automação comercial, telecomunicações, etc.), colocados em escolas, empresas, hotéis, shopping, repartições públicas, feiras, eventos, etc.",
     "vendida": "f",
+    "cnpj": "5795742000174",
+    "nome_fundador": "Wilson Roberto Delasta",
+    "email_fundador": "kioskip@kioskip.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -2507,6 +2630,9 @@
     "ano_venda": null,
     "descricao": "Consultoria de Marketing Digital especializada em Marketing de Conteúdo e estratégias de Presença Digital, com mais de 10 anos de mercado.",
     "vendida": "f",
+    "cnpj": "7792409000137",
+    "nome_fundador": "Rafael Rezende de Oliveira",
+    "email_fundador": "contato@webestrategica.com.br",
     "areas": [
       {
         "id_area_atuacao": 13,
@@ -2537,6 +2663,9 @@
     "ano_venda": null,
     "descricao": "Empresa especializada em sistemas de telecomunicações para áreas rurais ou regiões distantes dos grandes centros urbanos, provendo soluções para voz, dados e Intenet. Atua também na área de engenharia de rádiofreqüência, antenas,  amplificadores de sinal celular e bloqueio de sinais de radiocomunicações para áreas de segurança.qüência, repetidores celulares e interfaces celulares.",
     "vendida": "f",
+    "cnpj": "58456997000179",
+    "nome_fundador": "Antonio Eduardo Ripari Neger",
+    "email_fundador": "engenharia@neger.com.br",
     "areas": [
       {
         "id_area_atuacao": 9,
@@ -2720,6 +2849,9 @@
     "ano_venda": null,
     "descricao": "A HEXAGON Telecomunicações é uma empresa especializada em Engenharia de Telecomunicações.\r\nSituada em São Paulo – Brasil, os maiores e mais proeminentes mercados do mundo, a HEXAGON oferece serviços de consultoria, engenharia e instalação, voltados para o mercado de telecomunicações.\r\nTendo iniciado suas atividades em 1995, a HEXAGON conta com um corpo técnico altamente qualificado que já projetou, implantou e aperfeiçoou diversos sistemas de telecomunicações no Brasil. Através da utilização de ferramentas e metodologias avançadas, oferecemos aos nossos clientes soluções sofisticadas para o desenvolvimento, implantação e manutenção de seus sistemas.",
     "vendida": "f",
+    "cnpj": "495563000106",
+    "nome_fundador": "M├írcio Teruo Harada",
+    "email_fundador": "marcio@hexagon-telecom.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -2783,6 +2915,9 @@
     "ano_venda": null,
     "descricao": "Mais de 13 anos de experiência no mercado de Logística e Supply Chain Management, a Neolog desenvolve soluções que otimizam a logística de empresas dos mais diversos portes e segmentos, colaborando diretamente na redução de custos e no aumento da eficiência operacional da atividade.\r\n\r\nEm seus sistemas, a Neolog utiliza modelos matemáticos integrados para análise simultânea e detalhada das diversas opções da operação, oferecendo, sempre, a MELHOR e MAIS RENTÁVEL alternativa de decisão para seus usuários.\r\n\r\nA inteligência dos softwares desenvolvidos pela Neolog permite, também, antecipar eventos em diferentes cenários, tomar decisões estratégicas em toda a cadeia produtiva, controlar o desempenho e atender melhor a demanda, atingindo os mais altos níveis de entrega e satisfação.",
     "vendida": "f",
+    "cnpj": "5254381000159",
+    "nome_fundador": "Danilo Campos",
+    "email_fundador": "danilo.campos@neolog.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -2813,6 +2948,9 @@
     "ano_venda": null,
     "descricao": "Empresa com foco em consultoria de processos e implantação de sistema de gestão de forma aderente aos processos e ao seguimento do cliente.  Atuamos na implantação do SAP Business One em parceria com a Ramo Sistemas Digitais de São Paulo, objetivando levar aos empresários um sistema que atenda de forma adequada as necessidades a curto, médio e longo prazo, de forma a tender nossos clientes com uma solução em constante evolução e especialista em seu seguimento.",
     "vendida": "f",
+    "cnpj": "13439391000197",
+    "nome_fundador": "Carlos Max Andres",
+    "email_fundador": "joaoluiz@sistemax.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -2843,6 +2981,9 @@
     "ano_venda": null,
     "descricao": "A Konfide Education é uma startup cujo objetivo é ser uma escola online de programação e robótica para crianças/jovens e um marketplace de espaços de educação maker do Brasil (e do mundo).\r\nEla teve origem a partir da Konfide Marketing Digital que deixou de existir em 2014 para dar lugar à Academia Konfide.\r\nA SBAP - Sociedade Brasileira de Apresentações Profissionais - é a área focada em apresentações com Prezi.\"",
     "vendida": "f",
+    "cnpj": "4978895000194",
+    "nome_fundador": "Marcio Hiroshi Okabe",
+    "email_fundador": "marcio@okabe.com.br",
     "areas": [
       {
         "id_area_atuacao": 12,
@@ -2873,6 +3014,9 @@
     "ano_venda": null,
     "descricao": "Empresa de consultoria em treinamento comportamental",
     "vendida": "f",
+    "cnpj": "59001339000155",
+    "nome_fundador": "Jo├úo Baptista Freire de Andrade Filho",
+    "email_fundador": "jbandrade@amabrasil.com",
     "areas": [
       {
         "id_area_atuacao": 12,
@@ -2903,6 +3047,9 @@
     "ano_venda": null,
     "descricao": "A Pronus é uma empresa de transferência de know-how em diversas técnicas e práticas avançadas de engenharia de software. Isto é feito através de serviços de consultoria, e treinamento que têm como objetivo melhorar a qualidade e produtividade dos processos, produtos e serviços de nossos clientes, trazendo vantagens competitivas através de previsibilidade e repetição sucessiva de bons resultados relacionados principalmente a qualidade, custos e prazos.",
     "vendida": "f",
+    "cnpj": "7651689000163",
+    "nome_fundador": "Andr├® Felipe Dias",
+    "email_fundador": "andref.dias@pronus.eng.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -2933,6 +3080,9 @@
     "ano_venda": null,
     "descricao": "A RJP Automação é empresa de soluções tecnológicas com mais de 25 anos de experiência no desenvolvimento e integração de sistemas computacionais em automação e tecnologias da informação, tendo atendido algumas das principais empresas do segmento industrial na integração de sistemas dos seus processos produtivos.\r\nAtualmente estamos focados na Segurança Eletrônica com nossas ferramentas de software, os sistemas SÉSAMO® Acessos e SÉSAMO® Alarmes respectivamente para o controle de acessos e o gerenciamento de informações de segurança física controlando ocorrências e monitorando de alarmes, eventos e imagens envolvendo as pessoas e o patrimônio.",
     "vendida": "f",
+    "cnpj": "68194539000162",
+    "nome_fundador": "Jos├® J├║lio Ribeiro Jr.",
+    "email_fundador": "julio.ribeiro@rjp.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -2974,6 +3124,9 @@
     "ano_venda": null,
     "descricao": "Prestação de Serviços em Análises Químicas e Biológicas nas áreas de Meio Ambiente, Veterinária, Farmacêutica, Agroquímica e Cosmética.\r\nRealizamos amostragens e análises das mais variadas matrizes oriundas das áreas de trabalho.\r\nEmpresa acreditada pelo INMETRO na norma NBR ISO/IEC 17025.",
     "vendida": "f",
+    "cnpj": "67994897000197",
+    "nome_fundador": "Jos├® Marcos Santana",
+    "email_fundador": "santana@tasqa.com.br",
     "areas": [
       {
         "id_area_atuacao": 6,
@@ -3048,6 +3201,9 @@
     "ano_venda": null,
     "descricao": "Desenvolvimento de soluções eletrônicas em diversas áreas, incluindo automotiva, médica, automação industrial, RF, entretenimento, etc. Aplicativos para computador e baseados em WEB.",
     "vendida": "f",
+    "cnpj": "2133060000108",
+    "nome_fundador": "Paulo Eduardo Schaefer",
+    "email_fundador": "e2pro@uol.com.br",
     "areas": [
       {
         "id_area_atuacao": 9,
@@ -3122,6 +3278,9 @@
     "ano_venda": null,
     "descricao": "Todos os negócios são digitais >> APIs aceleram a estratégia digital das empresas >> A Sensedia habilita sua estratégia de APIs.\r\n\r\nAtravés da plataforma de gerenciamento de APIs e de serviços de consultoria focados no desenho da sua arquitetura de TI com ênfase em Microservices, SOA, APIs, Enterprise Architecture e Governança.",
     "vendida": "f",
+    "cnpj": "8583723000172",
+    "nome_fundador": "Kleber Rogerio Bacili",
+    "email_fundador": "kleber.bacili@sensedia.com",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -3193,6 +3352,9 @@
     "ano_venda": null,
     "descricao": "Empresa de Consultoria e Treinamentos Avançados na área de TI.",
     "vendida": "f",
+    "cnpj": "6096217000123",
+    "nome_fundador": "Miguel Angelo Tancredi Molina",
+    "email_fundador": "molina@netbrasconsult.com.br",
     "areas": [
       {
         "id_area_atuacao": 11,
@@ -3234,6 +3396,9 @@
     "ano_venda": null,
     "descricao": "Fundada em 2009, a BRSA é uma agência de comunicação corporativa integrada especializada no atendimento a empresas de tecnologia que atuem no ambiente B2B. Acreditamos que o relacionamento de uma empresa com seus diversos públicos seja o grande responsável por seu sucesso comercial. Por isso usamos ferramentas de comunicação e marketing, digitais ou não, para iniciar e estreitar o relacionamento de nossos clientes com seus clientes potenciais e atuais, com a imprensa, com seus parceiros e colaboradores. Os resultados são o aumento do reconhecimento de marca e sua credibilidade, além de mais leads e vendas.",
     "vendida": "f",
+    "cnpj": "3865639000128",
+    "nome_fundador": "Jos├® Augusto C. de Moura Jr.",
+    "email_fundador": "jmoura@brsa.com.br",
     "areas": [
       {
         "id_area_atuacao": 11,
@@ -3275,6 +3440,9 @@
     "ano_venda": null,
     "descricao": "Laboratório de serviço e de desenvolvimento de diagnósticos sanitários e de perícia pelas técnicas de biologia molecular. Possui três divisões: Aves Pet/Silvestres, Aves industriais e Humana. Os serviços de destaques são: sexagem de aves pelo DNA; investigação de paternidade humana e de aves; diagnósticos sanitários especiais de rotina e sob demanda de projetos específicos.",
     "vendida": "f",
+    "cnpj": "416152000170",
+    "nome_fundador": "Antonio Francisco Ferreira Neto",
+    "email_fundador": "aferreira@unigen.com.br",
     "areas": [
       {
         "id_area_atuacao": 5,
@@ -3335,6 +3503,9 @@
     "ano_venda": null,
     "descricao": "Consultoria e treinamento em melhoria de processos em gestão de projetos. Especializada em Seis Sigma e Lean. Oferece treinamentos preparatórios oficiais de Lean IT da Exim e preparatórios de PMP e dezenas de outros treinamentos nas áreas de  qualidade e gestão. Oferece consultoria especializada na melhoria de processos e em gerenciamento de projetos, com profissionais com grande experiência nas áreas de TI, serviços, agro e indústrias. ",
     "vendida": "f",
+    "cnpj": "7462023000167",
+    "nome_fundador": "Erika Yamagishi",
+    "email_fundador": "erikayamagishi@auctus.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -3376,6 +3547,9 @@
     "ano_venda": null,
     "descricao": "Serviços prestados:\r\nVeículo de comunicação, conteúdo embarcado, sons, imagens e mídia externa; \r\nServiços de instalação, manutenção e reparação de máquinas de escritório e de \r\ninformática; \r\nElaboração de programas de computadores, inclusive jogos eletrônicos; \r\nLicenciamento e cessão de direito de uso de programas de computação; \r\nPlanejamento, confecção, manutenção e atualização de páginas eletrônicas.",
     "vendida": "f",
+    "cnpj": "7650838000170",
+    "nome_fundador": "Humberto Diniz",
+    "email_fundador": "flavia@sophiasolutions.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -3428,6 +3602,9 @@
     "ano_venda": null,
     "descricao": "Desenvolvemos software de automação comercial LojaFácil.",
     "vendida": "f",
+    "cnpj": "65019499000124",
+    "nome_fundador": "Tadaaki Wakabayashi",
+    "email_fundador": "tadaaki@lojafacil.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -3458,6 +3635,9 @@
     "ano_venda": null,
     "descricao": "O Grupo ALPHENZ® atua em todo o mercado brasileiro há mais de 10 anos, oferecendo soluções em tratamento de água, esgoto e efluentes, como projetos e serviços de Engenharia, produtos e equipamentos voltados para Industrias e o Fornecimento de Estações de Tratamento de Água, Esgoto e Efluentes.",
     "vendida": "f",
+    "cnpj": "10808894000102",
+    "nome_fundador": "Em├¡lio Bellini Neto",
+    "email_fundador": "emilio@alphenz.com.br",
     "areas": [
       {
         "id_area_atuacao": 8,
@@ -3510,6 +3690,9 @@
     "ano_venda": null,
     "descricao": "Consultoria e Treinamento em Logística, manufatura e supply chain",
     "vendida": "f",
+    "cnpj": "4422088000190",
+    "nome_fundador": "Anne Lucas Gimeno",
+    "email_fundador": "gimeno.a@cebralog.com",
     "areas": [
       {
         "id_area_atuacao": 11,
@@ -3551,6 +3734,9 @@
     "ano_venda": null,
     "descricao": "Plataformas Inteligentes de Comunicações Unificadas e Atendimento Multicanais é o nosso negócio.\r\n\r\nDesenvolvemos e implantamos plataformas que proporcionam serviços de telefonia, chamadas de vídeo e mensagens de texto que possibilitam que as empresas se comuniquem internamente e atendam seus clientes de modo simples, eficiente e com redução de custos.\r\n\r\nNossos produtos são projetados para aplicações profissionais de médio e grande porte.\r\n\r\nInúmeras empresas já utilizam e confiam na Plataforma Converja® da VulcaNet, beneficiando-se com redução de custos expressivas, maior eficiência nas comunicações internas entre colaboradores de diferentes filiais e no atendimento aos clientes.\r\n\r\nOferecemos softwares para as mais diversas aplicações: PABX, URA, CTI, Gravação de Chamadas,Gravação de Telas, Call Center, Contact Center, e muito mais… \r\n\r\nA VulcaNet Sistemas e Engenharia é uma empresa de Engenharia de Computação e Telecomunicações, desenvolvedora de Plataformas Inteligentes de Comunicações Unificadas e Atendimento Multicanais.",
     "vendida": "f",
+    "cnpj": "10772048000171",
+    "nome_fundador": "Alex Cremonezi",
+    "email_fundador": "alexcremonezi@gmail.com",
     "areas": [
       {
         "id_area_atuacao": 9,
@@ -3581,6 +3767,9 @@
     "ano_venda": null,
     "descricao": "A Mitah Technologies é uma empresa de serviços, especializada em prover soluções tecnológicas de software web e mobile, treinamentos e consultorias para melhoria de processos e gestão de recursos em todas as cadeias produtivas. Fundada em meados de 2007, a Mitah Technologies vem desde então investindo em inovação e no desenvolvimento de produtos com alto conteúdo tecnológico.",
     "vendida": "f",
+    "cnpj": "9072897000133",
+    "nome_fundador": "Andr├® Vital Saude",
+    "email_fundador": "andresaude@gmail.com",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -3611,6 +3800,9 @@
     "ano_venda": null,
     "descricao": "Serviços de atendimento telefônico personalizado com secretárias compartilhadas disponíveis 24 horas por dia, para sua empresa atender melhor e vender mais. Números Mágicos® (números fixos, em qualquer DDD do brasil), com transferência inteligente ou atendimento em nome da empresa e com script personalizado.",
     "vendida": "f",
+    "cnpj": "10770396000100",
+    "nome_fundador": "Alexandre Borin Cardoso",
+    "email_fundador": "alexandre@prestus.com.br",
     "areas": [
       {
         "id_area_atuacao": 9,
@@ -3671,6 +3863,9 @@
     "ano_venda": null,
     "descricao": "A FiberWork Comunicações Ópticas Ltda., empresa brasileira do setor de Fotônica, desenvolve produtos e serviços de alto conteúdo tecnológico e inovadores internacionalmente, como o Optical S-Parameter Analyzer - OSPA e os serviços de diagnósticos especializados de redes de fibras ópticas. A empresa foi fundada em 1999 pelo Dr. Sérgio Barcelos, Engenheiro Eletrônico, Mestre e PhD em comunicações por fibra óptica e tem como missão atuar em nichos promissores de mercado onde a competição seja ainda inexistente ou incipiente, visando assim se posicionar com destaque quando o mercado entrar em fase de rápida expansão. Atualmente a empresa, que possui um escritório em Santa Clara, região do Silicon Valley, nos EUA, está trabalhando para expandir sua atuação para o mercado norte-americano e internacional.",
     "vendida": "f",
+    "cnpj": "3254681000102",
+    "nome_fundador": "Sergio Barcelos",
+    "email_fundador": "sbarcelos@fiberwork.net",
     "areas": [
       {
         "id_area_atuacao": 9,
@@ -3701,6 +3896,9 @@
     "ano_venda": null,
     "descricao": "A Movile é líder global em mobile commerce e atende a cerca de 70 milhões de clientes mensalmente. A companhia vem investindo em avançadas plataformas para aplicativos no segmento on-demand, oferecendo conteúdo educativo e de entretenimento infantil, serviço de delivery de comida, ticket e logística.",
     "vendida": "f",
+    "cnpj": "8654191000117",
+    "nome_fundador": "Eduardo Lins Henrique",
+    "email_fundador": "eduardo.henrique@movile.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -3731,6 +3929,9 @@
     "ano_venda": null,
     "descricao": "O Cedet é uma empresa de treinamento e consultoria que desde o início de suas atividades tem prezado pelo desenvolvimento e geração de conhecimento para seus clientes. Temos trabalhado em diversos segmentos do mercado de educação como a implantação de programas de treinamento corporativo, desenvolvimento de cursos personalizados, criação de programas de interação universidade-empresa, implantação de programas de especialização em nível de pós-graduação em diferentes áreas.",
     "vendida": "f",
+    "cnpj": "51914620000177",
+    "nome_fundador": "Adelice Godoy d'Avila",
+    "email_fundador": "adelice@cedet.com.br",
     "areas": [
       {
         "id_area_atuacao": 9,
@@ -3761,6 +3962,9 @@
     "ano_venda": null,
     "descricao": "Nosso sonho é transformar o Brasil e suas empresas, por meio da educação. Só quando inovação e melhoria continua fizerem parte de sua gente, é que a empresa chegará à sua Excelência Competitiva.",
     "vendida": "f",
+    "cnpj": "9386495000103",
+    "nome_fundador": "Virgilio F. M. dos Santos",
+    "email_fundador": "virgilio@fm2s.com.br",
     "areas": [
       {
         "id_area_atuacao": 11,
@@ -3813,6 +4017,9 @@
     "ano_venda": null,
     "descricao": "A EiTV desenvolve software e provê serviços de engenharia para o mercado de produtos eletrônicos digitais de consumo com foco em televisão digital. A empresa fornece ferramentas de desenvolvimento e emulação que diminuem os ciclos de desenvolvimento de novos produtos.",
     "vendida": "f",
+    "cnpj": "10658076000162",
+    "nome_fundador": "Alberto Issi",
+    "email_fundador": "alberto.issi@eitv.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -3865,6 +4072,9 @@
     "ano_venda": null,
     "descricao": "Empresa integradora de soluções de comunicação de voz e dados, especializada em sistemas de firewall e monitoramento de redes.",
     "vendida": "f",
+    "cnpj": "8659987000162",
+    "nome_fundador": "Mauricio Marchi",
+    "email_fundador": "mauricio@adtechtelecom.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -3906,6 +4116,9 @@
     "ano_venda": null,
     "descricao": "A Requisito automatiza protocolos de diagnóstico médico para agilizar atendimento clínico e reduzir erros de diagnóstico. ",
     "vendida": "f",
+    "cnpj": "8627919000169",
+    "nome_fundador": "Andr├® de Paula Ramos",
+    "email_fundador": "andre@requisito.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -3947,6 +4160,9 @@
     "ano_venda": null,
     "descricao": "Consultoria na área ambiental focada no desenvolvimento e implementação de projetos ambientais em empresas, como Programa de Gestão de Resíduos, Relatórios de Sustentabilidade e Quantificação e Compensação de Gases de Efeito Estufa.\r\n\r\nNós desenvolvemos os programas de ação e educação contra as mudanças climáticas, Programa CO2 Neutro e Evento Neutro (http://www.eventoneutro.com.br). Estes programas consistem em quantificar e compensar o impacto ambiental de empresas, produtos e eventos.\r\n\r\nLançamos a Campanha Sou Resíduo Zero (http://souresiduozero.com.br) com o objetivo de engajar pessoas e empresas a planejarem e gerenciarem seus resíduos e reduzirem seus custos.",
     "vendida": "f",
+    "cnpj": "9465233000134",
+    "nome_fundador": "Fernando Beltrame",
+    "email_fundador": "contato@eccaplan.com.br",
     "areas": [
       {
         "id_area_atuacao": 17,
@@ -3977,6 +4193,9 @@
     "ano_venda": null,
     "descricao": "Desenvolvimento de soluções Matemático/Computacionais de apoio a decisão.",
     "vendida": "f",
+    "cnpj": "2254160000192",
+    "nome_fundador": "Marcelo Ant├┤nio Elias",
+    "email_fundador": "marcelo.elias@linearsm.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -4018,6 +4237,9 @@
     "ano_venda": null,
     "descricao": "A 360 Graus Aeronáutica tem como objetivo desenvolver produtos inovadores em mobilidade \"verde\": aeronaves e drones elétricos. A empresa possui sede própria em construção - o Hangar360 - localizado no Aeroporto dos Amarais em Campinas - SP onde funciona seu Centro de Pesquisa e Desenvolvimento.",
     "vendida": "f",
+    "cnpj": "10656343000162",
+    "nome_fundador": "Roberto Alves de Pilotto Fernandes",
+    "email_fundador": "pilotto@hangar360.com.br",
     "areas": [
       {
         "id_area_atuacao": 14,
@@ -4059,6 +4281,9 @@
     "ano_venda": null,
     "descricao": "Uma empresa que existe para impactar positivamente bilhões de pessoas, fazendo o software melhor, sua produção mais eficiente e a experiência ao usá-lo mais gratificante. Fazemos isso entregando qualidade de software de forma diferenciada para todas as empresas do mundo.",
     "vendida": "f",
+    "cnpj": "10774117000186",
+    "nome_fundador": "J├║lio Esslinger Vi├®gas",
+    "email_fundador": "julio.viegas@sofist.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -4089,6 +4314,9 @@
     "ano_venda": null,
     "descricao": "A Mega Sistemas Corporativos é uma S.A. de capital fechado que nasceu no estado de São Paulo, em 1985. Em 30 anos de trabalho a empresa cresceu, ampliou o seu portfólio de produtos e serviços e se consolidou com uma das mais importantes companhias de TI do Brasil, oferecendo soluções de gestão empresarial para os mercados de Construção, Manufatura, Combustíveis, Agronegócios e Serviços. Com presença direta em São Paulo, Curitiba, Rio de Janeiro, Minas Gerais, Recife e Natal, a companhia conta ainda com 15 canais de atendimento, 500 colaboradores e mais de 2.000 clientes em todo o território nacional.",
     "vendida": "f",
+    "cnpj": "54652177000100",
+    "nome_fundador": "Walmir Scaravelli",
+    "email_fundador": "comunicacao@mega.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -4119,6 +4347,9 @@
     "ano_venda": null,
     "descricao": "Construímos aplicativos móveis para pessoas e empresas que misturam ciência, artes e tecnologia.",
     "vendida": "f",
+    "cnpj": "10777871000170",
+    "nome_fundador": "Andr├® Luis Ogando Paraense",
+    "email_fundador": "andre.paraense@mobwise.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -4149,6 +4380,9 @@
     "ano_venda": null,
     "descricao": "A I.Systems promove o aumento da eficiência ao fornecer sistemas de controle de processos industriais baseados em inteligência artificial. Contribuímos para a migração da indústria tradicional para o novo padrão produtivo do IoT.",
     "vendida": "f",
+    "cnpj": "8998654000168",
+    "nome_fundador": "Igor Bittencourt Santiago",
+    "email_fundador": "igor.santiago@i.systems.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -4201,6 +4435,9 @@
     "ano_venda": null,
     "descricao": "Serviços de consultoria em desenvolvimento de novos negócios, estudos de mercado, estratégias de entrada em novos mercados e crescimento de empresas",
     "vendida": "f",
+    "cnpj": "3413924000108",
+    "nome_fundador": "Renato Skaf dos Santos",
+    "email_fundador": "renato@lighthouse.srv.br",
     "areas": [
       {
         "id_area_atuacao": 11,
@@ -4231,6 +4468,9 @@
     "ano_venda": null,
     "descricao": "A ADTsys é uma empresa especializada em Cloud Computing. Oferecemos suporte 24/7 a toda a estrutura de TI apoiando desde o analista de suporte até o gestor de TI com o desenvolvimento e manutenção de ferramentas que agregam valor ao cliente nas decisões estratégicas. Além de apaixonados por tecnologia, nosso time é composto por profissionais qualificados e certificados em diversas plataformas Cloud, provendo um serviço de alta qualidade.",
     "vendida": "f",
+    "cnpj": "10631007000165",
+    "nome_fundador": "Pascoal Baldasso",
+    "email_fundador": "baldasso@adtsys.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -4261,6 +4501,9 @@
     "ano_venda": null,
     "descricao": "Trabalhamos com solução para o segmento de segurança eletrônica.",
     "vendida": "f",
+    "cnpj": "11707588000134",
+    "nome_fundador": "Francisco Ventura",
+    "email_fundador": "francisco@ingreen.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -4302,6 +4545,9 @@
     "ano_venda": null,
     "descricao": "\"Ajudamos nossos clientes na organização e estruturação de sua gestão interna.\r\nTrabalhamos com práticas de Qualidade focada em Resultado, o que  suporta o crescimento seguro dos negócios.\"",
     "vendida": "f",
+    "cnpj": "5781803000144",
+    "nome_fundador": "Paola Gouvea de Miranda",
+    "email_fundador": "paola@pazzar.com.br",
     "areas": [
       {
         "id_area_atuacao": 11,
@@ -4373,6 +4619,9 @@
     "ano_venda": null,
     "descricao": "Chuva Inc., é uma empresa de treinamento, consultoria e desenvolvimento de soluções para o ambiente web (sites, intra e extranets, sistemas de gestão e aplicativos) baseadas na plataforma Drupal.",
     "vendida": "f",
+    "cnpj": "9474605000199",
+    "nome_fundador": "Fabiano Sant'Ana",
+    "email_fundador": "fabiano@chuva-inc.com",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -4455,6 +4704,9 @@
     "ano_venda": null,
     "descricao": "Social CRM para a Média Empresa. Nossa solução de Social CRM ajuda empresas a cultivar relações com clientes para estimular o relacionamento com seus clientes, proporcionado o aumento das vendas, e usar midias sociais para desenvolver novos negócios.",
     "vendida": "f",
+    "cnpj": "8881608000184",
+    "nome_fundador": "John Lima",
+    "email_fundador": "john.lima@coffeebeantech.com",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -4485,6 +4737,9 @@
     "ano_venda": null,
     "descricao": "Somos uma empresa líder em fornecer soluções em automação industrial e integração de sistemas de informação. A Techplus integra produtos e conhecimento para atingir soluções que ajudam os nossos clientes a reduzir os custos operacionais e aumentar a qualidade, segurança, produtividade e competitividade",
     "vendida": "f",
+    "cnpj": "8106315000120",
+    "nome_fundador": "Samarone Ruas",
+    "email_fundador": "samarone@techplus.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -4537,6 +4792,9 @@
     "ano_venda": null,
     "descricao": "http://superlogica.com/assinaturas/recursos/",
     "vendida": "f",
+    "cnpj": "4833541000151",
+    "nome_fundador": "Luis Fernando C├¬ra",
+    "email_fundador": "financeiro@superlogica.com",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -4567,6 +4825,9 @@
     "ano_venda": null,
     "descricao": "A Odysci desenvolve soluções de data management e text analytics que possibilitam empresas gerenciar, analisar e extrair as informações quantitativas e qualitativas mais relevantes e necessárias para seus negócios. A Odysci auxilia empresas de comércio eletrônico a aumentar a conversão e reduzir custos, através de produtos  de busca e navegação, categorização de produtos e análise de sentimento para atendimento a clientes.",
     "vendida": "f",
+    "cnpj": "19537896000104",
+    "nome_fundador": "Reinaldo A. Bergamaschi",
+    "email_fundador": "info@odysci.com",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -4597,6 +4858,9 @@
     "ano_venda": null,
     "descricao": "Empresa de consultoria ambiental especializada em em residuos industriais e agroindustriais",
     "vendida": "f",
+    "cnpj": "6528550000164",
+    "nome_fundador": "Leandro Shiroma",
+    "email_fundador": "leandro@recicon.com.br",
     "areas": [
       {
         "id_area_atuacao": 11,
@@ -4627,6 +4891,9 @@
     "ano_venda": null,
     "descricao": "Empresa de engenharia que atua no ramo de eficiência energética. ",
     "vendida": "f",
+    "cnpj": "4924675000188",
+    "nome_fundador": "Rafael Lincoln Pratts Milanes",
+    "email_fundador": "rafael@termocop.com.br",
     "areas": [
       {
         "id_area_atuacao": 7,
@@ -4720,6 +4987,9 @@
     "ano_venda": null,
     "descricao": "Kaffa Mobile é uma empresa especializada no desenvolvimento de soluções móveis corporativas. Desenvolve a solução Kaffa Espresso/FFA+GIS atualmente aplicada em empresas de distribuição de energia elétrica como AES Sul, CELESC, CPFL, Elektro.",
     "vendida": "f",
+    "cnpj": "8730563000147",
+    "nome_fundador": "Jocimar Teixeira da Silva",
+    "email_fundador": "jocimar@kaffa.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -4750,6 +5020,9 @@
     "ano_venda": null,
     "descricao": "A ISAT carrega a tecnologia em seu DNA desde sua fundação em 1995. E entende que as transformações causadas pelos avanços na tecnologia da informação e da comunicação são desafios e oportunidades para as  empresas. Por isso, especializou-se em oferecer soluções diferenciadas  e  atua em sinergia com setores estratégicas em áreas como TI, comunicação, desenvolvimento de negócios, vendas e marketing, recursos humanos, treinamento e atendimento, para viabilizar e modernizar a vida digital corporativa através da convergência de tecnologias.",
     "vendida": "f",
+    "cnpj": "3319174000100",
+    "nome_fundador": "Dorian Lacerda Guimar├úes",
+    "email_fundador": "diretoria@isat.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -4791,6 +5064,9 @@
     "ano_venda": null,
     "descricao": "Empresa especializada no desenvolvimento de software multi-plataformas. A empresa possui duas vertentes, produtos próprios esportivos e prestação de consultoria no desenvolvimento de software para as principais plataformas: Windows, iOs, Android e OSX.",
     "vendida": "f",
+    "cnpj": "10615919000143",
+    "nome_fundador": "Danilo Lacerda",
+    "email_fundador": "danilo.lacerda@clansoft.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -4821,6 +5097,9 @@
     "ano_venda": null,
     "descricao": "Produzimos animações 2D para treinamentos, institucionais, segurança no trabalho, vídeos explicativos, vinhetas, vídeo clipes e animações para eventos. Pensou em estúdio de animação, conte com o Animar Estúdio. Estamos em Campinas/SP",
     "vendida": "f",
+    "cnpj": "12355705000100",
+    "nome_fundador": "Tiago Barbiero Saad",
+    "email_fundador": "contato@animarestudio.com.br",
     "areas": [
       {
         "id_area_atuacao": 8,
@@ -4851,6 +5130,9 @@
     "ano_venda": null,
     "descricao": "O propósito da ADDVANCE é construir tecnologias para identificação de pessoas que otimizem o tempo (experiência) e a segurança de aplicações. Magikey é o primeiro produto que utiliza estas tecnologias, sendo um aplicativo móvel que abre portas, e vai além, sendo uma recepcionista automática, confiável e gentil.",
     "vendida": "f",
+    "cnpj": "15259172000151",
+    "nome_fundador": "Raul Mariano Cardoso",
+    "email_fundador": "raul.cardoso@addvance.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -4892,6 +5174,9 @@
     "ano_venda": null,
     "descricao": "Empresa de base tecnológica especializada no desenvolvimento de soluções ambientais voltadas a redução de emissões e combate a mudanças climáticas. Assessora o setor público e privado na definição e condução de políticas e projetos de mitigação nos setores de transportes, energia, indústria, agricultura e resíduos.",
     "vendida": "f",
+    "cnpj": "10460649000149",
+    "nome_fundador": "Guilherme Gon├ºalves",
+    "email_fundador": "guilherme@limpgas.com.br",
     "areas": [
       {
         "id_area_atuacao": 17,
@@ -4963,6 +5248,9 @@
     "ano_venda": null,
     "descricao": "O Instituto Brasileiro de Desenvolvimento e Educação Corporativa (IBDEC) oferece cursos na área de gestão empresarial e consultoria para empresas dos mais variados segmentos, com o objetivo de gerar oportunidades de desenvolvimento de profissionais e instituições em todo o Brasil.",
     "vendida": "f",
+    "cnpj": "8482427000185",
+    "nome_fundador": "Giancarlo Ciola",
+    "email_fundador": "giancarlo.ciola@ibdec.net",
     "areas": [
       {
         "id_area_atuacao": 11,
@@ -5004,6 +5292,9 @@
     "ano_venda": null,
     "descricao": "Soluções tecnológicas para educação corporativa.",
     "vendida": "f",
+    "cnpj": "2725587000121",
+    "nome_fundador": "Alexandre de Munno Francisco",
+    "email_fundador": "alexandre@webtraining.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -5086,6 +5377,9 @@
     "ano_venda": null,
     "descricao": "Fabricante de implementos agrícolas",
     "vendida": "f",
+    "cnpj": "46127635000155",
+    "nome_fundador": "Walter Xicrala Brait Silva",
+    "email_fundador": "walter@industriasnb.com.br",
     "areas": [
       {
         "id_area_atuacao": 14,
@@ -5127,6 +5421,9 @@
     "ano_venda": null,
     "descricao": "A Redpoint eVentures é a primeira gestora de capital de risco Brasileira a ser patrocinada por fundos de venture capital do Vale do Silicio. Nosso foco de investimento são empresas de Internet com foco em serviços para consumidores, tanto na web como em mobile. Investimos em empresas nascentes, na chamada rodada de Series A -- ou seja, buscamos ser o primeiro investidor institucional nas empresas em que investimos. Com uma equipe local e dedicada, trazemos para o Brazil e região as melhores práticas de dois fundos estabelecidos e de grande destaque mundial: a Redpoint (Menlo Park, CA) e BV Capital eVenture (Sao Francisco, CA).",
     "vendida": "f",
+    "cnpj": "14710098000185",
+    "nome_fundador": "Anderson Thees",
+    "email_fundador": "anderson@rpev.com.br",
     "areas": [
       {
         "id_area_atuacao": 8,
@@ -5157,6 +5454,9 @@
     "ano_venda": null,
     "descricao": "Fazemos melhoramento genético, clones (micropropagação) de diversas especies ornamentais, florestais e hortícolas.",
     "vendida": "f",
+    "cnpj": "4008169000149",
+    "nome_fundador": "Monique Ines Segeren",
+    "email_fundador": "moniqueproclone@gmail.com",
     "areas": [
       {
         "id_area_atuacao": 5,
@@ -5198,6 +5498,9 @@
     "ano_venda": null,
     "descricao": "Implantação de sistema fotovoltaico com venda, instalação e assistência técnica.",
     "vendida": "f",
+    "cnpj": "11718893000121",
+    "nome_fundador": "Jair Soave Jr",
+    "email_fundador": "jair.soave@atriaeng.com.br",
     "areas": [
       {
         "id_area_atuacao": 7,
@@ -5239,6 +5542,9 @@
     "ano_venda": null,
     "descricao": "Evora Tecnologia Ltda. EPP é uma empresa de consultoria e desenvolvimento na área de óptica e processamento digital de imagens fundada em 2003 em Campinas para atender a indústria de equipamentos médicos e hospitalares, laboratórios científicos, laboratórios clínicos e setores industriais que usam equipamentos ópticos.",
     "vendida": "f",
+    "cnpj": "5280478000136",
+    "nome_fundador": "Cesar A. P. D. Evora",
+    "email_fundador": "cesar.evora@terra.com.br",
     "areas": [
       {
         "id_area_atuacao": 8,
@@ -5280,6 +5586,9 @@
     "ano_venda": null,
     "descricao": "Empresa especializada no desenvolvimento de soluções para geração de energia e eficiência energética.",
     "vendida": "f",
+    "cnpj": "13010604000160",
+    "nome_fundador": "Jonas Rafael Gazoli",
+    "email_fundador": "gazoli@gmail.com",
     "areas": [
       {
         "id_area_atuacao": 7,
@@ -5343,6 +5652,9 @@
     "ano_venda": null,
     "descricao": "A KNBS atua em ciência de dados, IoT,  smart grid e automação de processos, voltados ao relacionamento com o cliente e ao desenvolvimento empresarial. Organiza tecnologias de ponta e soluções de negócios que permitam reconhecer problemas específicos e garantam melhorias operacionais, de cunho estratégico e de relacionamento.",
     "vendida": "f",
+    "cnpj": "5532488000111",
+    "nome_fundador": "Carlos Alberto Fr├│es Lima",
+    "email_fundador": "froes@knbs.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -5428,6 +5740,9 @@
     "ano_venda": null,
     "descricao": "O Instituto tem como objetivo o desenvolvimento e aperfeiçoamento de tecnologias e metodologias em educação, sobretudo a distância, além de prestação de serviços e consultoria.",
     "vendida": "f",
+    "cnpj": "15273798000112",
+    "nome_fundador": "Alexandre Tunis Pioli",
+    "email_fundador": "contato@inteb.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -5480,6 +5795,9 @@
     "ano_venda": null,
     "descricao": "Fabricante de Suplementos para Esportistas e também tercerização em geral.",
     "vendida": "f",
+    "cnpj": "8883540000172",
+    "nome_fundador": "Marcelo Cesar Alves Mota",
+    "email_fundador": "marcelo@pron2.com.br",
     "areas": [
       {
         "id_area_atuacao": 6,
@@ -5521,6 +5839,9 @@
     "ano_venda": null,
     "descricao": "O segmento de pesquisas é atualmente essencial para muitas das camadas da sociedade: seja para conhecer mercados ou saber a opinião das pessoas sobre determinado assunto, uma pesquisa estatística proporciona embasamento suficiente para que se possa tomar decisões mais convictas. Composta essencialmente por Bacharéis em Estatística formados pela Universidade Estadual de Campinas (Unicamp, SP), o Instituto PHD conta com especialistas em Marketing capazes de entregar campanhas com alto grau de assertividade. O Instituto foi criado sob a ideologia de mostrar aos clientes não somente números e proporções, mas também interpretações e conclusões estatísticas de alta qualidade. E é exatamente essa a proposta do Instituto PHD: oferecer um verdadeiro Diferencial em Pesquisas.",
     "vendida": "f",
+    "cnpj": "12312607000196",
+    "nome_fundador": "Andre Tunis Pioli",
+    "email_fundador": "andrepioli@institutophd.com.br",
     "areas": [
       {
         "id_area_atuacao": 13,
@@ -5581,6 +5902,9 @@
     "ano_venda": null,
     "descricao": "Produtora multimídia. Sucesso com o vídeo da Galinha Pintadinha, o maior fenômeno da Internet brasileira.",
     "vendida": "f",
+    "cnpj": "9583710000166",
+    "nome_fundador": "Marcos Patrizzi Luporini",
+    "email_fundador": "marcos@galinhapintadinha.com.br",
     "areas": [
       {
         "id_area_atuacao": 8,
@@ -5641,6 +5965,9 @@
     "ano_venda": null,
     "descricao": "A Gera Inovação é uma empresa especializada em processos de inovação, que atua há mais de 10 anos oferecendo assessoria empresarial e serviços relacionados à gestão da inovação.Somos parceiros de empresas privadas e instituições públicas de pesquisa de diversos segmentos. Nossos serviços foram planejados para apoiar as empresas nos diversos aspectos do processo de inovação, oferecendo aos clientes soluções para viabilizar o desenvolvimento de seus projetos inovadores. Entre nossos principais serviços estão: Captação de Recursos, Gestão da Inovação e Projetos, Proteção do Conhecimento  e Propriedade Intelectual, Educação e Cultura para Inovação.",
     "vendida": "f",
+    "cnpj": "9293931000108",
+    "nome_fundador": "Izilda Gomes Garcez Capovilla",
+    "email_fundador": "izilda@gera.net.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -5734,6 +6061,9 @@
     "ano_venda": null,
     "descricao": "Especializada na aplicação de tecnologia na área financeira, a Top Hint Solutions - Consultoria em Tecnologia e Finanças faz parte da Companhia de Desenvolvimento do Pólo de Alta Tecnologia de Campinas (CIATEC). Consultoria, treinamento e implantação de softwares personalizados são as nossas principais áreas de atuação.",
     "vendida": "f",
+    "cnpj": "10217676000195",
+    "nome_fundador": "Ricardo da Silva Braga",
+    "email_fundador": "braga@tophint.com.br",
     "areas": [
       {
         "id_area_atuacao": 11,
@@ -5827,6 +6157,9 @@
     "ano_venda": null,
     "descricao": "A MC1 é líder em mobilidade corporativa na América Latina, atendendo mais de 45 mil usuários em suas atividades diárias. Contamos com escritórios no Brasil, Estados Unidos, além de atuarmos também através de Canais de Vendas no Canadá, Índia e países da América Central. Nossas soluções estão implementadas em 19 países para os quais oferecemos monitoramento 24/7 e suporte dedicado, na língua nativa. Muitos dos nossos clientes, satisfeitos com os resultados obtidos em projetos locais, optam por levar a MC1 a outros países, otimizando suas operações no cenário global. Independente das diferenças tributárias, regras de negócios simples ou complexas, boa conectividade ou sombras de sinal, nosso compromisso é aumentar sua produtividade, em qualquer lugar, a qualquer hora.",
     "vendida": "f",
+    "cnpj": "5896710000165",
+    "nome_fundador": "Kayo Scrocaro Hisatomi",
+    "email_fundador": "kayo.hisatomi@mc1.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -5898,6 +6231,9 @@
     "ano_venda": null,
     "descricao": "Fazemos seus desejos virarem realidade através do uso das mais novas tecnologias em desenvolvimento de sistemas. desenvolvemos sistemas de gestão empresarial e comercial, emissores de boletos on-line, aplicativos para dispositivos móveis e consultoria em aquisição de hardware e software.",
     "vendida": "f",
+    "cnpj": "12440976000109",
+    "nome_fundador": "Daniel de Haro Moraes",
+    "email_fundador": "dmoraes@botunix.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -5939,6 +6275,9 @@
     "ano_venda": null,
     "descricao": "MindPresent provê treinamento, palestras, coaching e consultoria empresarial em desenvolvimento humano e gerenciamento de projetos.",
     "vendida": "f",
+    "cnpj": "11992791000108",
+    "nome_fundador": "Solange Helena Aguilera",
+    "email_fundador": "contato@mindpresent.com",
     "areas": [
       {
         "id_area_atuacao": 11,
@@ -6062,6 +6401,9 @@
     "ano_venda": null,
     "descricao": "Distribuidora Oficial: AGROPALMA, DUPONT, FRIESLANDCAMPINA, IFF, TATE & LYLE e WORLÉE, a MasterSense atua em todo o território nacional levando conhecimento, inovação e tecnologia em ingredientes e aromas alimentícios.",
     "vendida": "f",
+    "cnpj": "3161388000109",
+    "nome_fundador": "Paulo Morise",
+    "email_fundador": "paulo.morise@mastersense.com",
     "areas": [
       {
         "id_area_atuacao": 6,
@@ -6092,6 +6434,9 @@
     "ano_venda": null,
     "descricao": "Desenvolvemos soluções para monitoramento de processos, focados em Agribusiness.\r\n\r\nA partir de sensores instalados em máquinas e instalações, o Sistema CALIPSO, coleta os dados, monitora e registra a produção, enviando pra \"núvem\" para compartilhamento dos resultados e alarmes.",
     "vendida": "f",
+    "cnpj": "9521391000164",
+    "nome_fundador": "Marcelo Gomes Ferreira Lima",
+    "email_fundador": "marcelo.lima@agroinfoti.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -6144,6 +6489,9 @@
     "ano_venda": null,
     "descricao": "A Opusphere é uma startup especializada em gamificação, sediada em Campinas (SP). Fundada em 2013, desenvolveu uma plataforma própria de gamificação (Platamine) para atender as diversas demandas do mercado em sistemas, produtos e serviços. Além de iniciativas em educação, atua também no ambiente corporativo, gamificando a gestão de pessoas e processos nas empresas.",
     "vendida": "f",
+    "cnpj": "17763551000100",
+    "nome_fundador": "Marcel Leal",
+    "email_fundador": "marcel@opusphere.com",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -6196,6 +6544,9 @@
     "ano_venda": null,
     "descricao": "Somos uma agência de transformação. Nós ajudamos nossos clientes a transformar seus objetivos de negócio em algo novo capaz de criar histórias compartilhadas.",
     "vendida": "f",
+    "cnpj": "18023924000179",
+    "nome_fundador": "Mauricio Campitelli Conti",
+    "email_fundador": "mauricio@burst.com.br",
     "areas": [
       {
         "id_area_atuacao": 11,
@@ -6330,6 +6681,9 @@
     "ano_venda": null,
     "descricao": "Consultoria em gestão da inovação, novos negócios e investimentos.",
     "vendida": "f",
+    "cnpj": "11822564000126",
+    "nome_fundador": "Di├│genes Feldhaus",
+    "email_fundador": "diogenes.feldhaus@okyra.com",
     "areas": [
       {
         "id_area_atuacao": 11,
@@ -6371,6 +6725,9 @@
     "ano_venda": null,
     "descricao": "Empresa especializada em elevação de performance empresarial e executiva através de programas personalizados de coaching executivo, empresarial e de carreira, treinamentos in-company e abertos, palestras motivacionais. Oferecemos soluções modernas para aumento de performance, através do desenvolvimento acelerado de competências comportamentais de gestão e liderança através da aplicação prática de ferramentas e metodologias cientificamente comprovadas.",
     "vendida": "f",
+    "cnpj": "17839514000138",
+    "nome_fundador": "Camila Thomazelli",
+    "email_fundador": "camila@thomazellihoyos.com",
     "areas": [
       {
         "id_area_atuacao": 11,
@@ -6412,6 +6769,9 @@
     "ano_venda": null,
     "descricao": "Usamos criatividade e o estado da arte em tecnologia para entregar soluções de alta qualidade que funcionam. Nossas áreas de interesse abrangem software embarcado, TV Digital, acessibilidade, legendagem oculta, áudiodescrição, TVs conectadas, reconhecimento de fala e aprendizado de máquina.",
     "vendida": "f",
+    "cnpj": "15334682000146",
+    "nome_fundador": "Rafael Augusto Peressinoto",
+    "email_fundador": "rap@showcasepro.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -6524,6 +6884,9 @@
     "ano_venda": null,
     "descricao": "Entrega de coroas de flores em todos os cemitérios e velórios do país.",
     "vendida": "f",
+    "cnpj": "12404942000114",
+    "nome_fundador": "Eduardo Shimizu de Gouveia",
+    "email_fundador": "eduardo@coroasparavelorio.com.br",
     "areas": [
       {
         "id_area_atuacao": 8,
@@ -6554,6 +6917,9 @@
     "ano_venda": null,
     "descricao": "A Innova GP atua com a prestação de serviços de consultoria em gestão da inovação e gerenciamento de projetos para pequenas e médias empresas. Temos como foco a atuação em todas as fases do ciclo de inovação nas empresas: Levantamento de novas idéias, seleção de Idéias, busca de recursos para desenvolvimento, implementação de projetos de inovação e processos de melhoria contínua.",
     "vendida": "f",
+    "cnpj": "18204820000160",
+    "nome_fundador": "Daniel de Souza Medina",
+    "email_fundador": "daniel@innovagp.com",
     "areas": [
       {
         "id_area_atuacao": 11,
@@ -6595,6 +6961,9 @@
     "ano_venda": null,
     "descricao": "Somos uma startup, com cerca de 3 anos de existência, cuja missão é a criação de cidades sustentáveis, através do desenvolvimento de tecnologias para Smart Cities. Nesse contexto desenvolvemos o Ecopoints, uma plataforma onde usuários ganham pontos deixando de emitir gases do Efeito Estufa, e trocam esses pontos por descontos em produtos e serviços de empresas parceiras.",
     "vendida": "f",
+    "cnpj": "17886601000146",
+    "nome_fundador": "Rafael Martins Buck de Godoy",
+    "email_fundador": "buck@pminova.com",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -6655,6 +7024,9 @@
     "ano_venda": null,
     "descricao": "A Baita é uma aceleradora de startups de base tecnológica. Ela é constituída por um grupo de empreendedores e ex-executivos do de empresas nacionais e multinacionais, experts nas metodologias mais modernas para alavancar e acelerar startups de alto conteúdo tecnológico. Temos como foco atuar fortemente no ecossistema de empreendedorismo nacional e estimular o empreendedorismo tanto no ecossistema local quanto nas grandes empresas como instrumento de inovação de alto impacto, conectando empresas, investidores e empreendedores locais.",
     "vendida": "f",
+    "cnpj": "19626397000150",
+    "nome_fundador": "Rosana Jamal Francisco dos Santos Fernandes",
+    "email_fundador": "rosana@baita.ac",
     "areas": [
       {
         "id_area_atuacao": 8,
@@ -6696,6 +7068,9 @@
     "ano_venda": null,
     "descricao": "A Sanertel agora é SANERTECH. Especializada em indução magnética, a Sanertech desenvolve equipamentos para reciclagem de lixo e fabrica seladora por indução para embalagens. Em especial para cápsulas de café.",
     "vendida": "f",
+    "cnpj": "3643633000106",
+    "nome_fundador": "Wagner Sanerip",
+    "email_fundador": "wsanerip@terra.com.br",
     "areas": [
       {
         "id_area_atuacao": 14,
@@ -6756,6 +7131,9 @@
     "ano_venda": null,
     "descricao": "A Bunny Consulting (BunnyCo) é uma consultoria fundada por profissionais com ampla experiência em segmento online. Atuamos em projetos de métricas, gestão de campanhas, SEO, SEM, campanhas online, links patrocinados, social media e otimização de desempenho para propriedades digitais com casos de sucesso no Brasil e América Latina.",
     "vendida": "f",
+    "cnpj": "20277475000137",
+    "nome_fundador": "Rodrigo C. Rubio",
+    "email_fundador": "rubio@bunnyconsuting.com",
     "areas": [
       {
         "id_area_atuacao": 13,
@@ -6898,6 +7276,9 @@
     "ano_venda": null,
     "descricao": "Grupo de franquias de educação",
     "vendida": "f",
+    "cnpj": "1633121000133",
+    "nome_fundador": "Rog├®rio Gabriel",
+    "email_fundador": "rogerio@prepara.com.br",
     "areas": [
       {
         "id_area_atuacao": 12,
@@ -6928,6 +7309,9 @@
     "ano_venda": null,
     "descricao": "O MBA60 é uma empresa de educação para gestão que desenvolve e transmite conteúdo relevante e prático para a capacitação em gestão dos profissionais nos mais diferentes setores da economia. Por meio de formatos inovadores e recursos audiovisuais, ensina a resolver problemas de gestão reais de forma rápida e efetiva.",
     "vendida": "f",
+    "cnpj": "14793357000189",
+    "nome_fundador": "Alexandre Picchi Neves",
+    "email_fundador": "alexandre@mba60.com",
     "areas": [
       {
         "id_area_atuacao": 12,
@@ -7220,6 +7604,9 @@
     "ano_venda": null,
     "descricao": "Plataforma Software as a Service (SaaS) para automatização de processos de gestão estratégica e operacional. Oferecemos relatórios de desempenho, KPI dashboards e BSC.",
     "vendida": "f",
+    "cnpj": "10662358000133",
+    "nome_fundador": "Kleber Teraoka",
+    "email_fundador": "kleberken@gmail.com",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -7250,6 +7637,9 @@
     "ano_venda": null,
     "descricao": "Varejo online de esportes e lifestyle.",
     "vendida": "f",
+    "cnpj": "14058035000196",
+    "nome_fundador": "Bruno Nardon Felici",
+    "email_fundador": "bruno.nardon@kanui.com.br",
     "areas": [
       {
         "id_area_atuacao": 8,
@@ -7280,6 +7670,9 @@
     "ano_venda": null,
     "descricao": "Somos uma empresa de engenharia, pesquisa e desenvolvimento, fundada em 2007 por três estudantes de pós-graduação, a partir de um projeto de pesquisa do Laboratório de Mecânica Computacional da Universidade Estadual de Campinas (UNICAMP). Hoje mantemos escritórios no Brasil e nos EUA.\r\n\r\nNosso objetivo é, através da aplicação da mecânica computacional, auxiliar nossos clientes a resolver problemas do mundo real, por meio de aplicativos de Computer Aided Engeneering (CAE) e serviços de excelência. Trabalhamos em estreita colaboração com nossos clientes para desenvolver e entregar soluções que atendam seus objetivos de projeto.\r\n\r\nNosso sucesso é uma equipe dedicada e fundamentada na engenharia, com profundo conhecimento de mecânica computacional, design de software, larga experiência em aplicações na indústria e reconhecido know-how nos mercados de energia, petróleo, gás, engenharia civil, geotecnia e geomecânica.",
     "vendida": "f",
+    "cnpj": "8605962000186",
+    "nome_fundador": "Gustavo Longhin",
+    "email_fundador": "longhin@simworx.com.br",
     "areas": [
       {
         "id_area_atuacao": 7,
@@ -7545,6 +7938,9 @@
     "ano_venda": null,
     "descricao": "Achieve Leap has an unique solution to help retailers to increase their revenues through different sales channels. We help you to develop better ways to sell and increase the numbers of your online endeavor. We deliver a simple platform, with easy-to-use interface, and state-of-the-art technology. Achieve Leap help you reduce complexity of online integrations and makes it easier for businesses to connect with consumers in Brazil.\r\n\r\nAs webstore owners, everybody knows the hassles of increasing sales. Not only it is difficult to maintain the webstore running, but it means nothing without client acquisition. We all know how difficult it is to grow organically or through normal marketing activities.\r\n\r\nAt Achieve Leap we intend to bridge the gap and diminish the chasm separating you from your customers. How about being able to quickly and easily show case your products in many high volume marketplaces such as Walmart, Cnova, B2W, Mercado Livre and gain access to a whole new level of low cost customer acquisition?\r\n\r\nBut technical integration with your webstore is a huge pain and very big commitment and investment. And this is the goal of Achieve Leap: to make it trivial for your business to connect with those high traffic channels. Come get to know us and make your webstore really fly.",
     "vendida": "f",
+    "cnpj": "20138608000139",
+    "nome_fundador": "Daniel da Cruz Pisano",
+    "email_fundador": "daniel@aleap.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -7728,6 +8124,9 @@
     "ano_venda": null,
     "descricao": "Empresa de eventos que presta serviços de bufê buscando estabelecer uma relação de simbiose entre fornecedores, clientes e o meio ambiente através de um comércio ético-solidário com comunidades, equilíbrio ambiental, utilizando produtos orgânicos e minimizando a geração de resíduos sólidos e consumo de alimentos de forma consciente e saudável.",
     "vendida": "f",
+    "cnpj": "7740776000197",
+    "nome_fundador": "Geovah Lustoza Cabral Jr",
+    "email_fundador": "cabral@cacaui.com.br",
     "areas": [
       {
         "id_area_atuacao": 6,
@@ -7758,6 +8157,9 @@
     "ano_venda": null,
     "descricao": "A eTest é uma plataforma web para elaborar provas adaptativas. Isso quer dizer que o conteúdo da prova se adapta ao conhecimento do aluno. Essas provas são muito mais justas para o aluno, classificando-o em seu nível de conhecimento. Vamos supor que uma prova tradicional seja ministrada, e que esta prova resulte fácil para os alunos presentes. Neste caso, todos os alunos terão notas altas e será difícil diferenciá-los. O mesmo ocorre se a prova for muito difícil. As provas adaptativas permitem que a prova se adapte ao conhecimento do aluno, podendo sempre classifica-lo no nível correto. Imagine agora que um ótimo aluno erra uma questão por distração. Queremos medir seu conhecimento. Numa prova tradicional ele tiraria uma nota mais baixa. A prova adaptativa se adaptará para uma questão mais fácil assim que ele errar a questão, e logo se adaptará para questões mais difíceis quando ele voltar a acertar. É uma prova mais justa. Assim, a eTest realiza provas e simulados, entre outras: as provas adaptativas permitem que alunos diferentes recebam provas diferentes e mesmo assim tenham notas comparáveis. Se as provas são diferentes, não há mais como “colar”, nem como fraudar a prova recebendo as questões com antecedência. Também não é mais necessário fazer todas as provas no mesmo dia, trazendo vantagens para o aluno que pode fazer sua prova no dia mais conveniente, e para a instituição que precisará de uma infra-estrutura muito menor para aplicar a prova.",
     "vendida": "f",
+    "cnpj": "10440058000100",
+    "nome_fundador": "Paula Gomez",
+    "email_fundador": "paula.r.c.gomez@gmail.com",
     "areas": [
       {
         "id_area_atuacao": 12,
@@ -7818,6 +8220,9 @@
     "ano_venda": null,
     "descricao": "Somos uma empresa de tecnologia especializada em análise e gerenciamento de dados. Existimos para fazer da tecnologia um meio para aumentar o valor das informações de nossos clientes, tornando a experiência de utilizá-las mais simples e rápida.",
     "vendida": "f",
+    "cnpj": "20164707000140",
+    "nome_fundador": "Luciano de Oliveira Kassen",
+    "email_fundador": "luciano.kassen@inquesti.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -7993,6 +8398,9 @@
     "ano_venda": null,
     "descricao": "A XporY.com é um site de compra e venda onde você adquire o que precisa através de uma moeda virtual que você ganha com a venda dos seus produtos e serviços.",
     "vendida": "f",
+    "cnpj": "11191289000190",
+    "nome_fundador": "Rafael Barbosa",
+    "email_fundador": "rafael@xpory.com",
     "areas": [
       {
         "id_area_atuacao": 13,
@@ -8023,6 +8431,9 @@
     "ano_venda": null,
     "descricao": "Desenvolve e comercializa produtos e serviços inovadores com soluções para Internet das Coisas (IoT) e Telemetria, utilizando sistemas de redes de sensores sem fio visando a extração de dados e processamento inteligente dos mesmos, de modo a tornar a experiência do cliente mais produtiva e eficiente.",
     "vendida": "f",
+    "cnpj": "20502436000196",
+    "nome_fundador": "George Heiki Yoshizawa",
+    "email_fundador": "george.yoshizawa@gmail.com",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -8127,6 +8538,9 @@
     "ano_venda": null,
     "descricao": "Voltada para a saúde e bem estar social, a Rubian desenvolve pesquisas de produtos e serviços para a obtenção de extratos vegetais de alta qualidade, utilizando-se de processos inovadores  e sustentáveis, como o uso da tecnologia de CO₂ supercrítico.",
     "vendida": "f",
+    "cnpj": "22527916000137",
+    "nome_fundador": "Eduardo Cesar Andreo Aledo",
+    "email_fundador": "ealedo@icloud.com",
     "areas": [
       {
         "id_area_atuacao": 6,
@@ -8179,6 +8593,9 @@
     "ano_venda": null,
     "descricao": "Como serviço, a Sleek Data oferece soluções de Inteligência Competitiva (Customer Intelligence) através de análises estatísticas avançadas para reconhecimento de padrão e perfis de uso de produtos e serviços visando a formulação de estratégias otimizadas de forecasting, marketing, risco, análise de crédito, churn / attrition, life time value, dentre outros, para crescimento da receita e diminuição de perdas. E no segmento de Pesquisas de Opinião, análises centradas no consumidor final através da realização de pesquisas de mídia, de mercado e de opinião (online, face a face e telefone) para lançamento de marcas e produtos, definição de estratégia e elasticidade de preços, mapas de posicionamento, análise de Key Drivers para produtos / marcas / empresas / candidatos, geo-marketing, dentre outros. Como produto, oferecemos o Sleek Reports, aplicação de business analytics (relatórios e dashboards) que leva até nossos clientes uma solução tecnológica (SaaS) para acesso a indicadores e dashboards multi-plataforma, com foco em acesso mobile (tablets). Nosso público alvo é a camada decisora das organizações (CEOs, VPs, Diretores e tomadores de decisão) e as soluções são construídas de forma a atender e resolver os seus problemas mais críticos de negócio. Permite, dessa forma, que a informação esteja disponível 24/7 e via qualquer dispositivo e que as decisões tomadas sejam baseadas nas informações mais adequadas, com o máximo de acuracidade.",
     "vendida": "f",
+    "cnpj": "17172304000139",
+    "nome_fundador": "Andre Blazko",
+    "email_fundador": "andre.blazko@sleekdata.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -8362,6 +8779,9 @@
     "ano_venda": null,
     "descricao": "A BioReciclo atua na área de reciclagem de baterias de lítio para dispositivos móveis por meio de biotecnologia associada  a hidrometalurgia, com foco na geração de subprodutos de alto valor agregado capaz de retroalimentar a cadeia produtiva, reduzindo a necessidade de extração de novos metais e o impacto ambiental associado a esta atividade.\r\nAtua com consultoria de gestão de resíduos, sistema de coleta de baterias, automação de inventário ambiental e gerenciamento de resíduos eletrônicos.",
     "vendida": "f",
+    "cnpj": "22450528000103",
+    "nome_fundador": "Regina Comar",
+    "email_fundador": "recomar@gmail.com",
     "areas": [
       {
         "id_area_atuacao": 5,
@@ -8772,6 +9192,9 @@
     "ano_venda": null,
     "descricao": "Área de atuação da empresa: Robótica Móvel e Sistemas Embarcados\r\nPrincipais produtos: AutoDrive (Equipamento Móvel de Monitoramento) e Aurora (Computador de Bordo).\r\nO principal produto da empresa: um Equipamento Automático de Monitoramento e Vigilância. O AutoDrive é um AGV (veículo autoguiado) para vigilância e monitoramento de áreas industriais, shoppings, galpões logísticos, caixas eletrônicos e estacionamentos.",
     "vendida": "f",
+    "cnpj": "18383028000110",
+    "nome_fundador": "Marcel Jose Lemes Pinheiro",
+    "email_fundador": "diretor@cybox.com.br",
     "areas": [
       {
         "id_area_atuacao": 14,
@@ -8944,6 +9367,9 @@
     "ano_venda": null,
     "descricao": "Desenvolvemos soluções para educadores quanto ao uso de tecnologia para educação. Nosso trabalho é criado diretamente com educadores e em parceria com instituições de ensino.\r\nO portal Mupi oferece cursos online para formação de professores nos novos letramentos (incluindo os letramentos que envolvem o digital) e nas novas tecnologias e metodologias, visando a inovação nas práticas de ensino que abrangem as competências do século XXI.",
     "vendida": "f",
+    "cnpj": "22262305000104",
+    "nome_fundador": "Paula Rodrigues Furtado",
+    "email_fundador": "paula@mupi.me",
     "areas": [
       {
         "id_area_atuacao": 12,
@@ -9422,6 +9848,9 @@
     "ano_venda": null,
     "descricao": "A Devnup é uma empresa focada em desenvolvimento de ideias e negócios a partir de tecnologia e inovação. Com profissionais experientes e certificados, desenvolvemos soluções para web, mobile (Android e iOS) e computação em nuvem, além de oferecer serviços de consultoria, design e manutenção dos produtos.",
     "vendida": "f",
+    "cnpj": "20898486000134",
+    "nome_fundador": "Luis Eduardo Gomes do Amaral Brito",
+    "email_fundador": "luis@devnup.com",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -9660,6 +10089,9 @@
     "ano_venda": null,
     "descricao": "Somos a empresa pioneira na terceirização de serviço de cultura de tecido e de transformação genética de plantas no Brasil. Seguindo modelos existentes nos Estados Unidos, onde ao invés de vários laboratórios fazerem transformação de plantas, apenas um núcleo transforma para todos. Com isso manteremos a estrutura funcionando ano inteiro e com profissionais altamente especializados.",
     "vendida": "f",
+    "cnpj": "23541759000187",
+    "nome_fundador": "Paulo Cezar de Lucca",
+    "email_fundador": "delucca@lgf.ib.unicamp.br",
     "areas": [
       {
         "id_area_atuacao": 5,
@@ -11001,6 +11433,9 @@
     "ano_venda": null,
     "descricao": "Holi ajuda a gerenciar a longevidade das pessoas através de alimentos funcionais e nutracêuticos. Além de promover a convivência humana com altruísmo e compaixão, inspirando pessoas e melhorando o mundo.",
     "vendida": "f",
+    "cnpj": "24400179000132",
+    "nome_fundador": "Elisabete Regina Gurgel Rodrigues Castilho",
+    "email_fundador": "bete@holi.style",
     "areas": [
       {
         "id_area_atuacao": 6,
@@ -12459,6 +12894,9 @@
     "ano_venda": null,
     "descricao": "Startup que desenvolve tecnologia 3D e inteligência artificial para entender e prever comportamentos humanos na área da saúde, transporte, segurança e varejo. É a startup por trás do Wheelie, o primeiro programa de computador do mundo capaz de traduzir expressões faciais em comandos para controlar uma cadeira de rodas e computadores.",
     "vendida": "f",
+    "cnpj": "24746975000121",
+    "nome_fundador": "Paulo Gurgel Pinheiro",
+    "email_fundador": "paulopine@gmail.com",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -12792,6 +13230,9 @@
     "ano_venda": null,
     "descricao": "Atividades desenvolvidas: -Consultoria médica em farmacovigilância para indústria farmacêutica (avaliação de relatos de eventos adversos, avaliação de sinais de segurança, elaboração de relatórios de segurança, auditoria e estruturação de rotinas) -Consultoria médica para serviços de saúde nas áreas de farmacovigilância, gestão assistencial, segurança do paciente e linhas de cuidado. -Consultoria médica em projetos de pesquisa clínica (clinical trials) e bioequivalência com foco em medicamentos inalatórios. -Consultoria médica nas áreas de Pneumologia e Imunologia.",
     "vendida": "f",
+    "cnpj": "7752689000150",
+    "nome_fundador": "Ana Paula de Almeida Salles Perroud",
+    "email_fundador": "asperroud@asperroud.com.br",
     "areas": [
       {
         "id_area_atuacao": 10,
@@ -12833,6 +13274,9 @@
     "ano_venda": null,
     "descricao": "A Neobuild oferece soluções de áudio, vídeo e automação para residências, escritórios, hotéis e SPAs, transformando tecnologia em conforto, entretenimento e segurança.",
     "vendida": "f",
+    "cnpj": "13227847000155",
+    "nome_fundador": "Julius Weber",
+    "email_fundador": "contato@neobuild.com.br",
     "areas": [
       {
         "id_area_atuacao": 14,
@@ -12863,6 +13307,9 @@
     "ano_venda": null,
     "descricao": "Desenvolvimento de jogos para smartphones.",
     "vendida": "f",
+    "cnpj": "18636157000173",
+    "nome_fundador": "Luiz Ferreira Menezes Junior",
+    "email_fundador": "luiz@thetisgames.com",
     "areas": [
       {
         "id_area_atuacao": 8,
@@ -12923,6 +13370,9 @@
     "ano_venda": null,
     "descricao": "A apis3 é uma agência, consultoria e auditoria com foco em performance digital, branding e inovação em negócios. Trabalhamos do propósito de marca do cliente à geração de lucros para o cliente com marketing digital. Temos como objetivo maior trazer resultados para nossos clientes, através de soluções rápidas e customizadas. Os nossos principais serviços são: - Criação publicitária - Mídia digital: links patrocinados, display, social ads, reserva e programática. - Otimização de sites (SEO), aplicativos para app stores (ASO) e vídeos (VSEO) - Social: gestão e criação de conteúdo - BI e Web Analytics - CRM - Design - Desenvolvimento de sites - Criação de conteúdo - Estudo comportamental: Focus groups e entrevistas de profundidade - Projetos de inovação incremental e disruptiva - Design de soluções em produtos, serviços e processos - Branding",
     "vendida": "f",
+    "cnpj": "13211902000119",
+    "nome_fundador": "Douglas Felipe Hertz",
+    "email_fundador": "douglas@apis3.com",
     "areas": [
       {
         "id_area_atuacao": 13,
@@ -12953,6 +13403,9 @@
     "ano_venda": null,
     "descricao": "Fabricante de Blocos de Concreto e Tijolos Cerâmicos Aparentes, ambos para a construção civil. Produtos normalizados e de qualidade.",
     "vendida": "f",
+    "cnpj": "5663503000160",
+    "nome_fundador": "Aur├®lio Theophilo Fiorellini Borges Otoni",
+    "email_fundador": "aureliootoni@bauth.com.br",
     "areas": [
       {
         "id_area_atuacao": 8,
@@ -12994,6 +13447,9 @@
     "ano_venda": null,
     "descricao": "Atuante nas áreas pertinentes à engenharia civil, com grande experiência em projetos estruturais em concreto armado, projetos de instalações hidráulicas, execução e gerenciamento de obras, topografia, urbanismo, projetos de infra-estrutura urbana: terraplenagem, saneamento, pavimentação. Aprovação de projetos de urbanismo junto aos órgãos competentes, bem como gerenciamento de implantações.",
     "vendida": "f",
+    "cnpj": "14670674000108",
+    "nome_fundador": "GUSTAVO YOSHIZANE",
+    "email_fundador": "gustavo@hegio.com.br",
     "areas": [
       {
         "id_area_atuacao": 14,
@@ -13024,6 +13480,9 @@
     "ano_venda": null,
     "descricao": "Fundada em Campinas no ano de 1987, a Eletro Sol surgiu para atender a demanda de venda e instalação de aquecimento solar na região de Campinas. Após alguns anos, incorporou no negócio uma serralheria, passando a fornecer portões, grades, escadas e guarda corpo ao seus cliente. Além disso oferece automatização de portão, cancelas e cerca elétrica. ",
     "vendida": "f",
+    "cnpj": "56723042000105",
+    "nome_fundador": "Pedro Augusto Bueno Silva",
+    "email_fundador": "pedrinhobueno@gmail.com",
     "areas": [
       {
         "id_area_atuacao": 7,
@@ -13065,6 +13524,9 @@
     "ano_venda": null,
     "descricao": "Espaço Multiterritórios de Transformação Pessoal, oferecendo práticas de artes visuais e artes corporais tais como Aikido Corpo-Ki, Mindfulness, Yoga e Arte como Caminho.",
     "vendida": "f",
+    "cnpj": "15757996000151",
+    "nome_fundador": "MIRLA FERNANDES RIBEIRO",
+    "email_fundador": "mirlaf@gmail.com",
     "areas": [
       {
         "id_area_atuacao": 12,
@@ -13095,6 +13557,9 @@
     "ano_venda": null,
     "descricao": "A LM Biotecnologia é empresa especializada em gestão tecnológica na área médico-hospitalar, que presta serviços de manutenção preventiva e corretiva e Calibração em equipamentos para a saúde, bem como fornece assessoria às áreas de Engenharia Biomédica e Engenharia Clínica. Fundada em 1990, a LM Biotecnologia conta com equipe de Engenheiros e de Técnicos especializados, com cursos de pós-graduação em nível de Mestrado e Doutorado, capacitados para oferecerem à sua empresa o melhor em tecnologia, peças e serviços.",
     "vendida": "f",
+    "cnpj": "66315334000162",
+    "nome_fundador": "Jean Michalaros",
+    "email_fundador": "jean@lmbiotecnologia.com.br",
     "areas": [
       {
         "id_area_atuacao": 14,
@@ -13125,6 +13590,9 @@
     "ano_venda": null,
     "descricao": "A Propter é uma empresa de Educação Corporativa e Consultoria, que atende a organizações de todo o Brasil nas áreas de negócios de forma geral, e em particular nas especialidades de Gestão Estratégica, Gestão de Pessoas e Gestão de Operações. Nossas atividades compreendem Consultorias e Treinamentos completamente customizados, nas modalidades presencial e à distância.",
     "vendida": "f",
+    "cnpj": "5460722000142",
+    "nome_fundador": "Adriano Pedro Bom",
+    "email_fundador": "adriano@propterdg.com.br",
     "areas": [
       {
         "id_area_atuacao": 11,
@@ -13166,6 +13634,9 @@
     "ano_venda": null,
     "descricao": "Fabricação de carregadores ergonômicos para bebês.",
     "vendida": "f",
+    "cnpj": "21865535000103",
+    "nome_fundador": "Bruna Oliveira e Carvalho",
+    "email_fundador": "donachicasling@gmail.com",
     "areas": [
       {
         "id_area_atuacao": 10,
@@ -13196,6 +13667,9 @@
     "ano_venda": null,
     "descricao": "App de Café",
     "vendida": "f",
+    "cnpj": "22768753000184",
+    "nome_fundador": "Leonardo Valentin Zeferino",
+    "email_fundador": "leozeferino@gmail.com",
     "areas": [
       {
         "id_area_atuacao": 6,
@@ -13346,6 +13820,9 @@
     "ano_venda": null,
     "descricao": "Pesquisa em Desenvolvimento em Tecnologia com foco em TV Digital, IoT, Processamento de imagens, Rastreamento.",
     "vendida": "f",
+    "cnpj": "23419305000138",
+    "nome_fundador": "Diogo Gara",
+    "email_fundador": "diogogara@yahoo.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -13496,6 +13973,9 @@
     "ano_venda": null,
     "descricao": ": A Multi é uma plataforma que conecta universitários e profissionais a desafios, hackathons e oportunidades. Neste ecossistema, empresas podem gerar inovação e descobrir talentos.",
     "vendida": "f",
+    "cnpj": "16979640000125",
+    "nome_fundador": "Maich Bernardes",
+    "email_fundador": "maich@projetoasimov.com",
     "areas": [
       {
         "id_area_atuacao": 12,
@@ -13556,6 +14036,9 @@
     "ano_venda": null,
     "descricao": "Empresa focada no mercado de ingredientes e soluções especiais e inovadoras para as indústrias de alimentos e bebidas. Fundada em 2008, é fruto do trabalho de dois jovens empreendedores atuantes no mercado brasileiro de ingredientes, Eduardo Perego, engenheiro mecânico formado pelo Instituto Mauá de Tecnologia e Fernando Costa Santana, engenheiro de alimentos formado pela Unicamp. Desde a sua fundação em Campinas/SP, mantem um de seus principais pilares diretamente expressado no slogan \"Entregando Soluções\". É a empresa pioneira no Brasil no fornecimento técnico de ingredientes ancestrais, como Quinoa, Amaranto, Chia e Matcha para a indústria. Em 2012 se associou à empresa chilena Blumos.",
     "vendida": "f",
+    "cnpj": "9407128000149",
+    "nome_fundador": "Eduardo Perego",
+    "email_fundador": "eduardo@rsblumos.com.br",
     "areas": [
       {
         "id_area_atuacao": 6,
@@ -13739,6 +14222,9 @@
     "ano_venda": null,
     "descricao": "Soluções em inovação tecnológica para o setor pet.\r\nSobre o CrowdPet: O Brasil, bem como diversos países em desenvolvimento, possui um grande problema relativo à população de animais que vive nas ruas. Além da condição cruel, esta situação representa riscos à saúde pública, pois os animais adoecem e se reproduzem em taxas alarmantes. Deseja-se aplicar soluções tecnológicas -- especificamente, métodos de visão computacional e aprendizado de máquina -- para a abordar este problema urbano de forma colaborativa, facilitando a participação de pessoas no ciclo de identificação e rastreamento geolocalizado destes animais. O presente projeto é definido no contexto do serviço CrowdPet, que estará disponível por meio de um aplicativo para smartphones e facilitará a localização de animais perdidos e seus donos. De um lado, os tutores podem submeter fotos de seus pets perdidos ao sistema e, de outro lado, voluntários podem submeter fotos de animais que encontrarem nas ruas. Objetiva-se contribuir com métodos computacionais de reconhecimento visual de animais, para que o processo de correspondência entre os animais perdidos e cadastrados seja feito de maneira automática, escalável e eficiente.",
     "vendida": "f",
+    "cnpj": "26109349000150",
+    "nome_fundador": "Orlando Volpato Filho",
+    "email_fundador": "orlando@crowdpet.io",
     "areas": [
       {
         "id_area_atuacao": 8,
@@ -14053,6 +14539,9 @@
     "ano_venda": null,
     "descricao": "Soluções inovadoras para o uso de redes WiFi com smartphones, permitindo tanto ao usuário quanto ao provedor da rede, obter vantagens funcionais e econômicas.",
     "vendida": "f",
+    "cnpj": "20631828000155",
+    "nome_fundador": "Jos├® Sidney Yamamoto",
+    "email_fundador": "sindi@innovatechtelecom.com",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -14236,6 +14725,9 @@
     "ano_venda": null,
     "descricao": "Oferece soluções em Simulação Numérica Computacional utilizando a Fluidodinâmica Computacional, conhecida como CFD, o que consiste em prototipagem virtual,  processo pelo qual se consegue realizar simulações no computador antes que se faça o protótipo físico. A solução é capaz de dar embasamento científico para as tomadas de decisão em diagnósticos e melhorias de processos, e também nas validações de projetos, podendo reduzir custo, tempo e garantir a segurança do resultado.",
     "vendida": "f",
+    "cnpj": "23883773000144",
+    "nome_fundador": "Marc├¡lio Jos├® Caetano",
+    "email_fundador": "marciliocaetano@hotmail.com",
     "areas": [
       {
         "id_area_atuacao": 11,
@@ -14583,6 +15075,9 @@
     "ano_venda": null,
     "descricao": "Atua na produção e no desenvolvimento de dermocosméticos com ingredientes naturais obtidos a partir de resíduos de extração controlados por técnicas inovadoras e sustentáveis com garantia de eficácia, segurança e boa relação custo/risco/benefício. Utiliza ingredientes naturais e orgânicos de empresas brasileiras, realizando a distribuição para lojas, clínicas de estética e spas.",
     "vendida": "f",
+    "cnpj": "14265814000162",
+    "nome_fundador": "Soraya El khatib",
+    "email_fundador": "sofarma1@yahoo.com.br",
     "areas": [
       {
         "id_area_atuacao": 10,
@@ -14635,6 +15130,9 @@
     "ano_venda": null,
     "descricao": "Prestadora de serviços na área ambiental com atividades focadas no gerenciamento de áreas contaminadas. Empresa especialista em tecnologias químicas de remediação ambiental in-situ de solo e água subterrânea.",
     "vendida": "f",
+    "cnpj": "13487115000102",
+    "nome_fundador": "Juliano de Almeida Andrade",
+    "email_fundador": "juliano@oxiambiental.com.br",
     "areas": [
       {
         "id_area_atuacao": 11,
@@ -14665,6 +15163,9 @@
     "ano_venda": null,
     "descricao": "A PICOLOTEC é uma empresa de tecnologia especializada em desenvolvimento de softwares web (SaaS, intranet, etc.), softwares desktop para Windows ou Linux, customizações de aplicações, manutenção de sistemas e análises de dados (big data / data science). \r\n\r\nA empresa conta com profissionais capacitados com mais de 10 anos de experiência em desenvolvimento de sistemas complexos para empresas de telecomunicações e distribuidoras de energia elétrica, utilizando as tecnologias mais avançadas do mercado e que melhor se encaixam nos projetos dos seus clientes.",
     "vendida": "f",
+    "cnpj": "17124208000115",
+    "nome_fundador": "Cleber Pereira Picolo",
+    "email_fundador": "cleberpicolo@gmail.com",
     "areas": [
       {
         "id_area_atuacao": 14,
@@ -14695,6 +15196,9 @@
     "ano_venda": null,
     "descricao": "Empresa de tecnologia, desenvolvimento de software e consultoria.",
     "vendida": "f",
+    "cnpj": "19574864000145",
+    "nome_fundador": "Cleber Paiva de Souza",
+    "email_fundador": "cleber@ssys.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -14736,6 +15240,9 @@
     "ano_venda": null,
     "descricao": "A Apex Science, fundada em Janeiro/2014 e com início das atividades em Maio/2014, tem como objetivo o desenvolvimento de projetos de pesquisa e desenvolvimento baseados nas técnicas de Cromatografia Líquida (LC) e Espectrometria de Massas (MS). A empresa atua majoritariamente no ramo farmacêutico/biofarmacêutico, mas também desenvolve projetos com empresas das áreas veterinária, cosmética, química e alimentícia, dentre outras. Dentre as suas principais áreas de atuação destacam-se o desenvolvimento de métodos cromatográficos com detectores ópticos utilizando as abordagens sistemática ou por QbD, desenvolvimento de métodos de resíduos por LC-MSMS, isolamento de compostos via cromatografia preparativa, caracterização estrutural por meio de MS de alta resolução e caracterização de biofármacos. Além disso, a Apex também atua na capacitação técnica de pesquisadores da área, por meio de cursos customizados de acordo com as necessidades do cliente.",
     "vendida": "f",
+    "cnpj": "19843171000100",
+    "nome_fundador": "Amadeu Hoshi Iglesias",
+    "email_fundador": "amadeu_iglesias@apexsci.com.br",
     "areas": [
       {
         "id_area_atuacao": 16,
@@ -14766,6 +15273,9 @@
     "ano_venda": null,
     "descricao": "O Instituto Brasileiro de Desenvolvimento do Esporte foi fundado em 2013 com o objetivo de promover o engajamento de pessoas de alto desempenho que tenham interesse em promover o desenvolvimento do esporte do país.\r\n\r\nDIFERENCIAL\r\nAjudamos os clientes a atingir resultados a partir da integração de conhecimentos de diferentes áreas.\r\n\r\nMISSÃO\r\nDesenvolvimento técnico e gerencial do esporte a partir do fornecimento de experiências de aprendizado no estado da arte.\r\n\r\nSONHO\r\nSer referência no Brasil em desenvolvimento de profissionais para o esporte. \r\n\r\nVALORES\r\nTransparência e Ética\r\nMeritocracia\r\nComunicação franca e direta\r\nBusca permanente pela excelência\r\nRespeito pelas pessoas e pelo meio ambiente.",
     "vendida": "f",
+    "cnpj": "26239853000174",
+    "nome_fundador": "Gustavo Bastos Moreno Maia",
+    "email_fundador": "gustavo.maia@inbrade.com.br",
     "areas": [
       {
         "id_area_atuacao": 12,
@@ -14796,6 +15306,9 @@
     "ano_venda": null,
     "descricao": "Utensílios de cozinha, sala, banheiros, etc. em cor dourada, cobre, preta, etc.\r\nEmpresa com plataforma e-commerce.",
     "vendida": "f",
+    "cnpj": "20046352000195",
+    "nome_fundador": "Carlos A. Figueroa",
+    "email_fundador": "carlos.cafiguer@gmail.com",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -14856,6 +15369,9 @@
     "ano_venda": null,
     "descricao": "Centro de Treinamento Funcional para pequenos grupos - Atividade Física.",
     "vendida": "f",
+    "cnpj": "21408493000173",
+    "nome_fundador": "Patricia Caeboni",
+    "email_fundador": "paticarboni@gmail.com",
     "areas": [
       {
         "id_area_atuacao": 6,
@@ -14886,6 +15402,9 @@
     "ano_venda": null,
     "descricao": "Sistemas para otimização, simulação e suporte a decisão",
     "vendida": "f",
+    "cnpj": "11840756000165",
+    "nome_fundador": "Fernando Marques de Almeida Nogueira",
+    "email_fundador": "fernando.nogueira@ufjf.edu.br",
     "areas": [
       {
         "id_area_atuacao": 8,
@@ -14916,6 +15435,9 @@
     "ano_venda": null,
     "descricao": "A Rolling Drone Geotecnologias é uma EMPRESA de soluções em Geotecnologias voltada ao levantamento de recursos terrestres nas áreas de Meio Ambiente, Agricultura de Precisão, Construção Civil, Geologia e Pesquisa Mineral e Publicidade.",
     "vendida": "f",
+    "cnpj": "20161026000241",
+    "nome_fundador": "Paulo Rodrigo Gaiotti Sim├Áes",
+    "email_fundador": "prsimoes@gmail.com",
     "areas": [
       {
         "id_area_atuacao": 8,
@@ -14957,6 +15479,9 @@
     "ano_venda": null,
     "descricao": "Empresa de audiovisual focada na criação, produção, e coprodução internacional de conteúdo para cinema e televisão.",
     "vendida": "f",
+    "cnpj": "17904679000146",
+    "nome_fundador": "Lourival Bel├®m de Oliveira Neto",
+    "email_fundador": "belemdeoliveira@gmail.com",
     "areas": [
       {
         "id_area_atuacao": 8,
@@ -15017,6 +15542,9 @@
     "ano_venda": null,
     "descricao": "A Quid Engenharia e Consultoria Ltda., fundada em 2014 por uma equipe de engenheiros experientes, foi criada com o objetivo de gerenciar o desenvolvimento de projetos e a implantação de empreendimentos a nível multidisciplinar, desde a sua concepção, ao seu planejamento e realização, nos diferentes segmentos comercial, residencial e industrial.\r\nNOSSOS SERVIÇOS:\r\n\r\nGERENCIAMENTO DE EMPREENDIMENTOS\r\n\r\nGerenciamento de Projetos e Obras\r\nPlanejamento, Programação e Controle\r\nCoordenação de Projetos\r\nFiscalização de Obras\r\n\r\n\r\nEXECUÇÃO DE OBRAS\r\n\r\nObra civil\r\nInfraestrutura e  instalações prediais\r\nReformas: Edifícios Comerciais e Residenciais;  Indústrias\r\n\r\nCONSULTORIA TÉCNICA\r\n\r\nEngenharia de Custo\r\nEngenharia de Valor\r\nSuprimentos\r\nDiligenciamento\r\nMonitoramento de Obras\r\nRecebimento Técnico de Obras",
     "vendida": "f",
+    "cnpj": "20137821000181",
+    "nome_fundador": "Maria Izabel Battaiola Sallum",
+    "email_fundador": "izabel@quidengenharia.com",
     "areas": [
       {
         "id_area_atuacao": 14,
@@ -15047,6 +15575,9 @@
     "ano_venda": null,
     "descricao": "Produção de soluções inovadoras para gestão.",
     "vendida": "f",
+    "cnpj": "26463710000141",
+    "nome_fundador": "Eduardo Cesar Valente",
+    "email_fundador": "eduardo@clia.net.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -15099,6 +15630,9 @@
     "ano_venda": null,
     "descricao": "O PortalPed é um site dedicado a pediatras e outros profissionais de saúde com interesse em pediatria. Tem por objetivo fornecer informação de qualidade, atualizada e resumida, abordando os principais temas da especialidade. Também desenvolve ferramentas que auxiliam na tomada de decisão de forma mais segura.",
     "vendida": "f",
+    "cnpj": "24064300000100",
+    "nome_fundador": "Sidney Volk da Silva",
+    "email_fundador": "sidneyvolk@yahoo.com.br",
     "areas": [
       {
         "id_area_atuacao": 10,
@@ -15147,6 +15681,9 @@
     "ano_venda": null,
     "descricao": "O Instituto Neuron surgiu da união de ex alunos da Unicamp para fornecer um serviço de excelência em Neurologia, com atendimento completo, desde a prevenção de doenças, passando pelo tratamento até a reabilitação, em um espaço único. Além de ser reconhecida como referência em Saúde Neurológica, promovendo atendimento multiprofissional integrado, suporte ao paciente e familiares e treinamento de profissionais da área de saúde.\r\nUm outro diferencial da empresa é investir na área de TI para a reabilitação neurológica, onde a Realidade Virtual é uma técnica usada com os pacientes.",
     "vendida": "f",
+    "cnpj": "19914652000160",
+    "nome_fundador": "Giovanna Shiomi Wopereis",
+    "email_fundador": "giovanna.shiomi@gmail.com",
     "areas": [
       {
         "id_area_atuacao": 10,
@@ -15177,6 +15714,9 @@
     "ano_venda": null,
     "descricao": "Parceira oficial Oracle a Recourse é uma empresa especialista em produtos e serviços de banco de dados. Conta com uma equipe técnica altamente capacitada, certificada, motivada na busca de grandes desafios.\r\n\r\nAcreditamos que nossos clientes são nossos maiores parceiros e é como parceiros que os tratamos, fazendo parte de seu negócio, empregando as melhores técnicas com claros objetivos, resolver o que precisa ser sanado e melhorar o que já está implantado.\r\n\r\nUma empresa apaixonada por banco de dados e todas suas nuances como a constante atualização. A corrida dos fabricantes em oferecer produtos cada vez melhores e competitivos entre sí é o combustível essencial para nossa motivação de sempre estarmos atualizados, oferecendo a melhor alternativa, o melhor custo e a melhor solução para nossos clientes.",
     "vendida": "f",
+    "cnpj": "6788658000196",
+    "nome_fundador": "Marcio de Sousa Paiva",
+    "email_fundador": "marcio.paiva@recourse.com.br",
     "areas": [
       {
         "id_area_atuacao": 11,
@@ -15207,6 +15747,9 @@
     "ano_venda": null,
     "descricao": "Clínica oftalmológica que oferece atendimento médico acolhedor, com qualidade técnica e preço acessível.",
     "vendida": "f",
+    "cnpj": "26751830000144",
+    "nome_fundador": "Matheus Ivan Schimitz Vieira",
+    "email_fundador": "matheusivan@gmail.com",
     "areas": [
       {
         "id_area_atuacao": 8,
@@ -15237,6 +15780,9 @@
     "ano_venda": null,
     "descricao": "A sociedade tem como objetivo desenvolvimento, produção e representação de Hws e Sws de autenticação e gestão eletronica de materiais e dados.\r\nProduto principal: Savetyre, sistema de gestão de pneus.",
     "vendida": "f",
+    "cnpj": "3809579000126",
+    "nome_fundador": "Jos├® Caruso Gomes",
+    "email_fundador": "gomes@saveway.com.br",
     "areas": [
       {
         "id_area_atuacao": 14,
@@ -15267,6 +15813,9 @@
     "ano_venda": null,
     "descricao": "Fundada em 2016, a Nuveto é representante da Five9 e da Calabrio no Brasil e administrada pela Pines, um grupo de investimento localizado em São Paulo que atualmente possui 29 clientes e distribui soluções renomadas de TI, como Oracle, Panaya, Snow, BioCatch e Darktrace.\r\n\r\nSeguindo uma filosofia de aprimoramento constante, a Nuveto busca se consolidar como a principal representante das soluções Five9 e Calabrio no Brasil e ser o parceiro de tecnologia escolhido pelas empresas que necessitem de uma Central de Atendimento na Nuvem completa, inteligente e confiável.\r\n\r\nPara mais informações, visite nosso site ou nos siga pelo Twitter:\r\n\r\nhttp://www.nuveto.com.br\r\nhttp://www.twitter.com/nuvetobr\r\n\r\nEspecializações\r\nCloud Contact Center, Speech Analytics, Dialer e Recorder",
     "vendida": "f",
+    "cnpj": "26957821000104",
+    "nome_fundador": "Antonio Ribeiro Neto",
+    "email_fundador": "aribeiro@nuveto.com.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -15439,6 +15988,9 @@
     "ano_venda": null,
     "descricao": "A ClassApp é uma empresa brasileira, referência nacional em comunicação escolar, que já exporta sua solução para países da América do Norte, Europa e Ásia. Fundada em 2014, por engenheiros da USP e da Unicamp, a ClassApp desenvolveu um aplicativo homônimo que conecta as Instituições de Ensino com os pais e os alunos de forma inteligente, simples e eficiente. Com ele, as escolas passam a ter o seu próprio sistema de comunicação privado, seguro e completamente gerenciável. Por meio de uma ferramenta multicanal - capaz, inclusive, de medir a visibilidade de comunicação, o ClassApp traz a praticidade da comunicação móvel para facilitar o acesso à rotina escolar e, assim, aproximar as Instituições de Ensino de alunos e famílias.",
     "vendida": "f",
+    "cnpj": "21560411000101",
+    "nome_fundador": "Victor da Silva Pedrazzi",
+    "email_fundador": "vspedrazzi@gmail.com",
     "areas": [
       {
         "id_area_atuacao": 12,
@@ -15559,6 +16111,9 @@
     "ano_venda": null,
     "descricao": "Criada em 1996, a SUPPORTE é uma empresa com ampla experiência no desenvolvimento e implantação de programas corporativos de Qualidade de Vida, Promoção da Saúde e Ergonomia. A atuação de nossas equipes interdisciplinares tem como foco a promoção da saúde, a prevenção de lesões ocupacionais e a redução do absenteísmo.",
     "vendida": "f",
+    "cnpj": "1326207000113",
+    "nome_fundador": "Valqu├¡ria Aparecida de Lima",
+    "email_fundador": "valquiria@supportesaude.com.br",
     "areas": [
       {
         "id_area_atuacao": 10,
@@ -15600,6 +16155,9 @@
     "ano_venda": null,
     "descricao": "A Libre Alimentos chega ao mercado para levar salgados e doces deliciosos mais próximo das pessoas, tudo livre de glúten e leite! Atualmente, esses snacks não são encontrados em lugares convencionais, como academias, lanchonetes, postos de gasolina, onde a grande maioria das famílias e grupos de amigos costumam visitar. Além disso, também vendemos para lojas especializadas e supermercados, levando praticidade e muito sabor pra perto das pessoas.",
     "vendida": "f",
+    "cnpj": "27068761000131",
+    "nome_fundador": "Calim├®rio de Carvalho",
+    "email_fundador": "calimerio09@gmail.com",
     "areas": [
       {
         "id_area_atuacao": 6,
@@ -15630,6 +16188,9 @@
     "ano_venda": null,
     "descricao": "A Elinke tem como visão inovar na aproximação entre clientes e empresas.\r\n\r\nNosso principal produto é uma solução de vídeo conferência pela web, sem instalação de nenhum aplicativo do lado do cliente.",
     "vendida": "f",
+    "cnpj": "24436569000162",
+    "nome_fundador": "Carlos Emir Mantovani Macedo",
+    "email_fundador": "carlos@elinke.com.br",
     "areas": [
       {
         "id_area_atuacao": 8,
@@ -15660,6 +16221,9 @@
     "ano_venda": null,
     "descricao": "Manipulaê é uma ferramenta online que conecta farmácias de manipulação aos clientes que desejam economizar enquanto compram produtos de alta qualidade com excelentes farmácias no Brasil.\r\n\r\nManipulaê foi idealizado e desenvolvido para melhorar e transformar a experiência de compra de produtos manipulados no Brasil.\r\n\r\nO Manipulaê é completamente grátis para seus usuários! Comece a utilizar o Manipulaê agora e deixe todo o trabalho para nós!",
     "vendida": "f",
+    "cnpj": "26255154100011",
+    "nome_fundador": "Thiago Colosio da Silva",
+    "email_fundador": "thiago@manipulae.com.br",
     "areas": [
       {
         "id_area_atuacao": 8,
@@ -15720,6 +16284,9 @@
     "ano_venda": null,
     "descricao": "Agencia de viagens online\r\n",
     "vendida": "f",
+    "cnpj": "97535686000157",
+    "nome_fundador": "Gustavo Costa Barbosa",
+    "email_fundador": "gustavo@viajarbarato.com.br",
     "areas": [
       {
         "id_area_atuacao": 8,
@@ -15750,6 +16317,9 @@
     "ano_venda": null,
     "descricao": "A TonetoLabs oferece dados e insights que marcas e varejistas precisam para planejar, executar e medir campanhas em supermercados.",
     "vendida": "f",
+    "cnpj": "25275530000173",
+    "nome_fundador": "Wilton Pinheiro de Lima Neto",
+    "email_fundador": "wilton.pinheiro@b2trip.com",
     "areas": [
       {
         "id_area_atuacao": 8,
@@ -15780,6 +16350,9 @@
     "ano_venda": null,
     "descricao": "A primeira grife e boutique de almofadas de decoração com ponto de venda exclusivo no Brasil e criada com o objetivo de ser Global (um espaço em branco em termos de marca, preço, posicionamento, serviços, sortimento e estratégia de e-commerce). Mais de 300 estampas, 24 tipos de tecidos em 22 linhas / sub-marcas inspiradas no poder transformador das cores, do toque (tecidos) e de novas histórias (públicos e ocasiões). Loja própria no Shopping Morumbi (Multiplan) e em processo de expansão física e virtual.",
     "vendida": "f",
+    "cnpj": "21985149000147",
+    "nome_fundador": "FABIO PREZOTO PRESTES",
+    "email_fundador": "prezoto.f@gmail.com",
     "areas": [
       {
         "id_area_atuacao": 8,
@@ -15810,6 +16383,9 @@
     "ano_venda": null,
     "descricao": "Empresa que comercializa Medicamentos Especiais (alto custo, biotecnologia) no mercado privado (pacientes, hospitais, clínicas, operadoras de saúde) e presta serviço para operadoras de saúde.\r\n",
     "vendida": "f",
+    "cnpj": "7015691000146",
+    "nome_fundador": "Andre Kina",
+    "email_fundador": "andre_kina@hotmail.com",
     "areas": [
       {
         "id_area_atuacao": 5,
@@ -15840,6 +16416,9 @@
     "ano_venda": null,
     "descricao": "A mobilidade urbana nas grandes cidades é um dos maiores desafios enfrentados na atualidade. O Fretadão foi criado para incentivar uma alternativa ainda pouco explorada de transporte coletivo, o fretamento executivo.\r\n\r\nTemos o objetivo de aproximar passageiros ou futuros passageiros dos seus fretados, proporcionando uma agradável experiência na busca pelo primeiro fretado e no uso diário dos serviços de fretamento. Além de facilitar a busca do fretado ideal, o Fretadão também auxilia empresas a reduzirem custos e melhorarem a qualidade de vida de seus funcionários, através do planejamento, implantação e gestão do transporte fretado.\r\n",
     "vendida": "f",
+    "cnpj": "24672366000175",
+    "nome_fundador": "Bruno Filipe Milar├® de Macedo",
+    "email_fundador": "bruno@fretadao.com.br",
     "areas": [
       {
         "id_area_atuacao": 8,
@@ -15870,6 +16449,9 @@
     "ano_venda": null,
     "descricao": "\"A TAO ESTRATÉGIA é uma empresa de Consultoria e Educação Executiva diferente.\r\nSomos um colegiado de talentos determinados a construir um mundo corporativo melhor.\r\nAcreditamos na combinação das mais avançadas técnicas de administração, com ideias inspiradas, diagnóstico preciso e aplicação prática, para resultados customizados, que otimizem a assertividade das decisões e a gestão dos recursos corporativos.\r\nTrabalhamos com consultores experientes e criativos, apaixonados pelo que fazem e com background diversificado. Desta forma, reunimos um conhecimento abrangente e significativo para construir soluções diferenciadas e duradouras para os mais diferentes tipos de clientes e problemas.\"",
     "vendida": "f",
+    "cnpj": "16994312000106",
+    "nome_fundador": "Cesar Nagano",
+    "email_fundador": "cesar@taoestrategia.com.br",
     "areas": [
       {
         "id_area_atuacao": 12,
@@ -15900,6 +16482,9 @@
     "ano_venda": null,
     "descricao": "A Datart realiza consultoria para empresas oferecendo soluções através da aplicação de Data Science e Machine Learning, fornecendo resultados interpretáveis, integração de soluções com baixo impacto de implantação e ideias que se transformam em ação.\r\n \r\nNosso time é formado por especialistas em Machine Learning, sendo um dos diferenciais, a utilização de técnicas de Deep Learning e estatística Bayesiana, que fornece resultados interpretáveis em problemas com incerteza.\r\n",
     "vendida": "f",
+    "cnpj": "27191994000127",
+    "nome_fundador": "Pedro Tabacof",
+    "email_fundador": "ptabacof@datart.com.br",
     "areas": [
       {
         "id_area_atuacao": 8,
@@ -15941,6 +16526,9 @@
     "ano_venda": null,
     "descricao": "\"A Vertigo tem o papel de apoiar seus clientes em sua jornada de transformação digital. Fundada em 1999, a Vertigo tem como característica estar sempre à frente de seus concorrentes em identificar e implantar soluções que se adequam às necessidades de seus clientes com o máximo retorno para o menor investimento possível.\r\n\r\nNos últimos anos o foco tecnológico da Vertigo tem sido prioritariamente na integração de sistemas corporativos, criação e gestão de APIs e containerização na nuvem. Isto nos permite atender tanto a clientes mais tradicionais, com datacenter próprio, quanto clientes com plataformas cloud-native.\"",
     "vendida": "f",
+    "cnpj": "3308401000100",
+    "nome_fundador": "Bruno Tardin Badini",
+    "email_fundador": "bruno@vertigo.com.br",
     "areas": [
       {
         "id_area_atuacao": 11,
@@ -15971,6 +16559,9 @@
     "ano_venda": null,
     "descricao": "Somos uma empresa de biotecnologia que desenvolve alimentos a partir da cultura Kefir.\r\nNosso primeiro produto é um suco probiótico, 100% natural, que contribui para a saúde da flora intestinal. \r\nSomos apaixonados por inovação e pela possibilidade de ajudar a população brasileira a ter opções mais saudáveis de alimentos.",
     "vendida": "f",
+    "cnpj": "21177980000172",
+    "nome_fundador": "Andrezza C Prestes",
+    "email_fundador": "andrezza@qfir.com.br",
     "areas": [
       {
         "id_area_atuacao": 5,
@@ -16001,6 +16592,9 @@
     "ano_venda": null,
     "descricao": "Atuamos na área de engenharia elétrica realizando projetos, laudos e instalações de média e baixa tensão, sistemas de energia fotovoltaica, sistemas de proteção contra descargas atmosféricas e consultorias em eficiência energética.",
     "vendida": "f",
+    "cnpj": "18131792000107",
+    "nome_fundador": "Pedro Paulo Chaim Abud",
+    "email_fundador": "p.abud@oon-eng.com.br",
     "areas": [
       {
         "id_area_atuacao": 14,
@@ -16031,6 +16625,9 @@
     "ano_venda": null,
     "descricao": "\"Sobre A Safira Energia\r\nAtuando no mercado desde 2008, a Safira Energia é uma das principais comercializadoras e consultorias em análises, estratégias e soluções para o setor energético do Brasil. Sua Holding é composta por três empresas: Consultoria, Gestão e Comercialização, que entregam serviços para clientes atendidos tanto no mercado cativo como no mercado livre de energia, movimentando 900 MW médios. Agente autorizado pela Aneel (Agência Nacional de Energia Elétrica), associado à CCEE (Câmara de Comercialização de Energia Elétrica) e importante representante em ESCO (Empresa de serviços de Conservação de Energia), a Safira comercializa energia para grandes empresas na economia brasileira, como Braskem, Volkswagen, entre outras e é referência em estratégias e soluções energéticas para os mais variados mercados por combinar expertise, eficiência e confiança.\"",
     "vendida": "f",
+    "cnpj": "9495582000107",
+    "nome_fundador": "Mikio Kawai Junior",
+    "email_fundador": "mikio@gpsafira.com.br",
     "areas": [
       {
         "id_area_atuacao": 7,
@@ -16061,6 +16658,9 @@
     "ano_venda": null,
     "descricao": "Colégio de educação infantil e ensino fundamental ciclos 1 e 2 que atua através de metodologia inovadora e exclusiva denominada Pedagogia Vivencionista, onde o aluno decide temas de estudo, realiza empreendimentos e elabora projetos através de suas próprias escolhas e solução de problemas. A metodologia da escola já foi tema de mídia internacional sobre educação.\r\nA escola atua em São Paulo, na região da Vila Mariana atendendo público de alta renda.\r\nBuscamos investidores interessados no seguimento de educação básica.",
     "vendida": "f",
+    "cnpj": "5440459000120",
+    "nome_fundador": "Marcelo Alatzatianou Rodrigues",
+    "email_fundador": "marketing@escoladomax.com.br",
     "areas": [
       {
         "id_area_atuacao": 12,
@@ -16091,6 +16691,9 @@
     "ano_venda": null,
     "descricao": "Estúdio de arquitetura e design que explora tecnologias digitais na indústria criativa e na inovação da construção. \r\n\r\nA Protobox é um escritório de Arquitetura e Design que explora o uso de tecnologias digitais na Indústria Criativa e na inovação de construção. Nossa proposta envolve desmitificar o uso dessas tecnologias e aproximar as pessoas ao design e fabricação de suas ideias.\r\n\r\nUnindo a tecnologia industrial de ponta com práticas contemporâneas de projeto, a Protobox possui um time de especialistas da área com experiência prática e de pesquisa.\r\n\r\nCom base em tecnologias de Fabricação Digital e Modelagem Paramétrica, a equipe Protobox além de oferecer soluções em Arquitetura e Design, também realiza Consultoria e Workshops na área. \r\n\r\nProtobox is an Architecture and Design practice focusing on Digital Fabrication technologies, located in Campinas, SP, Brasil\r\n\r\nwww.facebook.com/protobox.br - instagram: @protobox.br",
     "vendida": "f",
+    "cnpj": "22419909000111",
+    "nome_fundador": "Renata La Rocca",
+    "email_fundador": "rlarocca@protobox.com.br",
     "areas": [
       {
         "id_area_atuacao": 8,
@@ -16121,6 +16724,9 @@
     "ano_venda": null,
     "descricao": "Metodologia de interação gestual visando o estímulo motor e cognitivo durante o processo de interação humano computador (IHC) de modo não convencional\r\n\r\nBIOXTHICA@GMAIL.COM",
     "vendida": "f",
+    "cnpj": "24332798000137",
+    "nome_fundador": "Alexandre Fonseca Brand├úo",
+    "email_fundador": "abrandao@ifi.unicamp.br",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -16162,6 +16768,9 @@
     "ano_venda": null,
     "descricao": "Fabricacao de Produtos Quimicos para a indústria de petroleo.",
     "vendida": "f",
+    "cnpj": "16906532000122",
+    "nome_fundador": "Josilene Pitta Mary Metello Neves",
+    "email_fundador": "josi@primaquimica.com",
     "areas": [
       {
         "id_area_atuacao": 8,
@@ -16192,6 +16801,9 @@
     "ano_venda": null,
     "descricao": "A Immunogenic Assessoria e Diagnóstico atualmente trabalha em parceria com o Laboratório de Imunologia Humana do Instituto de Ciências Biomédicas da USP. Prestamos serviços de diagnóstico para detecção de algumas das principais imunodeficiências congênitas (IDCs) para grandes laboratórios e hospitais de todo Brasil, incluindo instituições públicas.\r\n\r\nA Immunogenic dedica-se à pesquisa e inovação em diagnósticos nas áreas de Imunologia Clínica, Alergologia e Genética,  é referência em diagnóstico de doenças raras como SCIDs, Agamaglobulinemia, Síndrome de Hiper IgM, Doença Granulomatosa Crônica, entre outras.",
     "vendida": "f",
+    "cnpj": "23486712000168",
+    "nome_fundador": "Edgar Borges de Oliveira Junior",
+    "email_fundador": "edgar.biologo.net@gmail.com",
     "areas": [
       {
         "id_area_atuacao": 5,
@@ -16222,6 +16834,9 @@
     "ano_venda": null,
     "descricao": "A Cred.Fit é uma plataforma online que atua como correspondente bancário para facilitar o processo de contratação de financiamentos e consórcios. ",
     "vendida": "f",
+    "cnpj": "23372546000179",
+    "nome_fundador": "Tiago Takamoto",
+    "email_fundador": "tiagotakamoto@cred.fit",
     "areas": [
       {
         "id_area_atuacao": 8,
@@ -16617,6 +17232,9 @@
     "ano_venda": null,
     "descricao": "Consultoria e serviços em atividades de semicondutores",
     "vendida": "f",
+    "cnpj": "17837181000108",
+    "nome_fundador": "Jacobus willibrordus swart",
+    "email_fundador": "jacobus.swart@gmail.com",
     "areas": [
       {
         "id_area_atuacao": 1,
@@ -16956,6 +17574,9 @@
     "ano_venda": null,
     "descricao": "Somos uma empresa que realiza Consultoria & Projetos na área de Engenharia e Segurança do Trabalho abrangendo proteção de máquinas e equipamentos, adequações normativas e implementação de programas e projetos seguros.",
     "vendida": "f",
+    "cnpj": "26273765000199",
+    "nome_fundador": "Thiago Nogueira Tavares",
+    "email_fundador": "thiago@00seg.com.br",
     "areas": [
       {
         "id_area_atuacao": 14,
@@ -16986,6 +17607,9 @@
     "ano_venda": null,
     "descricao": "MISSÃO: Nossa missão é expandir as fronteiras da psicologia, facilitando o encontro ético entre psicólogos e pacientes. Viabilizar a parte significativa da sociedade o acesso a psicologia de alta tecnologia e qualidade. Junto da psicologia, a ciência e tecnologia nos propomos a mediar esse encontro, de modo inovador, criativo e construtivo.  Com foco em  um futuro melhor a todos os colaboradores.\r\n\r\nVISÃO: Sermos reconhecidos como a empresa que mais contribui para o mundo da psicologia na internet, Queremos ser o ambiente onde todos se encontram. Nossa missão é nos tornarmos referencia no pais na junção da psicologia com a tecnologia.",
     "vendida": "f",
+    "cnpj": "19958088000187",
+    "nome_fundador": "David Reichhardt",
+    "email_fundador": "davidreic@gmail.com",
     "areas": [
       {
         "id_area_atuacao": 8,
@@ -17016,6 +17640,9 @@
     "ano_venda": null,
     "descricao": "Ferramentas tecnológicas para gestão de eventos (convites, segurança, controle, meio de pagamento...)",
     "vendida": "f",
+    "cnpj": "19856615000142",
+    "nome_fundador": "Fernando Engelmann Moraes Dias",
+    "email_fundador": "fmoraesdias@gmail.com",
     "areas": [
       {
         "id_area_atuacao": 8,
@@ -17046,6 +17673,9 @@
     "ano_venda": null,
     "descricao": "Automação Residencial/Corporativa/Predial",
     "vendida": "f",
+    "cnpj": "21211977000128",
+    "nome_fundador": "Fernando Abe",
+    "email_fundador": "fernando.abe@avaut.com.br",
     "areas": [
       {
         "id_area_atuacao": 14,
@@ -17076,6 +17706,9 @@
     "ano_venda": null,
     "descricao": "A Plan2U é uma consultoria em gestão para empreendedores que oferece serviços personalizados para seus clientes, voltados para área comercial e estratégica.​\r\n\r\nA Plan2U não visa simplesmente estruturar os métodos e processos para seus clientes, e sim ensiná-los para que assim possam ter um maior controle e autonomia no desenvolvimento de suas empresas.\r\n\r\nMissão\r\nProporcionar soluções que visam melhorias de resultados e sucesso profissional para empreendedores.​\r\n\r\nValores\r\nÉtica\r\nQualidade\r\nComprometimento\r\nPontualidade",
     "vendida": "f",
+    "cnpj": "24366508000176",
+    "nome_fundador": "Luciana Souza",
+    "email_fundador": "lsouza@plan2u.com.br",
     "areas": [
       {
         "id_area_atuacao": 11,

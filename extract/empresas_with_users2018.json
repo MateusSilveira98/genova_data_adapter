@@ -581,13 +581,6 @@
     "email_fundador": "paola@pazzar.com.br"
   },
   {
-    "razao_social": "EDTI Treinamento e Melhoria de Processos LTDA",
-    "nome_fantasia": "Escola EDTI",
-    "cnpj": "14718560000190",
-    "nome_fundador": "Marcelo Meireles Petenate",
-    "email_fundador": "marcelo@edti.com.br"
-  },
-  {
     "razao_social": "Chuva Inc.",
     "nome_fantasia": "Chuva Inc.",
     "cnpj": "9474605000199",
@@ -813,7 +806,7 @@
   },
   {
     "razao_social": "AgroinfoTecnologia da Informa├º├úo Ltda-Me",
-    "nome_fantasia": "Agroinfo  TI",
+    "nome_fantasia": "Agroinfo TI",
     "cnpj": "9521391000164",
     "nome_fundador": "Marcelo Gomes Ferreira Lima",
     "email_fundador": "marcelo.lima@agroinfoti.com.br"
@@ -829,7 +822,7 @@
     "razao_social": "Burst Publicidade Ltda - Me",
     "nome_fantasia": "Burst",
     "cnpj": "18023924000179",
-    "nome_fundador": "Mauricio Campitelli Conti,",
+    "nome_fundador": "Mauricio Campitelli Conti",
     "email_fundador": "mauricio@burst.com.br"
   },
   {
@@ -1260,13 +1253,6 @@
     "email_fundador": "sidneyvolk@yahoo.com.br"
   },
   {
-    "razao_social": "Noviga Partner",
-    "nome_fantasia": "Noviga Partner",
-    "cnpj": "27348381000150",
-    "nome_fundador": "Maria Cristina C. Nucci Mascarenhas",
-    "email_fundador": "crisnuccimasca@uol.com.br"
-  },
-  {
     "razao_social": "Neuron Servi├ºos M├®dicos e Reabilita├º├úo S/S LTDA",
     "nome_fantasia": "Instituto Neuron",
     "cnpj": "19914652000160",
@@ -1456,25 +1442,11 @@
     "email_fundador": "tiagotakamoto@cred.fit"
   },
   {
-    "razao_social": "PI-TECNOLOGIA LTDA",
-    "nome_fantasia": "PITEC",
-    "cnpj": "28176375000126",
-    "nome_fundador": "J├║lio C├®sar Rodirgues Fernandes de Oliveira",
-    "email_fundador": "julio@pitec.co"
-  },
-  {
     "razao_social": "JW SWART Inova├º├úo em Semicondutores",
     "nome_fantasia": "JW SWART Inova├º├úo em Semicondutores",
     "cnpj": "17837181000108",
     "nome_fundador": "Jacobus willibrordus swart",
     "email_fundador": "jacobus.swart@gmail.com"
-  },
-  {
-    "razao_social": "IAGRO TECNOLOGIA E INOVA├ç├âO NA AGRICULTURA LTDA.",
-    "nome_fantasia": "IAgro Intelig├¬ncia no Agroneg├│cio",
-    "cnpj": "30435946000141",
-    "nome_fundador": "Andrei Grespan",
-    "email_fundador": "andreigrespan2@gmail.com"
   },
   {
     "razao_social": "00Seg Seguran├ºa do Trabalho LTDA - ME",
